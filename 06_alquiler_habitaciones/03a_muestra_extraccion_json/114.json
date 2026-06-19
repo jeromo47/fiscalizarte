@@ -1,0 +1,214 @@
+{
+  "id": "114",
+  "titulo": "#Clase 12: Otros gastos deducibles en el RCI",
+  "url": "https://fiscalizarte.substack.com/p/clase-12-otros-gastos-deducibles",
+  "fecha": "2025-06-01T07:50:06.024Z",
+  "grupo_depurado": "A_NUCLEO_DIRECTO",
+  "tesis_principal": "Además de intereses, amortización y reparaciones, existen otros gastos corrientes deducibles en IRPF por alquiler que deben declararse correctamente siempre que sean necesarios para obtener el ingreso y estén bien justificados.",
+  "ideas_aplicables": [
+    {
+      "punto_extraido": "Son deducibles los gastos corrientes del ejercicio vinculados al inmueble y necesarios para obtener el ingreso.",
+      "aplicacion_a_mi_caso": "No metas solo hipoteca y amortización. Revisa todo el perímetro de gastos del alquiler por habitaciones: IBI, basuras, seguros, comunidad, suministros, gestoría, defensa jurídica y terceros.",
+      "tipo": "Fiscal",
+      "riesgo": "Medio",
+      "confianza": "Alta",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Facturas",
+        "Recibos",
+        "Contratos de servicios",
+        "Justificantes bancarios"
+      ],
+      "accion_recomendada": "Crear checklist anual de gastos deducibles ordinarios."
+    },
+    {
+      "punto_extraido": "IBI, tasa de basuras y otros tributos locales/autonómicos son deducibles; multas y sanciones no.",
+      "aplicacion_a_mi_caso": "Separa en tu archivo fiscal lo deducible tributario de recargos, sanciones o conceptos no admitidos.",
+      "tipo": "Fiscal",
+      "riesgo": "Medio",
+      "confianza": "Alta",
+      "validar_con_asesor": false,
+      "documentacion_recomendada": [
+        "Recibo IBI",
+        "Tasas locales",
+        "Detalle de recargos/intereses si existen"
+      ],
+      "accion_recomendada": "No mezclar sanciones con tributos deducibles."
+    },
+    {
+      "punto_extraido": "Los saldos de dudoso cobro pueden deducirse cuando han pasado seis meses desde la primera gestión de cobro, según explica el post.",
+      "aplicacion_a_mi_caso": "Si un inquilino de habitación impaga, documenta de inmediato la primera reclamación y guarda trazabilidad del impago para poder analizar la deducción.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Reclamación inicial",
+        "Burofax/correos",
+        "Seguro de impago si existe",
+        "Extractos sin cobro"
+      ],
+      "accion_recomendada": "Activar protocolo documental desde el primer impago."
+    },
+    {
+      "punto_extraido": "Son deducibles las primas de seguros vinculadas al alquiler, incluido el seguro de impago, responsabilidad civil, incendio o robo.",
+      "aplicacion_a_mi_caso": "Si alquilas por habitaciones, conviene revisar si tienes póliza adecuada y conservar recibos anuales.",
+      "tipo": "Fiscal",
+      "riesgo": "Bajo",
+      "confianza": "Alta",
+      "validar_con_asesor": false,
+      "documentacion_recomendada": [
+        "Póliza",
+        "Recibo del seguro",
+        "Condiciones particulares"
+      ],
+      "accion_recomendada": "Añadir los seguros al expediente fiscal del inmueble."
+    },
+    {
+      "punto_extraido": "Los suministros pagados por el propietario y repercutidos al inquilino se declaran como ingreso y como gasto, con efecto neutro si cuadran.",
+      "aplicacion_a_mi_caso": "Muy relevante si cobras una cantidad fija por suministros en habitaciones.",
+      "tipo": "Fiscal",
+      "riesgo": "Medio",
+      "confianza": "Alta",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Contrato",
+        "Facturas",
+        "Cobros bancarios"
+      ],
+      "accion_recomendada": "Registrar por separado renta y suministros repercutidos."
+    },
+    {
+      "punto_extraido": "Solo puedes computar gastos anuales por el periodo en que el inmueble estuvo alquilado, según explica el post para ciertos gastos corrientes.",
+      "aplicacion_a_mi_caso": "Si el piso o alguna habitación no estuvo alquilada todo el año, revisa el prorrateo temporal que aplicas.",
+      "tipo": "Fiscal",
+      "riesgo": "Medio",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Calendario de ocupación",
+        "Contratos",
+        "Bajas y altas de inquilinos"
+      ],
+      "accion_recomendada": "Preparar calendario anual de ocupación y periodos arrendados."
+    },
+    {
+      "punto_extraido": "Puede haber otros gastos deducibles no cerrados en lista, pero deben ser necesarios para obtener el ingreso y estar debidamente justificados.",
+      "aplicacion_a_mi_caso": "Por ejemplo, gestor externo de habitaciones o servicios de apoyo al arrendamiento, solo si puedes justificar necesidad y factura.",
+      "tipo": "Documental",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Factura",
+        "Contrato de prestación",
+        "Explicación de necesidad"
+      ],
+      "accion_recomendada": "No deducir gastos atípicos sin expediente justificativo."
+    }
+  ],
+  "gastos_deducciones": [
+    {
+      "concepto": "IBI y tasas locales",
+      "criterio_del_post": "Deducibles como tributos no estatales/tasas; multas y sanciones no.",
+      "aplicacion_a_mi_caso": "Aplicable al inmueble alquilado por habitaciones.",
+      "prueba_necesaria": "Recibos y justificantes de pago.",
+      "riesgo_hacienda": "Bajo",
+      "verificar_fuente_oficial": false
+    },
+    {
+      "concepto": "Seguros",
+      "criterio_del_post": "Seguro de impago, RC, incendio, robo, etc. son deducibles si están vinculados al alquiler.",
+      "aplicacion_a_mi_caso": "Aplicable al inmueble y a su gestión arrendaticia.",
+      "prueba_necesaria": "Póliza y recibos.",
+      "riesgo_hacienda": "Bajo",
+      "verificar_fuente_oficial": false
+    },
+    {
+      "concepto": "Suministros repercutidos",
+      "criterio_del_post": "Ingreso y gasto cuando el propietario paga y repercute.",
+      "aplicacion_a_mi_caso": "Muy típico en habitaciones.",
+      "prueba_necesaria": "Contrato, facturas y cobros.",
+      "riesgo_hacienda": "Medio",
+      "verificar_fuente_oficial": true
+    },
+    {
+      "concepto": "Saldo de dudoso cobro",
+      "criterio_del_post": "Deducible tras seis meses desde primera gestión de cobro, según el post.",
+      "aplicacion_a_mi_caso": "Relevante si hay impago de una habitación.",
+      "prueba_necesaria": "Reclamaciones, extractos e historial de deuda.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    },
+    {
+      "concepto": "Gastos de terceros / gestión",
+      "criterio_del_post": "Cabe deducirlos si son necesarios para obtener ingresos y están facturados.",
+      "aplicacion_a_mi_caso": "Útil si delegas parte de la gestión del alquiler por habitaciones.",
+      "prueba_necesaria": "Factura, contrato y justificación de necesidad.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    }
+  ],
+  "contratos_clausulas": [
+    {
+      "idea": "Cláusula de repercusión de suministros con desglose claro.",
+      "uso": "Contrato",
+      "texto_orientativo": "Los suministros serán abonados por la propiedad y repercutidos al arrendatario conforme a ____.",
+      "riesgo": "Medio"
+    },
+    {
+      "idea": "Cláusula sobre obligación de pago puntual y canal de reclamación.",
+      "uso": "Contrato",
+      "texto_orientativo": "El impago de la renta o cantidades asimiladas facultará a la propiedad para reclamar formalmente las cantidades debidas por escrito.",
+      "riesgo": "Medio"
+    },
+    {
+      "idea": "Anexo de inventario y servicios incluidos.",
+      "uso": "Anexo",
+      "texto_orientativo": "Se adjunta relación de mobiliario y servicios incluidos en la renta o cantidades repercutidas.",
+      "riesgo": "Bajo"
+    }
+  ],
+  "documentacion_a_guardar": [
+    "IBI",
+    "tasas",
+    "pólizas de seguro",
+    "recibos bancarios",
+    "facturas de suministros",
+    "contratos de gestión",
+    "reclamaciones de impago",
+    "calendario de ocupación"
+  ],
+  "riesgos": {
+    "fiscal": [
+      "Deducir gastos no necesarios o sin factura",
+      "No declarar correctamente suministros repercutidos",
+      "Aplicar saldo dudoso cobro sin soporte suficiente"
+    ],
+    "contractual": [
+      "No dejar claros en contrato suministros y gastos repercutidos"
+    ],
+    "probatorio": [
+      "Falta de documentación de necesidad del gasto o del impago"
+    ],
+    "operativo": [
+      "No llevar control anual de gastos corrientes por inmueble y periodo alquilado"
+    ],
+    "interpretacion": [
+      "Pendiente validar en fuente oficial el criterio exacto sobre dudoso cobro y prorrateos aplicables a tu caso"
+    ]
+  },
+  "preguntas_para_asesor": [
+    "¿Qué gastos de terceros en alquiler por habitaciones consideras más defendibles?",
+    "¿Cómo documentar correctamente un saldo dudoso cobro en una habitación?",
+    "¿Qué prorrateo temporal aplicar a gastos anuales cuando hay periodos vacíos?"
+  ],
+  "acciones_recomendadas": [
+    "Crear checklist fiscal de otros gastos deducibles",
+    "Separar sanciones de tributos deducibles",
+    "Protocolizar gestión documental del impago",
+    "Registrar suministros repercutidos como ingreso y gasto"
+  ],
+  "nivel_utilidad_final": "Alta",
+  "observaciones": "Muy útil para completar el perímetro de gastos deducibles en tu alquiler por habitaciones. Varias piezas requieren soporte documental fuerte y validación práctica."
+}

@@ -1,0 +1,173 @@
+{
+  "id": "14",
+  "titulo": "#Clase 27: Declara tus pisos por habitaciones de esta forma y ahorra impuestos.",
+  "url": "https://fiscalizarte.substack.com/p/clase-27-declara-tus-pisos-por-habitaciones",
+  "fecha": "2026-03-20T17:17:55.328Z",
+  "grupo_depurado": "A_NUCLEO_DIRECTO",
+  "tesis_principal": "En alquiler por habitaciones no conviene declarar todo el piso como un único arrendamiento si cada habitación tiene contratos y casuísticas distintas. El post propone tratar cada contrato/habitación como un arrendamiento separado dentro de la misma referencia catastral para declarar ingresos, gastos y reducción con más precisión.",
+  "ideas_aplicables": [
+    {
+      "punto_extraido": "El alquiler por habitaciones exige individualizar la declaración por contrato/habitación cuando cada una tiene incidencias o condiciones distintas.",
+      "aplicacion_a_mi_caso": "Si alquilas por habitaciones, prepara un control por habitación con su contrato, ingresos, días ocupados, gastos imputables e incidencias. Evita declarar todo agregado sin desglose.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Alta",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Contrato individual por habitación",
+        "Cuadro resumen por habitación",
+        "Extractos bancarios por cobros",
+        "Justificación de días alquilados"
+      ],
+      "accion_recomendada": "Montar una hoja de control por habitación y usarla como base de la renta."
+    },
+    {
+      "punto_extraido": "Declarar todas las habitaciones conjuntamente puede provocar errores en la aplicación de la reducción cuando no todas cumplen el mismo requisito.",
+      "aplicacion_a_mi_caso": "Si alguna habitación se alquila por temporada, cambia de inquilino varias veces o no cumple el requisito de vivienda habitual, no des por hecho la reducción para todo el inmueble.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Alta",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Contrato firmado",
+        "Duración de cada contrato",
+        "Pruebas de uso como vivienda habitual o no",
+        "Histórico de rotación de inquilinos"
+      ],
+      "accion_recomendada": "Revisar habitación por habitación si la reducción es defendible o no."
+    },
+    {
+      "punto_extraido": "El programa de renta trabaja sobre cada referencia catastral, pero admite varios arrendamientos sobre una misma referencia.",
+      "aplicacion_a_mi_caso": "No necesitas inventar inmuebles distintos. Debes colgar varios arrendamientos de la misma referencia catastral cuando haya varios contratos de habitación.",
+      "tipo": "Operativo",
+      "riesgo": "Medio",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Referencia catastral del inmueble",
+        "Relación de contratos asociados a la referencia"
+      ],
+      "accion_recomendada": "Preparar un esquema de Renta Web con una referencia catastral y varios arrendamientos."
+    },
+    {
+      "punto_extraido": "Los suministros repercutidos al inquilino deben aparecer tanto en ingresos como en gastos si los paga el propietario a la compañía.",
+      "aplicacion_a_mi_caso": "Si cobras una cantidad fija o variable por luz, agua o internet en habitaciones, no la omitas: entra como ingreso y como gasto, con efecto neutro si cuadra.",
+      "tipo": "Fiscal",
+      "riesgo": "Medio",
+      "confianza": "Alta",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Cláusula contractual sobre suministros",
+        "Facturas de suministros",
+        "Justificante de cobro al inquilino"
+      ],
+      "accion_recomendada": "Separar en tu control anual renta base y gastos repercutidos."
+    },
+    {
+      "punto_extraido": "Hacienda puede pedir contratos, extractos, facturas, IBI, comunidad y toda la documentación justificativa en una comprobación.",
+      "aplicacion_a_mi_caso": "Debes organizar un expediente probatorio completo por inmueble y, mejor aún, por habitación/contrato.",
+      "tipo": "Documental",
+      "riesgo": "Alto",
+      "confianza": "Alta",
+      "validar_con_asesor": false,
+      "documentacion_recomendada": [
+        "Contratos",
+        "DNI/NIE de inquilinos",
+        "Transferencias",
+        "Facturas",
+        "IBI",
+        "Comunidad",
+        "Recibos de seguros",
+        "Inventario si aplica"
+      ],
+      "accion_recomendada": "Crear carpeta documental anual por inmueble y subcarpetas por habitación."
+    }
+  ],
+  "gastos_deducciones": [
+    {
+      "concepto": "Suministros repercutidos",
+      "criterio_del_post": "Si los paga el propietario y luego los repercute al inquilino, deben declararse como ingreso y como gasto.",
+      "aplicacion_a_mi_caso": "Relevante si en alquiler por habitaciones cobras suplemento o provisión por suministros.",
+      "prueba_necesaria": "Contrato, facturas y cobros bancarios.",
+      "riesgo_hacienda": "Medio",
+      "verificar_fuente_oficial": true
+    },
+    {
+      "concepto": "IBI y comunidad prorrateados",
+      "criterio_del_post": "Deben imputarse como gastos del arrendamiento y el ejemplo los reparte entre habitaciones.",
+      "aplicacion_a_mi_caso": "Necesitas un criterio interno consistente y documentado para repartir gastos comunes entre habitaciones.",
+      "prueba_necesaria": "Recibo IBI, recibos comunidad y cuadro de prorrateo.",
+      "riesgo_hacienda": "Medio",
+      "verificar_fuente_oficial": true
+    },
+    {
+      "concepto": "Reducción por vivienda habitual",
+      "criterio_del_post": "No debe aplicarse automáticamente a todas las habitaciones si no todas cumplen la casuística adecuada.",
+      "aplicacion_a_mi_caso": "Hay que revisar contrato a contrato si puede defenderse la reducción.",
+      "prueba_necesaria": "Contrato, duración, finalidad de uso y prueba de residencia/uso habitual del inquilino.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    }
+  ],
+  "contratos_clausulas": [
+    {
+      "idea": "Contrato individual por habitación con identificación separada de renta, duración y gastos repercutidos.",
+      "uso": "Contrato",
+      "texto_orientativo": "La parte arrendataria arrienda exclusivamente la habitación identificada como ____. La renta mensual asciende a ____ euros y los suministros se repercuten en la forma siguiente: ____.",
+      "riesgo": "Medio"
+    },
+    {
+      "idea": "Cláusula que distinga si el arrendamiento se destina o no a vivienda habitual del ocupante.",
+      "uso": "Contrato",
+      "texto_orientativo": "La parte arrendataria declara que el destino del arrendamiento es ____ y que la habitación será usada como ____.",
+      "riesgo": "Alto"
+    },
+    {
+      "idea": "Anexo de liquidación o reparto de suministros.",
+      "uso": "Anexo",
+      "texto_orientativo": "Las partes acuerdan que los suministros se repercutirán según el siguiente criterio: ____ y quedarán justificados mediante facturas y liquidación periódica.",
+      "riesgo": "Medio"
+    }
+  ],
+  "documentacion_a_guardar": [
+    "Contrato por habitación",
+    "NIF/NIE del inquilino",
+    "Extractos bancarios",
+    "Facturas de suministros",
+    "Recibo IBI",
+    "Recibos comunidad",
+    "Criterio de reparto entre habitaciones",
+    "Histórico de ocupación por días"
+  ],
+  "riesgos": {
+    "fiscal": [
+      "Aplicar reducción indebidamente a todo el inmueble",
+      "Agregar ingresos y gastos de habitaciones con casuísticas distintas"
+    ],
+    "contractual": [
+      "No reflejar bien en contrato el destino del arrendamiento y los suministros"
+    ],
+    "probatorio": [
+      "No poder demostrar habitación por habitación qué se cobró y qué gasto corresponde"
+    ],
+    "operativo": [
+      "Llevar un control manual confuso con múltiples entradas y salidas de inquilinos"
+    ],
+    "interpretacion": [
+      "Pendiente de validación el encaje exacto de la reducción por habitación según caso y criterio aplicable"
+    ]
+  },
+  "preguntas_para_asesor": [
+    "¿Conviene declarar cada habitación como arrendamiento separado dentro de la misma referencia catastral en mi caso concreto?",
+    "¿Qué prueba mínima exige la reducción por vivienda habitual cuando se alquila por habitaciones?",
+    "¿Qué criterio de reparto de IBI, comunidad y suministros es más defendible?"
+  ],
+  "acciones_recomendadas": [
+    "Montar hoja de cálculo por habitación",
+    "Diseñar contrato y anexo de suministros",
+    "Preparar carpeta probatoria por contrato",
+    "Validar con asesor la reducción habitación a habitación"
+  ],
+  "nivel_utilidad_final": "Alta",
+  "observaciones": "Muy útil para tu caso porque trata directamente la declaración de alquiler por habitaciones, pero varias implicaciones prácticas y de reducción deben validarse con criterio fiscal actualizado."
+}

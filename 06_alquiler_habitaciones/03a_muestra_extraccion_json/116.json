@@ -1,0 +1,165 @@
+{
+  "id": "116",
+  "titulo": "#Clase 11: Los gastos de reparación y conservación",
+  "url": "https://fiscalizarte.substack.com/p/clase-11-los-gastos-de-reparacion",
+  "fecha": "2025-05-25T06:30:24.594Z",
+  "grupo_depurado": "A_NUCLEO_DIRECTO",
+  "tesis_principal": "Los gastos de reparación y conservación del inmueble alquilado son deducibles en IRPF, pero no deben confundirse con ampliaciones o mejoras, que tienen tratamiento fiscal distinto y normalmente van por amortización.",
+  "ideas_aplicables": [
+    {
+      "punto_extraido": "Los gastos destinados a mantener el uso normal del inmueble o sustituir elementos por otros equivalentes se tratan como reparación y conservación.",
+      "aplicacion_a_mi_caso": "Cuando arregles una habitación o zonas comunes del piso alquilado, clasifica si el gasto mantiene el uso normal o si mejora el inmueble.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Alta",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Factura detallada",
+        "Descripción técnica del trabajo",
+        "Fotos antes/después"
+      ],
+      "accion_recomendada": "Exigir facturas con concepto muy preciso para poder defender reparación frente a mejora."
+    },
+    {
+      "punto_extraido": "No debe mezclarse reparación/conservación con ampliación o mejora, porque el tratamiento fiscal es distinto.",
+      "aplicacion_a_mi_caso": "Si cambias calidades, amplías prestaciones o incrementas valor/vida útil, no lo trates como gasto directo sin revisarlo primero.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Alta",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Presupuesto",
+        "Factura",
+        "Memoria de obra o descripción del proveedor"
+      ],
+      "accion_recomendada": "Separar en tu contabilidad interna reparaciones corrientes de mejoras amortizables."
+    },
+    {
+      "punto_extraido": "Según el post, los gastos previos a la puesta en alquiler pueden ser deducibles si son necesarios para poner el inmueble en explotación, pero no si hubo uso propio intermedio relevante.",
+      "aplicacion_a_mi_caso": "Si preparas el piso antes de empezar a alquilar por habitaciones, documenta bien que esos trabajos fueron la puesta a punto previa al arrendamiento.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Fecha fin de obras",
+        "Fecha inicio alquiler",
+        "Contrato",
+        "Anuncios o gestión de comercialización"
+      ],
+      "accion_recomendada": "Evitar meter como deducible una obra antigua si el piso estuvo después en uso propio."
+    },
+    {
+      "punto_extraido": "La factura debe identificar bien el inmueble alquilado; el post insiste en que conste la dirección para evitar problemas probatorios.",
+      "aplicacion_a_mi_caso": "Pide siempre al proveedor que la factura incluya la dirección exacta del piso alquilado por habitaciones.",
+      "tipo": "Documental",
+      "riesgo": "Medio",
+      "confianza": "Alta",
+      "validar_con_asesor": false,
+      "documentacion_recomendada": [
+        "Factura con dirección del inmueble",
+        "Justificante bancario"
+      ],
+      "accion_recomendada": "No aceptar facturas genéricas sin identificar el inmueble."
+    },
+    {
+      "punto_extraido": "El post explica que estos gastos tienen un límite de compensación conjunto con intereses/gastos de financiación según su tratamiento en renta, quedando remanentes para ejercicios siguientes.",
+      "aplicacion_a_mi_caso": "No des por hecho que todo gasto de reparación te reducirá el IRPF en el mismo año; puede haber arrastre pendiente.",
+      "tipo": "Fiscal",
+      "riesgo": "Medio",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Control anual de gastos pendientes",
+        "Borradores de renta previos"
+      ],
+      "accion_recomendada": "Llevar una tabla de remanentes por ejercicios para no perder deducciones."
+    }
+  ],
+  "gastos_deducciones": [
+    {
+      "concepto": "Reparación y conservación",
+      "criterio_del_post": "Deducible si mantiene uso normal o sustituye elementos sin mejorar el inmueble.",
+      "aplicacion_a_mi_caso": "Averías, pintura, sustitución de elementos en habitaciones o zonas comunes, si no suponen mejora.",
+      "prueba_necesaria": "Factura detallada y justificación del trabajo.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    },
+    {
+      "concepto": "Ampliación o mejora",
+      "criterio_del_post": "No sigue el mismo tratamiento; se recupera vía amortización según explica el post.",
+      "aplicacion_a_mi_caso": "Relevante si rehabilitas o aumentas valor/calidad del piso para alquilar mejor.",
+      "prueba_necesaria": "Presupuestos y descripción técnica.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    },
+    {
+      "concepto": "Gasto previo a puesta en alquiler",
+      "criterio_del_post": "Puede admitirse si es para poner en alquiler el inmueble y está bien conectado temporalmente.",
+      "aplicacion_a_mi_caso": "Útil antes de iniciar el alquiler por habitaciones.",
+      "prueba_necesaria": "Cronología documental de obra y arrendamiento.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    }
+  ],
+  "contratos_clausulas": [
+    {
+      "idea": "Anexo de inventario y estado inicial para reforzar qué se repara luego por desgaste y qué se entrega inicialmente.",
+      "uso": "Anexo",
+      "texto_orientativo": "Se adjunta inventario y estado inicial de habitación, mobiliario y zonas comunes a la fecha de entrega.",
+      "riesgo": "Bajo"
+    },
+    {
+      "idea": "Cláusula de comunicación de averías.",
+      "uso": "Contrato",
+      "texto_orientativo": "La parte arrendataria comunicará sin demora cualquier avería o deterioro que afecte a la habitación o a las zonas comunes.",
+      "riesgo": "Bajo"
+    },
+    {
+      "idea": "Norma de uso y conservación.",
+      "uso": "Norma convivencia",
+      "texto_orientativo": "El ocupante se compromete a un uso diligente del mobiliario, electrodomésticos y elementos comunes, comunicando cualquier incidencia.",
+      "riesgo": "Bajo"
+    }
+  ],
+  "documentacion_a_guardar": [
+    "Facturas con dirección",
+    "Fotos antes/después",
+    "Cronología de obras",
+    "Presupuestos",
+    "Inventario inicial",
+    "Comunicaciones de averías",
+    "Tabla de gastos pendientes si no se absorben"
+  ],
+  "riesgos": {
+    "fiscal": [
+      "Que Hacienda reclasifique como mejora un gasto declarado como reparación",
+      "Perder deducción por falta de conexión temporal con el alquiler"
+    ],
+    "contractual": [
+      "No documentar el estado inicial de habitación y mobiliario"
+    ],
+    "probatorio": [
+      "Factura sin dirección o concepto impreciso"
+    ],
+    "operativo": [
+      "No separar incidencias ordinarias de reformas estructurales"
+    ],
+    "interpretacion": [
+      "Pendiente de validación el encaje exacto de algunos trabajos frontera entre reparación y mejora"
+    ]
+  },
+  "preguntas_para_asesor": [
+    "¿Qué actuaciones concretas de mi piso considerarías mejora y no reparación?",
+    "¿Cómo documentar mejor la puesta a punto previa al primer alquiler por habitaciones?",
+    "¿Cómo arrastrar correctamente gastos no absorbidos por el rendimiento del ejercicio?"
+  ],
+  "acciones_recomendadas": [
+    "Pedir facturas muy detalladas",
+    "Separar carpeta de reparaciones y carpeta de mejoras",
+    "Llevar cronología previa al arrendamiento",
+    "Documentar estado inicial de habitación y zonas comunes"
+  ],
+  "nivel_utilidad_final": "Alta",
+  "observaciones": "Post nuclear para distinguir reparación frente a mejora y para blindar la prueba documental."
+}
