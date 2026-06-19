@@ -1,0 +1,23 @@
+{
+  "id": "76",
+  "titulo": "… esto es lo que te estás perdiendo...",
+  "url": "https://fiscalizarte.substack.com/p/esto-es-lo-que-te-estas-perdiendo",
+  "fecha": "2025-08-31T07:55:00.694Z",
+  "grupo_depurado": "A_NUCLEO_DIRECTO",
+  "tesis_principal": "Extracción solo de puntos accionables y trazables del post para tu caso de alquiler por habitaciones en IRPF como persona física.",
+  "ideas_aplicables": [],
+  "gastos_deducciones": [],
+  "contratos_clausulas": [],
+  "documentacion_a_guardar": [],
+  "riesgos": {
+    "fiscal": [],
+    "contractual": [],
+    "probatorio": [],
+    "operativo": [],
+    "interpretacion": []
+  },
+  "preguntas_para_asesor": [],
+  "acciones_recomendadas": [],
+  "nivel_utilidad_final": "Baja",
+  "observaciones": "Extracción hecha solo sobre el texto existente del post. Sin rescrapeo. Los puntos discutibles quedan marcados para validación."
+}
