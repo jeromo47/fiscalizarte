@@ -1,0 +1,62 @@
+{
+  "id": "111",
+  "titulo": "🏘️ ¿Tienes pisos en alquiler y estás pensando en meterlos en una sociedad?",
+  "url": "https://fiscalizarte.substack.com/p/tienes-pisos-en-alquiler-y-estas",
+  "fecha": "2025-06-11T11:39:21.966Z",
+  "grupo_depurado": "B_BASE_FISCAL_UTIL",
+  "tesis_principal": "Extracción de criterios fiscales generales útiles y accionables para tu caso de alquiler por habitaciones como persona física.",
+  "ideas_aplicables": [
+    {
+      "punto_extraido": "El post aporta criterio sobre estructura fiscal, persona física o sociedad, que requiere validación caso por caso.",
+      "fragmento_soporte": "Imagina este escenario: Eres una persona física que tiene varias viviendas alquiladas, todo en tu nombre. Te planteas crear una sociedad y aportar esos inmuebles para gestionarlos desde a",
+      "aplicacion_a_mi_caso": "Aunque tu caso sea persona física, ayuda a no tomar decisiones de estructura por titulares.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Resumen ingresos/gastos",
+        "Escenario comparativo",
+        "Borrador renta"
+      ],
+      "accion_recomendada": "No cambiar estructura sin contraste numérico y asesoramiento.",
+      "pregunta_asesor": "¿Tiene sentido en mi caso seguir como persona física o valorar otra estructura sería innecesario?"
+    }
+  ],
+  "gastos_deducciones": [],
+  "contratos_clausulas": [
+    {
+      "idea": "No alterar estructura jurídica o fiscal sin que la operativa real lo justifique.",
+      "fragmento_soporte": "Imagina este escenario: Eres una persona física que tiene varias viviendas alquiladas, todo en tu nombre. Te planteas crear una sociedad y aportar esos inmuebles para gestionarlos desde a",
+      "uso": "Contrato",
+      "texto_orientativo": "Antes de cambiar estructura, revisar que titularidad, contratos y operativa real coincidan con el esquema fiscal elegido.",
+      "riesgo": "Alto"
+    }
+  ],
+  "documentacion_a_guardar": [
+    "Borrador renta",
+    "Escenario comparativo",
+    "Resumen ingresos/gastos"
+  ],
+  "riesgos": {
+    "fiscal": [
+      "El post aporta criterio sobre estructura fiscal, persona física o sociedad, que requiere validación caso por caso."
+    ],
+    "contractual": [
+      "Revisar que la forma contractual y la operativa real no contradigan el criterio fiscal que se quiera aplicar."
+    ],
+    "probatorio": [],
+    "operativo": [],
+    "interpretacion": [
+      "El post aporta criterio sobre estructura fiscal, persona física o sociedad, que requiere validación caso por caso."
+    ]
+  },
+  "preguntas_para_asesor": [
+    "¿Tiene sentido en mi caso seguir como persona física o valorar otra estructura sería innecesario?"
+  ],
+  "acciones_recomendadas": [
+    "No cambiar estructura sin contraste numérico y asesoramiento."
+  ],
+  "nivel_utilidad_final": "Baja",
+  "observaciones": "Extracción hecha solo con el texto ya existente del post, sin rescrapeo. Se incluyen solo ideas con soporte literal localizado."
+}

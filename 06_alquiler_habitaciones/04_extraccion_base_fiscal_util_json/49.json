@@ -1,0 +1,140 @@
+{
+  "id": "49",
+  "titulo": "Me casé, vendí mi casa… y Hacienda quiere venir a la luna de miel",
+  "url": "https://fiscalizarte.substack.com/p/me-case-vendi-mi-casa-y-hacienda",
+  "fecha": "2025-11-26T08:31:08.634Z",
+  "grupo_depurado": "B_BASE_FISCAL_UTIL",
+  "tesis_principal": "Extracción de criterios fiscales generales útiles y accionables para tu caso de alquiler por habitaciones como persona física.",
+  "ideas_aplicables": [
+    {
+      "punto_extraido": "El post aporta criterio sobre gastos deducibles o su defensa documental.",
+      "fragmento_soporte": "actual. 3) “¿Y la plusvalía municipal?” Otra trampa clásica. La plusvalía la paga el vendedor , y sí se puede deducir como gasto al calcular la ganancia patrimonial, pero solo cuando esté efectivamente pagada (no basta con que esté liquidada). Así que guard",
+      "aplicacion_a_mi_caso": "Te sirve para decidir qué gastos meter y cómo defenderlos.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Facturas",
+        "Justificantes bancarios",
+        "Explicación de vinculación"
+      ],
+      "accion_recomendada": "Revisar este criterio antes de incluir gastos discutibles.",
+      "pregunta_asesor": "¿Este criterio me permite deducir este tipo de gasto en mi caso o aumenta riesgo?"
+    },
+    {
+      "punto_extraido": "El post aporta criterio sobre reducción, vivienda habitual o límites para aplicarla.",
+      "fragmento_soporte": "otro día, en una sesión, una suscriptora me pregunta: “Manu, me casé en gananciales y voy a vender mi antigua vivienda habitual. ¿El dinero lo tengo que ingresar en una cuenta conjunta para usarlo en la hipoteca de nuestra casa actual? ¿O mejor en una cuenta solo mía",
+      "aplicacion_a_mi_caso": "Te sirve para detectar cuándo una reducción puede ser defendible y cuándo no.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Contrato",
+        "Prueba de uso/residencia",
+        "Histórico de inquilinos"
+      ],
+      "accion_recomendada": "Validar este criterio antes de aplicar una reducción en renta.",
+      "pregunta_asesor": "¿Puedo aplicar esta reducción en mi caso de alquiler por habitaciones o no es defendible?"
+    },
+    {
+      "punto_extraido": "El post exige soporte documental concreto para defender el criterio ante Hacienda.",
+      "fragmento_soporte": "ro de plusvalía reduce tu ganancia imponible . 4) Pequeños trucos que marcan la diferencia Recupera todas las facturas : notaría, registro, gestoría, agencia inmobiliaria, etc. Todo eso aumenta tu valor de adquisición y reduce la ganancia fiscal . Si el inm",
+      "aplicacion_a_mi_caso": "Sirve para blindar ingresos, gastos y criterios si Hacienda revisa.",
+      "tipo": "Documental",
+      "riesgo": "Medio",
+      "confianza": "Media",
+      "validar_con_asesor": false,
+      "documentacion_recomendada": [
+        "Facturas",
+        "Contratos",
+        "Extractos bancarios"
+      ],
+      "accion_recomendada": "Guardar soporte probatorio ligado a este criterio.",
+      "pregunta_asesor": "¿Qué documentación adicional conviene guardar para defender este punto?"
+    },
+    {
+      "punto_extraido": "El post aporta criterio sobre estructura fiscal, persona física o sociedad, que requiere validación caso por caso.",
+      "fragmento_soporte": "cuenta o en la conjunta. Si el piso se compró o se convirtió en bien ganancial , ese dinero ya pertenece a la sociedad conyugal . No hace falta hacer donaciones ni inventos para “pasarlo” al otro cónyuge. Lo importante no es quién aparece en la cuenta , sino",
+      "aplicacion_a_mi_caso": "Aunque tu caso sea persona física, ayuda a no tomar decisiones de estructura por titulares.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Resumen ingresos/gastos",
+        "Escenario comparativo",
+        "Borrador renta"
+      ],
+      "accion_recomendada": "No cambiar estructura sin contraste numérico y asesoramiento.",
+      "pregunta_asesor": "¿Tiene sentido en mi caso seguir como persona física o valorar otra estructura sería innecesario?"
+    }
+  ],
+  "gastos_deducciones": [
+    {
+      "concepto": "Gastos deducibles",
+      "fragmento_soporte": "actual. 3) “¿Y la plusvalía municipal?” Otra trampa clásica. La plusvalía la paga el vendedor , y sí se puede deducir como gasto al calcular la ganancia patrimonial, pero solo cuando esté efectivamente pagada (no basta con que esté liquidada). Así que guard",
+      "criterio_del_post": "El post contiene criterio útil sobre deducibilidad o su defensa.",
+      "aplicacion_a_mi_caso": "Útil para seleccionar gastos defendibles en tu alquiler.",
+      "prueba_necesaria": "Factura y justificante.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    }
+  ],
+  "contratos_clausulas": [
+    {
+      "idea": "No alterar estructura jurídica o fiscal sin que la operativa real lo justifique.",
+      "fragmento_soporte": "cuenta o en la conjunta. Si el piso se compró o se convirtió en bien ganancial , ese dinero ya pertenece a la sociedad conyugal . No hace falta hacer donaciones ni inventos para “pasarlo” al otro cónyuge. Lo importante no es quién aparece en la cuenta , sino",
+      "uso": "Contrato",
+      "texto_orientativo": "Antes de cambiar estructura, revisar que titularidad, contratos y operativa real coincidan con el esquema fiscal elegido.",
+      "riesgo": "Alto"
+    }
+  ],
+  "documentacion_a_guardar": [
+    "Borrador renta",
+    "Contrato",
+    "Contratos",
+    "Escenario comparativo",
+    "Explicación de vinculación",
+    "Extractos bancarios",
+    "Facturas",
+    "Histórico de inquilinos",
+    "Justificantes bancarios",
+    "Prueba de uso/residencia",
+    "Resumen ingresos/gastos"
+  ],
+  "riesgos": {
+    "fiscal": [
+      "El post aporta criterio sobre gastos deducibles o su defensa documental.",
+      "El post aporta criterio sobre reducción, vivienda habitual o límites para aplicarla.",
+      "El post aporta criterio sobre estructura fiscal, persona física o sociedad, que requiere validación caso por caso."
+    ],
+    "contractual": [
+      "Revisar que la forma contractual y la operativa real no contradigan el criterio fiscal que se quiera aplicar."
+    ],
+    "probatorio": [
+      "El post exige soporte documental concreto para defender el criterio ante Hacienda."
+    ],
+    "operativo": [],
+    "interpretacion": [
+      "El post aporta criterio sobre gastos deducibles o su defensa documental.",
+      "El post aporta criterio sobre reducción, vivienda habitual o límites para aplicarla.",
+      "El post aporta criterio sobre estructura fiscal, persona física o sociedad, que requiere validación caso por caso."
+    ]
+  },
+  "preguntas_para_asesor": [
+    "¿Este criterio me permite deducir este tipo de gasto en mi caso o aumenta riesgo?",
+    "¿Puedo aplicar esta reducción en mi caso de alquiler por habitaciones o no es defendible?",
+    "¿Qué documentación adicional conviene guardar para defender este punto?",
+    "¿Tiene sentido en mi caso seguir como persona física o valorar otra estructura sería innecesario?"
+  ],
+  "acciones_recomendadas": [
+    "Revisar este criterio antes de incluir gastos discutibles.",
+    "Validar este criterio antes de aplicar una reducción en renta.",
+    "Guardar soporte probatorio ligado a este criterio.",
+    "No cambiar estructura sin contraste numérico y asesoramiento."
+  ],
+  "nivel_utilidad_final": "Alta",
+  "observaciones": "Extracción hecha solo con el texto ya existente del post, sin rescrapeo. Se incluyen solo ideas con soporte literal localizado."
+}

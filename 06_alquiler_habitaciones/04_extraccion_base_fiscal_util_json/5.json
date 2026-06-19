@@ -1,0 +1,238 @@
+{
+  "id": "5",
+  "titulo": "#Clase 31: Cómo leer la contabilidad básica de una sociedad de capital aunque no seas contable.",
+  "url": "https://fiscalizarte.substack.com/p/clase-31-como-leer-la-contabilidad",
+  "fecha": "2026-05-04T06:10:29.531Z",
+  "grupo_depurado": "B_BASE_FISCAL_UTIL",
+  "tesis_principal": "Extracción de criterios fiscales generales útiles y accionables para tu caso de alquiler por habitaciones como persona física.",
+  "ideas_aplicables": [
+    {
+      "punto_extraido": "El post aporta criterio sobre gastos deducibles o su defensa documental.",
+      "fragmento_soporte": "es en el impuesto sobre sociedades. Sin embargo, los intereses de los préstamos bancarios sí que me los puedo deducir en el impuesto sobre sociedades. Entonces, le he estado trabajando, le he presentado un informe, nos hemos reunido varias veces y le estoy",
+      "aplicacion_a_mi_caso": "Te sirve para decidir qué gastos meter y cómo defenderlos.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Facturas",
+        "Justificantes bancarios",
+        "Explicación de vinculación"
+      ],
+      "accion_recomendada": "Revisar este criterio antes de incluir gastos discutibles.",
+      "pregunta_asesor": "¿Este criterio me permite deducir este tipo de gasto en mi caso o aumenta riesgo?"
+    },
+    {
+      "punto_extraido": "El post aporta criterio útil sobre amortización de inmueble, mobiliario o accesorios.",
+      "fragmento_soporte": "as. Memoria. Libro diario. Libro mayor. Activo. Pasivo. Patrimonio neto. Existencias. Inmovilizado. Reservas. Amortización. Todo les suena. Pero no lo entienden. Y aquí empieza el problema. Porque si tienes una sociedad y no entiendes mínimamente su contabilidad",
+      "aplicacion_a_mi_caso": "Puede ayudarte a no perder deducciones o a no aplicarlas mal.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Escritura/compra",
+        "IBI con valores",
+        "Facturas mobiliario"
+      ],
+      "accion_recomendada": "Preparar o revisar ficha de amortización si aplica.",
+      "pregunta_asesor": "¿Cómo debo aplicar esta amortización en mi caso concreto?"
+    },
+    {
+      "punto_extraido": "El post aporta criterio sobre reparación, conservación o mejora y su tratamiento fiscal.",
+      "fragmento_soporte": "scalidad y contabilidad volví a hacer un máster en fiscalidad internacional y luego durante el proceso de mi preparación en la oposición a la que aprobé Pues todo esto, eran materias de estudio, los aspectos contables. Y constantemente me estoy formando en con",
+      "aplicacion_a_mi_caso": "Útil para clasificar facturas de obra y evitar errores ante Hacienda.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Factura detallada",
+        "Presupuesto",
+        "Fotos antes/después"
+      ],
+      "accion_recomendada": "Clasificar la actuación antes de meterla en renta.",
+      "pregunta_asesor": "¿Esta actuación concreta encaja aquí o debería tener otro tratamiento fiscal?"
+    },
+    {
+      "punto_extraido": "El post aporta criterio sobre reducción, vivienda habitual o límites para aplicarla.",
+      "fragmento_soporte": "que cuando soy persona física, ¿no? El IBI, comunidad, reparaciones, todos esos gastos, ¿vale? Sin aplicar la reducción por bien habitual ¿Vale? Eso ya lo sabéis Para otro tipo de sociedades ¿Qué tipo de gastos? Suministros, reparaciones, salarios Si tengo pe",
+      "aplicacion_a_mi_caso": "Te sirve para detectar cuándo una reducción puede ser defendible y cuándo no.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Contrato",
+        "Prueba de uso/residencia",
+        "Histórico de inquilinos"
+      ],
+      "accion_recomendada": "Validar este criterio antes de aplicar una reducción en renta.",
+      "pregunta_asesor": "¿Puedo aplicar esta reducción en mi caso de alquiler por habitaciones o no es defendible?"
+    },
+    {
+      "punto_extraido": "El post exige soporte documental concreto para defender el criterio ante Hacienda.",
+      "fragmento_soporte": "Y verá que mes a mes va entrando 1.500 euros. Es decir, todo movimiento tiene que estar soportado por alguna factura, por algún documento, ¿vale? Me encuentro empresas que hacen operaciones que no están soportadas. Ahí tenemos un problema, si me viene una",
+      "aplicacion_a_mi_caso": "Sirve para blindar ingresos, gastos y criterios si Hacienda revisa.",
+      "tipo": "Documental",
+      "riesgo": "Medio",
+      "confianza": "Media",
+      "validar_con_asesor": false,
+      "documentacion_recomendada": [
+        "Facturas",
+        "Contratos",
+        "Extractos bancarios"
+      ],
+      "accion_recomendada": "Guardar soporte probatorio ligado a este criterio.",
+      "pregunta_asesor": "¿Qué documentación adicional conviene guardar para defender este punto?"
+    },
+    {
+      "punto_extraido": "El post aporta criterio sobre suministros, comunidad, IBI, seguros u otros gastos corrientes del inmueble.",
+      "fragmento_soporte": "icar la reducción por bien habitual ¿Vale? Eso ya lo sabéis Para otro tipo de sociedades ¿Qué tipo de gastos? Suministros, reparaciones, salarios Si tengo personas contratadas ¿Vale? En el que le pago 100.000 euros de salario al año Porque tengo dos personas Se",
+      "aplicacion_a_mi_caso": "Muy útil para alquiler por habitaciones, donde el reparto o repercusión suele generar dudas.",
+      "tipo": "Fiscal",
+      "riesgo": "Medio",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Recibo IBI",
+        "Recibos comunidad",
+        "Pólizas/recibos",
+        "Facturas suministros"
+      ],
+      "accion_recomendada": "Separar y archivar estos gastos con su criterio de imputación.",
+      "pregunta_asesor": "¿Qué criterio de imputación o prorrateo debo aplicar a estos gastos en mi caso?"
+    },
+    {
+      "punto_extraido": "El post aporta criterio sobre estructura fiscal, persona física o sociedad, que requiere validación caso por caso.",
+      "fragmento_soporte": "abitual de que se confunde la personalidad jurídica de la sociedad con la de los socios. Es decir, yo soy una persona física, a efectos tributarios, efectos fiscales, y si yo constituyo una sociedad, aunque sea yo solo, que sea 100% mía y opte por la forma jurídic",
+      "aplicacion_a_mi_caso": "Aunque tu caso sea persona física, ayuda a no tomar decisiones de estructura por titulares.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Resumen ingresos/gastos",
+        "Escenario comparativo",
+        "Borrador renta"
+      ],
+      "accion_recomendada": "No cambiar estructura sin contraste numérico y asesoramiento.",
+      "pregunta_asesor": "¿Tiene sentido en mi caso seguir como persona física o valorar otra estructura sería innecesario?"
+    }
+  ],
+  "gastos_deducciones": [
+    {
+      "concepto": "Gastos deducibles",
+      "fragmento_soporte": "es en el impuesto sobre sociedades. Sin embargo, los intereses de los préstamos bancarios sí que me los puedo deducir en el impuesto sobre sociedades. Entonces, le he estado trabajando, le he presentado un informe, nos hemos reunido varias veces y le estoy",
+      "criterio_del_post": "El post contiene criterio útil sobre deducibilidad o su defensa.",
+      "aplicacion_a_mi_caso": "Útil para seleccionar gastos defendibles en tu alquiler.",
+      "prueba_necesaria": "Factura y justificante.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    },
+    {
+      "concepto": "Amortización",
+      "fragmento_soporte": "as. Memoria. Libro diario. Libro mayor. Activo. Pasivo. Patrimonio neto. Existencias. Inmovilizado. Reservas. Amortización. Todo les suena. Pero no lo entienden. Y aquí empieza el problema. Porque si tienes una sociedad y no entiendes mínimamente su contabilidad",
+      "criterio_del_post": "El post aporta criterio sobre amortización.",
+      "aplicacion_a_mi_caso": "Útil para inmueble, mobiliario o accesorios si procede.",
+      "prueba_necesaria": "Base de cálculo y soporte documental.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    },
+    {
+      "concepto": "Reparación / mejora",
+      "fragmento_soporte": "scalidad y contabilidad volví a hacer un máster en fiscalidad internacional y luego durante el proceso de mi preparación en la oposición a la que aprobé Pues todo esto, eran materias de estudio, los aspectos contables. Y constantemente me estoy formando en con",
+      "criterio_del_post": "El post aporta criterio sobre clasificación fiscal de la actuación.",
+      "aplicacion_a_mi_caso": "Crítico en obras y arreglos del piso.",
+      "prueba_necesaria": "Factura detallada y soporte técnico.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    },
+    {
+      "concepto": "Gastos corrientes del inmueble",
+      "fragmento_soporte": "icar la reducción por bien habitual ¿Vale? Eso ya lo sabéis Para otro tipo de sociedades ¿Qué tipo de gastos? Suministros, reparaciones, salarios Si tengo personas contratadas ¿Vale? En el que le pago 100.000 euros de salario al año Porque tengo dos personas Se",
+      "criterio_del_post": "El post aporta criterio sobre gastos corrientes del inmueble.",
+      "aplicacion_a_mi_caso": "Relevante para el reparto y defensa de estos gastos.",
+      "prueba_necesaria": "Recibos y criterio de imputación.",
+      "riesgo_hacienda": "Medio",
+      "verificar_fuente_oficial": true
+    }
+  ],
+  "contratos_clausulas": [
+    {
+      "idea": "No alterar estructura jurídica o fiscal sin que la operativa real lo justifique.",
+      "fragmento_soporte": "abitual de que se confunde la personalidad jurídica de la sociedad con la de los socios. Es decir, yo soy una persona física, a efectos tributarios, efectos fiscales, y si yo constituyo una sociedad, aunque sea yo solo, que sea 100% mía y opte por la forma jurídic",
+      "uso": "Contrato",
+      "texto_orientativo": "Antes de cambiar estructura, revisar que titularidad, contratos y operativa real coincidan con el esquema fiscal elegido.",
+      "riesgo": "Alto"
+    }
+  ],
+  "documentacion_a_guardar": [
+    "Borrador renta",
+    "Contrato",
+    "Contratos",
+    "Escenario comparativo",
+    "Escritura/compra",
+    "Explicación de vinculación",
+    "Extractos bancarios",
+    "Factura detallada",
+    "Facturas",
+    "Facturas mobiliario",
+    "Facturas suministros",
+    "Fotos antes/después",
+    "Histórico de inquilinos",
+    "IBI con valores",
+    "Justificantes bancarios",
+    "Presupuesto",
+    "Prueba de uso/residencia",
+    "Pólizas/recibos",
+    "Recibo IBI",
+    "Recibos comunidad",
+    "Resumen ingresos/gastos"
+  ],
+  "riesgos": {
+    "fiscal": [
+      "El post aporta criterio sobre gastos deducibles o su defensa documental.",
+      "El post aporta criterio útil sobre amortización de inmueble, mobiliario o accesorios.",
+      "El post aporta criterio sobre reparación, conservación o mejora y su tratamiento fiscal.",
+      "El post aporta criterio sobre reducción, vivienda habitual o límites para aplicarla.",
+      "El post aporta criterio sobre suministros, comunidad, IBI, seguros u otros gastos corrientes del inmueble.",
+      "El post aporta criterio sobre estructura fiscal, persona física o sociedad, que requiere validación caso por caso."
+    ],
+    "contractual": [
+      "Revisar que la forma contractual y la operativa real no contradigan el criterio fiscal que se quiera aplicar."
+    ],
+    "probatorio": [
+      "El post exige soporte documental concreto para defender el criterio ante Hacienda."
+    ],
+    "operativo": [],
+    "interpretacion": [
+      "El post aporta criterio sobre gastos deducibles o su defensa documental.",
+      "El post aporta criterio útil sobre amortización de inmueble, mobiliario o accesorios.",
+      "El post aporta criterio sobre reparación, conservación o mejora y su tratamiento fiscal.",
+      "El post aporta criterio sobre reducción, vivienda habitual o límites para aplicarla.",
+      "El post aporta criterio sobre suministros, comunidad, IBI, seguros u otros gastos corrientes del inmueble.",
+      "El post aporta criterio sobre estructura fiscal, persona física o sociedad, que requiere validación caso por caso."
+    ]
+  },
+  "preguntas_para_asesor": [
+    "¿Este criterio me permite deducir este tipo de gasto en mi caso o aumenta riesgo?",
+    "¿Cómo debo aplicar esta amortización en mi caso concreto?",
+    "¿Esta actuación concreta encaja aquí o debería tener otro tratamiento fiscal?",
+    "¿Puedo aplicar esta reducción en mi caso de alquiler por habitaciones o no es defendible?",
+    "¿Qué documentación adicional conviene guardar para defender este punto?",
+    "¿Qué criterio de imputación o prorrateo debo aplicar a estos gastos en mi caso?",
+    "¿Tiene sentido en mi caso seguir como persona física o valorar otra estructura sería innecesario?"
+  ],
+  "acciones_recomendadas": [
+    "Revisar este criterio antes de incluir gastos discutibles.",
+    "Preparar o revisar ficha de amortización si aplica.",
+    "Clasificar la actuación antes de meterla en renta.",
+    "Validar este criterio antes de aplicar una reducción en renta.",
+    "Guardar soporte probatorio ligado a este criterio.",
+    "Separar y archivar estos gastos con su criterio de imputación.",
+    "No cambiar estructura sin contraste numérico y asesoramiento."
+  ],
+  "nivel_utilidad_final": "Alta",
+  "observaciones": "Extracción hecha solo con el texto ya existente del post, sin rescrapeo. Se incluyen solo ideas con soporte literal localizado."
+}

@@ -1,0 +1,182 @@
+{
+  "id": "66",
+  "titulo": "#Clase 19: Cálculo de Ganancias y Pérdidas Patrimoniales en IRPF",
+  "url": "https://fiscalizarte.substack.com/p/clase-19-calculo-de-ganancias-y-perdidas",
+  "fecha": "2025-09-28T08:53:52.043Z",
+  "grupo_depurado": "B_BASE_FISCAL_UTIL",
+  "tesis_principal": "Extracción de criterios fiscales generales útiles y accionables para tu caso de alquiler por habitaciones como persona física.",
+  "ideas_aplicables": [
+    {
+      "punto_extraido": "El post aporta criterio sobre gastos deducibles o su defensa documental.",
+      "fragmento_soporte": "era un gasto que salía... de mi cuenta bancaria de mi piso, sino que era un gasto ficticio, pero que me podía deducir por la simple depreciación de la construcción del inmueble, del piso. Pues aquí me pide la normativa que, ojo, todo lo que te ha ido amorti",
+      "aplicacion_a_mi_caso": "Te sirve para decidir qué gastos meter y cómo defenderlos.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Facturas",
+        "Justificantes bancarios",
+        "Explicación de vinculación"
+      ],
+      "accion_recomendada": "Revisar este criterio antes de incluir gastos discutibles.",
+      "pregunta_asesor": "¿Este criterio me permite deducir este tipo de gasto en mi caso o aumenta riesgo?"
+    },
+    {
+      "punto_extraido": "El post aporta criterio útil sobre amortización de inmueble, mobiliario o accesorios.",
+      "fragmento_soporte": "sido propietario de ese inmueble. todo esto se sumará y se le restará un concepto muy importante que son las amortizaciones deducibles. La amortización mínima del 3% del periodo en que estuvo alquilado. Ojo, esto que aparece aquí en pantalla puede ser que vosot",
+      "aplicacion_a_mi_caso": "Puede ayudarte a no perder deducciones o a no aplicarlas mal.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Escritura/compra",
+        "IBI con valores",
+        "Facturas mobiliario"
+      ],
+      "accion_recomendada": "Preparar o revisar ficha de amortización si aplica.",
+      "pregunta_asesor": "¿Cómo debo aplicar esta amortización en mi caso concreto?"
+    },
+    {
+      "punto_extraido": "El post aporta criterio sobre reparación, conservación o mejora y su tratamiento fiscal.",
+      "fragmento_soporte": "inversión y mejora, esto lo veremos en una clase siguiente, la diferencia entre inversión y mejora y gasto de reparación y conservación, ¿vale? Sobre todo para aquellos que os dedicáis al flipping inmobiliario, al house flipping, a la compra y reforma-venta, Y",
+      "aplicacion_a_mi_caso": "Útil para clasificar facturas de obra y evitar errores ante Hacienda.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Factura detallada",
+        "Presupuesto",
+        "Fotos antes/después"
+      ],
+      "accion_recomendada": "Clasificar la actuación antes de meterla en renta.",
+      "pregunta_asesor": "¿Esta actuación concreta encaja aquí o debería tener otro tratamiento fiscal?"
+    },
+    {
+      "punto_extraido": "El post exige soporte documental concreto para defender el criterio ante Hacienda.",
+      "fragmento_soporte": "la API, a la empresa inmobiliaria, que me ha facilitado esa oportunidad. Una comisión que se la he pagado con factura y la cual he soportado un IVA sobre esa factura. O, hoy en día es muy de moda, pagar a un personal shopper que me busca la oportunidad y es",
+      "aplicacion_a_mi_caso": "Sirve para blindar ingresos, gastos y criterios si Hacienda revisa.",
+      "tipo": "Documental",
+      "riesgo": "Medio",
+      "confianza": "Media",
+      "validar_con_asesor": false,
+      "documentacion_recomendada": [
+        "Facturas",
+        "Contratos",
+        "Extractos bancarios"
+      ],
+      "accion_recomendada": "Guardar soporte probatorio ligado a este criterio.",
+      "pregunta_asesor": "¿Qué documentación adicional conviene guardar para defender este punto?"
+    },
+    {
+      "punto_extraido": "El post aporta criterio sobre suministros, comunidad, IBI, seguros u otros gastos corrientes del inmueble.",
+      "fragmento_soporte": "i un valor a esa compra. Pero además, por ese precio de compra, por ese inmueble, yo pagué en su día gastos y tributos inherentes a esa adquisición. Pagué notaría, pagué el impuesto de transmisiones patrimoniales o el IVA, si fue una compra de obra nueva, un",
+      "aplicacion_a_mi_caso": "Muy útil para alquiler por habitaciones, donde el reparto o repercusión suele generar dudas.",
+      "tipo": "Fiscal",
+      "riesgo": "Medio",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Recibo IBI",
+        "Recibos comunidad",
+        "Pólizas/recibos",
+        "Facturas suministros"
+      ],
+      "accion_recomendada": "Separar y archivar estos gastos con su criterio de imputación.",
+      "pregunta_asesor": "¿Qué criterio de imputación o prorrateo debo aplicar a estos gastos en mi caso?"
+    }
+  ],
+  "gastos_deducciones": [
+    {
+      "concepto": "Gastos deducibles",
+      "fragmento_soporte": "era un gasto que salía... de mi cuenta bancaria de mi piso, sino que era un gasto ficticio, pero que me podía deducir por la simple depreciación de la construcción del inmueble, del piso. Pues aquí me pide la normativa que, ojo, todo lo que te ha ido amorti",
+      "criterio_del_post": "El post contiene criterio útil sobre deducibilidad o su defensa.",
+      "aplicacion_a_mi_caso": "Útil para seleccionar gastos defendibles en tu alquiler.",
+      "prueba_necesaria": "Factura y justificante.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    },
+    {
+      "concepto": "Amortización",
+      "fragmento_soporte": "sido propietario de ese inmueble. todo esto se sumará y se le restará un concepto muy importante que son las amortizaciones deducibles. La amortización mínima del 3% del periodo en que estuvo alquilado. Ojo, esto que aparece aquí en pantalla puede ser que vosot",
+      "criterio_del_post": "El post aporta criterio sobre amortización.",
+      "aplicacion_a_mi_caso": "Útil para inmueble, mobiliario o accesorios si procede.",
+      "prueba_necesaria": "Base de cálculo y soporte documental.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    },
+    {
+      "concepto": "Reparación / mejora",
+      "fragmento_soporte": "inversión y mejora, esto lo veremos en una clase siguiente, la diferencia entre inversión y mejora y gasto de reparación y conservación, ¿vale? Sobre todo para aquellos que os dedicáis al flipping inmobiliario, al house flipping, a la compra y reforma-venta, Y",
+      "criterio_del_post": "El post aporta criterio sobre clasificación fiscal de la actuación.",
+      "aplicacion_a_mi_caso": "Crítico en obras y arreglos del piso.",
+      "prueba_necesaria": "Factura detallada y soporte técnico.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    },
+    {
+      "concepto": "Gastos corrientes del inmueble",
+      "fragmento_soporte": "i un valor a esa compra. Pero además, por ese precio de compra, por ese inmueble, yo pagué en su día gastos y tributos inherentes a esa adquisición. Pagué notaría, pagué el impuesto de transmisiones patrimoniales o el IVA, si fue una compra de obra nueva, un",
+      "criterio_del_post": "El post aporta criterio sobre gastos corrientes del inmueble.",
+      "aplicacion_a_mi_caso": "Relevante para el reparto y defensa de estos gastos.",
+      "prueba_necesaria": "Recibos y criterio de imputación.",
+      "riesgo_hacienda": "Medio",
+      "verificar_fuente_oficial": true
+    }
+  ],
+  "contratos_clausulas": [],
+  "documentacion_a_guardar": [
+    "Contratos",
+    "Escritura/compra",
+    "Explicación de vinculación",
+    "Extractos bancarios",
+    "Factura detallada",
+    "Facturas",
+    "Facturas mobiliario",
+    "Facturas suministros",
+    "Fotos antes/después",
+    "IBI con valores",
+    "Justificantes bancarios",
+    "Presupuesto",
+    "Pólizas/recibos",
+    "Recibo IBI",
+    "Recibos comunidad"
+  ],
+  "riesgos": {
+    "fiscal": [
+      "El post aporta criterio sobre gastos deducibles o su defensa documental.",
+      "El post aporta criterio útil sobre amortización de inmueble, mobiliario o accesorios.",
+      "El post aporta criterio sobre reparación, conservación o mejora y su tratamiento fiscal.",
+      "El post aporta criterio sobre suministros, comunidad, IBI, seguros u otros gastos corrientes del inmueble."
+    ],
+    "contractual": [],
+    "probatorio": [
+      "El post exige soporte documental concreto para defender el criterio ante Hacienda."
+    ],
+    "operativo": [],
+    "interpretacion": [
+      "El post aporta criterio sobre gastos deducibles o su defensa documental.",
+      "El post aporta criterio útil sobre amortización de inmueble, mobiliario o accesorios.",
+      "El post aporta criterio sobre reparación, conservación o mejora y su tratamiento fiscal.",
+      "El post aporta criterio sobre suministros, comunidad, IBI, seguros u otros gastos corrientes del inmueble."
+    ]
+  },
+  "preguntas_para_asesor": [
+    "¿Este criterio me permite deducir este tipo de gasto en mi caso o aumenta riesgo?",
+    "¿Cómo debo aplicar esta amortización en mi caso concreto?",
+    "¿Esta actuación concreta encaja aquí o debería tener otro tratamiento fiscal?",
+    "¿Qué documentación adicional conviene guardar para defender este punto?",
+    "¿Qué criterio de imputación o prorrateo debo aplicar a estos gastos en mi caso?"
+  ],
+  "acciones_recomendadas": [
+    "Revisar este criterio antes de incluir gastos discutibles.",
+    "Preparar o revisar ficha de amortización si aplica.",
+    "Clasificar la actuación antes de meterla en renta.",
+    "Guardar soporte probatorio ligado a este criterio.",
+    "Separar y archivar estos gastos con su criterio de imputación."
+  ],
+  "nivel_utilidad_final": "Alta",
+  "observaciones": "Extracción hecha solo con el texto ya existente del post, sin rescrapeo. Se incluyen solo ideas con soporte literal localizado."
+}

@@ -1,0 +1,52 @@
+{
+  "id": "172",
+  "titulo": "Este inversor está jodido..",
+  "url": "https://fiscalizarte.substack.com/p/este-inversor-esta-jodido",
+  "fecha": "2025-01-30T11:46:42.272Z",
+  "grupo_depurado": "B_BASE_FISCAL_UTIL",
+  "tesis_principal": "Extracción de criterios fiscales generales útiles y accionables para tu caso de alquiler por habitaciones como persona física.",
+  "ideas_aplicables": [
+    {
+      "punto_extraido": "El post aporta criterio sobre reducción, vivienda habitual o límites para aplicarla.",
+      "fragmento_soporte": "opiedad. El importe obtenido en la venta ha sido reinvertido en la adquisición del 50 por ciento de una nueva vivienda habitual. La vivienda transmitida estuvo alquilada los años previos a su venta. Pero los inquilinos incurrieron en varios impagos durante la vigenci",
+      "aplicacion_a_mi_caso": "Te sirve para detectar cuándo una reducción puede ser defendible y cuándo no.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Contrato",
+        "Prueba de uso/residencia",
+        "Histórico de inquilinos"
+      ],
+      "accion_recomendada": "Validar este criterio antes de aplicar una reducción en renta.",
+      "pregunta_asesor": "¿Puedo aplicar esta reducción en mi caso de alquiler por habitaciones o no es defendible?"
+    }
+  ],
+  "gastos_deducciones": [],
+  "contratos_clausulas": [],
+  "documentacion_a_guardar": [
+    "Contrato",
+    "Histórico de inquilinos",
+    "Prueba de uso/residencia"
+  ],
+  "riesgos": {
+    "fiscal": [
+      "El post aporta criterio sobre reducción, vivienda habitual o límites para aplicarla."
+    ],
+    "contractual": [],
+    "probatorio": [],
+    "operativo": [],
+    "interpretacion": [
+      "El post aporta criterio sobre reducción, vivienda habitual o límites para aplicarla."
+    ]
+  },
+  "preguntas_para_asesor": [
+    "¿Puedo aplicar esta reducción en mi caso de alquiler por habitaciones o no es defendible?"
+  ],
+  "acciones_recomendadas": [
+    "Validar este criterio antes de aplicar una reducción en renta."
+  ],
+  "nivel_utilidad_final": "Baja",
+  "observaciones": "Extracción hecha solo con el texto ya existente del post, sin rescrapeo. Se incluyen solo ideas con soporte literal localizado."
+}

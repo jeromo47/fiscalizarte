@@ -1,0 +1,139 @@
+{
+  "id": "34",
+  "titulo": "Pagas el 100% de la hipoteca… pero Hacienda solo te deja deducir el 33%.",
+  "url": "https://fiscalizarte.substack.com/p/pagas-el-100-de-la-hipoteca-pero",
+  "fecha": "2026-01-07T08:47:54.863Z",
+  "grupo_depurado": "B_BASE_FISCAL_UTIL",
+  "tesis_principal": "Extracción de criterios fiscales generales útiles y accionables para tu caso de alquiler por habitaciones como persona física.",
+  "ideas_aplicables": [
+    {
+      "punto_extraido": "El post aporta criterio sobre gastos deducibles o su defensa documental.",
+      "fragmento_soporte": "gunda. Hacienda no te está diciendo que no pagues. Te está diciendo: “me da igual quién pague; tú solo puedes deducirte lo que corresponde a lo que es tuyo ”. Requisitos rápidos (porque aquí la gente se lía) Esto afecta sobre todo al régimen transitorio de",
+      "aplicacion_a_mi_caso": "Te sirve para decidir qué gastos meter y cómo defenderlos.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Facturas",
+        "Justificantes bancarios",
+        "Explicación de vinculación"
+      ],
+      "accion_recomendada": "Revisar este criterio antes de incluir gastos discutibles.",
+      "pregunta_asesor": "¿Este criterio me permite deducir este tipo de gasto en mi caso o aumenta riesgo?"
+    },
+    {
+      "punto_extraido": "El post aporta criterio útil sobre amortización de inmueble, mobiliario o accesorios.",
+      "fragmento_soporte": "a deducción por vivienda habitual va por titularidad, no por quién paga . Si en el Registro eres dueña al 33,33% , deduces 33,33% . Aunque hayas pagado tú el 100% del préstamo. (Consulta V1533-25 , 26/08/2025; publicado 23/12/2025 en la AEAT/DGT.) El “",
+      "aplicacion_a_mi_caso": "Puede ayudarte a no perder deducciones o a no aplicarlas mal.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Escritura/compra",
+        "IBI con valores",
+        "Facturas mobiliario"
+      ],
+      "accion_recomendada": "Preparar o revisar ficha de amortización si aplica.",
+      "pregunta_asesor": "¿Cómo debo aplicar esta amortización en mi caso concreto?"
+    },
+    {
+      "punto_extraido": "El post aporta criterio sobre reducción, vivienda habitual o límites para aplicarla.",
+      "fragmento_soporte": "Escena típica de 2001: Quieres comprarte tu vivienda habitual. El banco te mira y te suelta: “Vale… pero tus padres dentro. En la escritura y en la hipoteca. Si no, no hay préstamo.” Tú tragas. Pasan l",
+      "aplicacion_a_mi_caso": "Te sirve para detectar cuándo una reducción puede ser defendible y cuándo no.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Contrato",
+        "Prueba de uso/residencia",
+        "Histórico de inquilinos"
+      ],
+      "accion_recomendada": "Validar este criterio antes de aplicar una reducción en renta.",
+      "pregunta_asesor": "¿Puedo aplicar esta reducción en mi caso de alquiler por habitaciones o no es defendible?"
+    },
+    {
+      "punto_extraido": "El post exige soporte documental concreto para defender el criterio ante Hacienda.",
+      "fragmento_soporte": "ones útiles: 1) Aceptar la realidad y no pelearlo Si no vas a cambiar la titularidad, deja de perder energía: Hacienda te lo va a limitar. 2) Cambiar titularidad (pero ojo con el “timing” fiscal) Si te haces con el 100% ahora (por ejemplo, comprando la parte de",
+      "aplicacion_a_mi_caso": "Sirve para blindar ingresos, gastos y criterios si Hacienda revisa.",
+      "tipo": "Documental",
+      "riesgo": "Medio",
+      "confianza": "Media",
+      "validar_con_asesor": false,
+      "documentacion_recomendada": [
+        "Facturas",
+        "Contratos",
+        "Extractos bancarios"
+      ],
+      "accion_recomendada": "Guardar soporte probatorio ligado a este criterio.",
+      "pregunta_asesor": "¿Qué documentación adicional conviene guardar para defender este punto?"
+    }
+  ],
+  "gastos_deducciones": [
+    {
+      "concepto": "Gastos deducibles",
+      "fragmento_soporte": "gunda. Hacienda no te está diciendo que no pagues. Te está diciendo: “me da igual quién pague; tú solo puedes deducirte lo que corresponde a lo que es tuyo ”. Requisitos rápidos (porque aquí la gente se lía) Esto afecta sobre todo al régimen transitorio de",
+      "criterio_del_post": "El post contiene criterio útil sobre deducibilidad o su defensa.",
+      "aplicacion_a_mi_caso": "Útil para seleccionar gastos defendibles en tu alquiler.",
+      "prueba_necesaria": "Factura y justificante.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    },
+    {
+      "concepto": "Amortización",
+      "fragmento_soporte": "a deducción por vivienda habitual va por titularidad, no por quién paga . Si en el Registro eres dueña al 33,33% , deduces 33,33% . Aunque hayas pagado tú el 100% del préstamo. (Consulta V1533-25 , 26/08/2025; publicado 23/12/2025 en la AEAT/DGT.) El “",
+      "criterio_del_post": "El post aporta criterio sobre amortización.",
+      "aplicacion_a_mi_caso": "Útil para inmueble, mobiliario o accesorios si procede.",
+      "prueba_necesaria": "Base de cálculo y soporte documental.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    }
+  ],
+  "contratos_clausulas": [],
+  "documentacion_a_guardar": [
+    "Contrato",
+    "Contratos",
+    "Escritura/compra",
+    "Explicación de vinculación",
+    "Extractos bancarios",
+    "Facturas",
+    "Facturas mobiliario",
+    "Histórico de inquilinos",
+    "IBI con valores",
+    "Justificantes bancarios",
+    "Prueba de uso/residencia"
+  ],
+  "riesgos": {
+    "fiscal": [
+      "El post aporta criterio sobre gastos deducibles o su defensa documental.",
+      "El post aporta criterio útil sobre amortización de inmueble, mobiliario o accesorios.",
+      "El post aporta criterio sobre reducción, vivienda habitual o límites para aplicarla."
+    ],
+    "contractual": [],
+    "probatorio": [
+      "El post exige soporte documental concreto para defender el criterio ante Hacienda."
+    ],
+    "operativo": [],
+    "interpretacion": [
+      "El post aporta criterio sobre gastos deducibles o su defensa documental.",
+      "El post aporta criterio útil sobre amortización de inmueble, mobiliario o accesorios.",
+      "El post aporta criterio sobre reducción, vivienda habitual o límites para aplicarla."
+    ]
+  },
+  "preguntas_para_asesor": [
+    "¿Este criterio me permite deducir este tipo de gasto en mi caso o aumenta riesgo?",
+    "¿Cómo debo aplicar esta amortización en mi caso concreto?",
+    "¿Puedo aplicar esta reducción en mi caso de alquiler por habitaciones o no es defendible?",
+    "¿Qué documentación adicional conviene guardar para defender este punto?"
+  ],
+  "acciones_recomendadas": [
+    "Revisar este criterio antes de incluir gastos discutibles.",
+    "Preparar o revisar ficha de amortización si aplica.",
+    "Validar este criterio antes de aplicar una reducción en renta.",
+    "Guardar soporte probatorio ligado a este criterio."
+  ],
+  "nivel_utilidad_final": "Alta",
+  "observaciones": "Extracción hecha solo con el texto ya existente del post, sin rescrapeo. Se incluyen solo ideas con soporte literal localizado."
+}
