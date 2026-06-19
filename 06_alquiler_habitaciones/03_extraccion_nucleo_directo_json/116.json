@@ -4,12 +4,12 @@
   "url": "https://fiscalizarte.substack.com/p/clase-11-los-gastos-de-reparacion",
   "fecha": "2025-05-25T06:30:24.594Z",
   "grupo_depurado": "A_NUCLEO_DIRECTO",
-  "tesis_principal": "Extracción solo de puntos accionables y trazables del post para tu caso de alquiler por habitaciones en IRPF como persona física.",
+  "tesis_principal": "Extracción accionable y trazable del post para tu caso de alquiler por habitaciones en IRPF como persona física.",
   "ideas_aplicables": [
     {
-      "punto_extraido": "Es reparación/conservación lo destinado a mantener el uso normal del inmueble o sustituir elementos sin mejorar su valor o vida útil.",
-      "fragmento_soporte": "Bueno, o la todos que tal continuamos con la clase número 11 del curso sobre fiscal y el movilario. Bueno, en esta clase número 11, la dedicamos a analizar el gasto de reparación y conservación. Que, pues ya voy a hablar sobre ellos, y ya hemos tocado diferentes aspectos en la clase anterior, la cl…",
-      "aplicacion_a_mi_caso": "Te sirve como criterio base para clasificar facturas de arreglos, pintura, reposiciones y mantenimiento.",
+      "punto_extraido": "Es reparación o conservación lo destinado a mantener el uso normal del inmueble o sustituir elementos sin mejorar valor o vida útil.",
+      "fragmento_soporte": "e compramos para alquilar, los permite deducino aquellos gatos que realizamos de forma regular para que, para mantener el uso normal del inmueble. O, a que yo gato en los que incurrimos para sustituir uno de los elementos por otro, ¿vale? Yo jo, super importante esto y lo pongo en may",
+      "aplicacion_a_mi_caso": "Te sirve para clasificar pintura, reposiciones y arreglos ordinarios.",
       "tipo": "Fiscal",
       "riesgo": "Alto",
       "confianza": "Alta",
@@ -19,13 +19,13 @@
         "Descripción técnica",
         "Fotos antes/después"
       ],
-      "accion_recomendada": "Etiquetar cada factura de obra como reparación o mejora antes de declararla.",
-      "pregunta_asesor": "¿Esta factura concreta mantiene el uso normal o incrementa valor/vida útil del inmueble?"
+      "accion_recomendada": "Etiquetar cada factura como reparación o mejora antes de declararla.",
+      "pregunta_asesor": "¿Esta factura mantiene el uso normal del inmueble o incrementa valor/vida útil?"
     },
     {
-      "punto_extraido": "Las ampliaciones o mejoras no se deducen igual que la reparación, sino por vía distinta, normalmente amortizable.",
-      "fragmento_soporte": "En la clase11 del curso sobre fiscalidad inmobiliaria analizamos cómo deducirnos los gastos asumidos por reparaciones y conservación del inmueble alquilado. La legislación tributaria nos permite deducirnos como arrendadores de inmuebles, este tipo de gastos por mantenimiento del inmueble, pero NO p…",
-      "aplicacion_a_mi_caso": "Si cambias algo elevando calidad, capacidad o vida útil, el riesgo de meterlo como reparación es alto.",
+      "punto_extraido": "Las ampliaciones o mejoras tienen tratamiento distinto y no deben meterse como reparación directa.",
+      "fragmento_soporte": "La legislación tributaria nos permite deducirnos como arrendadores de inmuebles, este tipo de gastos por mantenimiento del inmueble, pero NO podemos confundir estos gastos con aquellas actuaciones realizadas al inmueble consideradas como ampliaciones o mejoras del mismo.",
+      "aplicacion_a_mi_caso": "Si la actuación eleva calidad, capacidad o vida útil, el riesgo de error es alto.",
       "tipo": "Fiscal",
       "riesgo": "Alto",
       "confianza": "Alta",
@@ -35,13 +35,13 @@
         "Memoria o presupuesto",
         "Comparativa antes/después"
       ],
-      "accion_recomendada": "Separar físicamente las facturas de mejora de las de conservación.",
-      "pregunta_asesor": "¿Esta actuación debe ir como mejora amortizable y no como gasto directo del ejercicio?"
+      "accion_recomendada": "Separar físicamente facturas de mejora y de conservación.",
+      "pregunta_asesor": "¿Esta actuación debe tratarse como mejora amortizable y no como gasto directo?"
     },
     {
       "punto_extraido": "Ciertos gastos de reparación previos al alquiler o entre arrendamientos pueden ser defendibles si preparan el inmueble para alquilarlo.",
-      "fragmento_soporte": "Bueno, o la todos que tal continuamos con la clase número 11 del curso sobre fiscal y el movilario. Bueno, en esta clase número 11, la dedicamos a analizar el gasto de reparación y conservación. Que, pues ya voy a hablar sobre ellos, y ya hemos tocado diferentes aspectos en la clase anterior, la cl…",
-      "aplicacion_a_mi_caso": "Útil cuando haces puesta a punto antes de alquilar habitaciones, siempre que el destino arrendaticio sea coherente y próximo.",
+      "fragmento_soporte": "? Se deduce que íntegramente sin proratear entre los días de rendamiento, ¿vale? Es un mucho cuidado también, se permite también deducirme los gatos anterior al nicio de rendamiento y los gatos entre rendamientos, esto me lo pregunta mucha gente, ¿vale? Yo compro un piso, lo tengo que pintar, lo ten",
+      "aplicacion_a_mi_caso": "Útil si haces puesta a punto antes de alquilar habitaciones.",
       "tipo": "Fiscal",
       "riesgo": "Alto",
       "confianza": "Media",
@@ -49,49 +49,46 @@
       "documentacion_recomendada": [
         "Factura",
         "Fecha",
-        "Prueba de puesta en alquiler",
-        "Anuncios/contratos"
+        "Prueba de puesta en alquiler"
       ],
       "accion_recomendada": "Guardar cronología entre reparación y puesta en alquiler.",
-      "pregunta_asesor": "¿Hasta qué punto temporal previo al alquiler puedo defender una reparación como deducible en mi caso?"
+      "pregunta_asesor": "¿Hasta qué margen temporal previo al alquiler puedo defender una reparación como deducible?"
     },
     {
-      "punto_extraido": "No es defendible rescatar reparaciones antiguas ligadas a uso propio previo para deducirlas después al poner el inmueble en alquiler.",
-      "fragmento_soporte": "Bueno, o la todos que tal continuamos con la clase número 11 del curso sobre fiscal y el movilario. Bueno, en esta clase número 11, la dedicamos a analizar el gasto de reparación y conservación. Que, pues ya voy a hablar sobre ellos, y ya hemos tocado diferentes aspectos en la clase anterior, la cl…",
-      "aplicacion_a_mi_caso": "Si antes vivías tú en el piso, cuidado con intentar llevar a renta gastos viejos de puesta a punto.",
+      "punto_extraido": "No es defendible rescatar reparaciones antiguas ligadas a uso propio previo para deducirlas después.",
+      "fragmento_soporte": "a decir que no, pero luego si viene haciendo, a caso una comprobación, un requerimiento, te pedirán factura y te sancionarán, obviamente. No sé, bueno, vuelva a recarcar, porque ya la habéis visto la clase anterior, es muy importante que si en sí se ha gasto de es",
+      "aplicacion_a_mi_caso": "Si antes usabas tú el piso, cuidado con llevar a renta gastos viejos de puesta a punto.",
       "tipo": "Fiscal",
       "riesgo": "Alto",
       "confianza": "Alta",
       "validar_con_asesor": true,
       "documentacion_recomendada": [
         "Cronología de uso del inmueble",
-        "Empadronamiento/uso propio",
         "Facturas",
         "Fecha de inicio del alquiler"
       ],
-      "accion_recomendada": "Separar claramente periodo de uso propio y periodo de preparación/alquiler.",
-      "pregunta_asesor": "¿Desde qué fecha Hacienda podría considerar conectada la reparación con la futura obtención del ingreso?"
+      "accion_recomendada": "Separar claramente uso propio y periodo de preparación/alquiler.",
+      "pregunta_asesor": "¿Desde qué fecha podría Hacienda considerar conectada la reparación con la futura obtención del ingreso?"
     },
     {
-      "punto_extraido": "El uso propio del piso puede romper la defensa de ciertos gastos de reparación previos o entre arrendamientos.",
-      "fragmento_soporte": "Bueno, o la todos que tal continuamos con la clase número 11 del curso sobre fiscal y el movilario. Bueno, en esta clase número 11, la dedicamos a analizar el gasto de reparación y conservación. Que, pues ya voy a hablar sobre ellos, y ya hemos tocado diferentes aspectos en la clase anterior, la cl…",
-      "aplicacion_a_mi_caso": "Si quieres deducir gastos de puesta en alquiler, evita mezclar uso propio intermedio.",
+      "punto_extraido": "El uso propio intermedio puede romper la defensa de ciertos gastos previos o entre arrendamientos.",
+      "fragmento_soporte": "epto, podemos hacer un sopropido el piso entre la compre del alquiler, ¿vale? Si hacemos uso propio del piso, la posibilidad aplicamente tipo de gasto desaparece, siempre sí. Y súper importante también que la factura debe costar la dirección del imóla alquilado, ¿vale? Esto también para la comprar e",
+      "aplicacion_a_mi_caso": "Si quieres deducir la puesta en alquiler, evita mezclar uso propio intermedio.",
       "tipo": "Fiscal",
       "riesgo": "Alto",
       "confianza": "Media",
       "validar_con_asesor": true,
       "documentacion_recomendada": [
         "Cronología de ocupación",
-        "Pruebas de no uso propio",
-        "Contratos o anuncios"
+        "Pruebas de no uso propio"
       ],
-      "accion_recomendada": "Documentar cuándo dejó de existir uso propio y cuándo empezó la puesta en alquiler.",
+      "accion_recomendada": "Documentar cuándo cesó el uso propio y cuándo empezó la puesta en alquiler.",
       "pregunta_asesor": "¿Qué pruebas conviene conservar para acreditar que no hubo uso propio entre la obra y el alquiler?"
     },
     {
-      "punto_extraido": "La factura de reparación y también la del mobiliario debería identificar la dirección del inmueble alquilado.",
-      "fragmento_soporte": "Bueno, o la todos que tal continuamos con la clase número 11 del curso sobre fiscal y el movilario. Bueno, en esta clase número 11, la dedicamos a analizar el gasto de reparación y conservación. Que, pues ya voy a hablar sobre ellos, y ya hemos tocado diferentes aspectos en la clase anterior, la cl…",
-      "aplicacion_a_mi_caso": "Mejora mucho la defensa probatoria de arreglos, muebles y servicios del piso alquilado.",
+      "punto_extraido": "La factura debería identificar la dirección del inmueble alquilado.",
+      "fragmento_soporte": "pio del piso, la posibilidad aplicamente tipo de gasto desaparece, siempre sí. Y súper importante también que la factura debe costar la dirección del imóla alquilado, ¿vale? Esto también para la comprar el movilitario, es conveniente que en la propia factura, pues aparezca, me den esta dirección per",
+      "aplicacion_a_mi_caso": "Refuerza mucho la defensa probatoria de reparaciones y mobiliario.",
       "tipo": "Documental",
       "riesgo": "Alto",
       "confianza": "Alta",
@@ -104,53 +101,40 @@
       "pregunta_asesor": "¿Si ya tengo facturas sin dirección, qué soporte adicional refuerza mejor su vinculación al inmueble?"
     },
     {
-      "punto_extraido": "Llevar seguimiento de excesos pendientes de aplicar para no perder deducción en años siguientes.",
-      "fragmento_soporte": "Bueno, o la todos que tal continuamos con la clase número 11 del curso sobre fiscal y el movilario. Bueno, en esta clase número 11, la dedicamos a analizar el gasto de reparación y conservación. Que, pues ya voy a hablar sobre ellos, y ya hemos tocado diferentes aspectos en la clase anterior, la cl…",
-      "aplicacion_a_mi_caso": "Si reparación e intereses superan ciertos límites, necesitas control anual propio y no confiar solo en memoria del programa.",
+      "punto_extraido": "Llevar control de excesos pendientes para no perder deducción en años posteriores.",
+      "fragmento_soporte": "iguales, para que me voy a meterlo de ejercicio siguiente, bueno, pues si tú no rellen esta casiguita, aquí, el año que viene, el programa, no te va a recordar, que tienes pendiente de aplicar esto, vale, estos 6.000 euros, no te van a aparecer año que viene en la casiguita anterior, por lo tanto,",
+      "aplicacion_a_mi_caso": "Si gastos no aplicados superan límites, necesitas control anual propio.",
       "tipo": "Operativo",
       "riesgo": "Medio",
       "confianza": "Media",
       "validar_con_asesor": true,
       "documentacion_recomendada": [
         "Cuadro anual de pendientes",
-        "Copia de declaraciones",
-        "Papeles de trabajo"
+        "Copia de declaraciones"
       ],
       "accion_recomendada": "Crear hoja de seguimiento de saldos pendientes por inmueble y ejercicio.",
-      "pregunta_asesor": "¿Cómo conviene documentar y arrastrar en renta los gastos no aplicados este año?"
+      "pregunta_asesor": "¿Cómo conviene documentar y arrastrar a años siguientes los gastos no aplicados?"
     }
   ],
   "gastos_deducciones": [
     {
-      "concepto": "Reparación y conservación",
-      "fragmento_soporte": "Bueno, o la todos que tal continuamos con la clase número 11 del curso sobre fiscal y el movilario. Bueno, en esta clase número 11, la dedicamos a analizar el gasto de reparación y conservación. Que, pues ya voy a hablar sobre ellos, y ya hemos tocado diferentes aspectos en la clase anterior, la cl…",
-      "criterio_del_post": "Debe mantener uso normal o sustituir elementos, sin mejorar valor o vida útil.",
-      "aplicacion_a_mi_caso": "Clave para arreglos del piso y habitaciones.",
-      "prueba_necesaria": "Factura detallada y descripción técnica.",
-      "riesgo_hacienda": "Alto",
-      "verificar_fuente_oficial": true
-    },
-    {
-      "concepto": "Mejoras o ampliaciones",
-      "fragmento_soporte": "En la clase11 del curso sobre fiscalidad inmobiliaria analizamos cómo deducirnos los gastos asumidos por reparaciones y conservación del inmueble alquilado. La legislación tributaria nos permite deducirnos como arrendadores de inmuebles, este tipo de gastos por mantenimiento del inmueble, pero NO p…",
-      "criterio_del_post": "Tienen tratamiento distinto y no deberían meterse como reparación directa.",
-      "aplicacion_a_mi_caso": "Clave en reformas de más entidad.",
-      "prueba_necesaria": "Factura, memoria y criterio técnico/fiscal.",
+      "concepto": "Reparación / mejora",
+      "fragmento_soporte": "e compramos para alquilar, los permite deducino aquellos gatos que realizamos de forma regular para que, para mantener el uso normal del inmueble. O, a que yo gato en los que incurrimos para sustituir uno de los elementos por otro, ¿vale? Yo jo, super importante esto y lo pongo en may",
+      "criterio_del_post": "El criterio del post afecta a la clasificación fiscal de la actuación.",
+      "aplicacion_a_mi_caso": "Crítico para obras y arreglos del piso.",
+      "prueba_necesaria": "Factura detallada y soporte técnico.",
       "riesgo_hacienda": "Alto",
       "verificar_fuente_oficial": true
     }
   ],
   "contratos_clausulas": [],
   "documentacion_a_guardar": [
-    "Anuncios/contratos",
     "Comparativa antes/después",
-    "Contratos o anuncios",
     "Copia de declaraciones",
     "Cronología de ocupación",
     "Cronología de uso del inmueble",
     "Cuadro anual de pendientes",
     "Descripción técnica",
-    "Empadronamiento/uso propio",
     "Factura",
     "Factura con dirección del inmueble",
     "Factura detallada",
@@ -160,47 +144,51 @@
     "Fotos antes/después",
     "Justificante bancario",
     "Memoria o presupuesto",
-    "Papeles de trabajo",
     "Prueba de puesta en alquiler",
     "Pruebas de no uso propio"
   ],
   "riesgos": {
     "fiscal": [
-      "Es reparación/conservación lo destinado a mantener el uso normal del inmueble o sustituir elementos sin mejorar su valor o vida útil.",
-      "Las ampliaciones o mejoras no se deducen igual que la reparación, sino por vía distinta, normalmente amortizable.",
+      "Es reparación o conservación lo destinado a mantener el uso normal del inmueble o sustituir elementos sin mejorar valor o vida útil.",
+      "Las ampliaciones o mejoras tienen tratamiento distinto y no deben meterse como reparación directa.",
       "Ciertos gastos de reparación previos al alquiler o entre arrendamientos pueden ser defendibles si preparan el inmueble para alquilarlo.",
-      "No es defendible rescatar reparaciones antiguas ligadas a uso propio previo para deducirlas después al poner el inmueble en alquiler.",
-      "El uso propio del piso puede romper la defensa de ciertos gastos de reparación previos o entre arrendamientos."
+      "No es defendible rescatar reparaciones antiguas ligadas a uso propio previo para deducirlas después.",
+      "El uso propio intermedio puede romper la defensa de ciertos gastos previos o entre arrendamientos."
     ],
     "contractual": [],
     "probatorio": [
-      "La factura de reparación y también la del mobiliario debería identificar la dirección del inmueble alquilado."
+      "La factura debería identificar la dirección del inmueble alquilado."
     ],
     "operativo": [
-      "Llevar seguimiento de excesos pendientes de aplicar para no perder deducción en años siguientes."
+      "Llevar control de excesos pendientes para no perder deducción en años posteriores."
     ],
     "interpretacion": [
-      "Validar con asesor o fuente oficial los puntos dependientes de criterio AEAT, DGT, TEAC o interpretación normativa."
+      "Es reparación o conservación lo destinado a mantener el uso normal del inmueble o sustituir elementos sin mejorar valor o vida útil.",
+      "Las ampliaciones o mejoras tienen tratamiento distinto y no deben meterse como reparación directa.",
+      "Ciertos gastos de reparación previos al alquiler o entre arrendamientos pueden ser defendibles si preparan el inmueble para alquilarlo.",
+      "No es defendible rescatar reparaciones antiguas ligadas a uso propio previo para deducirlas después.",
+      "El uso propio intermedio puede romper la defensa de ciertos gastos previos o entre arrendamientos.",
+      "Llevar control de excesos pendientes para no perder deducción en años posteriores."
     ]
   },
   "preguntas_para_asesor": [
-    "¿Esta factura concreta mantiene el uso normal o incrementa valor/vida útil del inmueble?",
-    "¿Esta actuación debe ir como mejora amortizable y no como gasto directo del ejercicio?",
-    "¿Hasta qué punto temporal previo al alquiler puedo defender una reparación como deducible en mi caso?",
-    "¿Desde qué fecha Hacienda podría considerar conectada la reparación con la futura obtención del ingreso?",
+    "¿Esta factura mantiene el uso normal del inmueble o incrementa valor/vida útil?",
+    "¿Esta actuación debe tratarse como mejora amortizable y no como gasto directo?",
+    "¿Hasta qué margen temporal previo al alquiler puedo defender una reparación como deducible?",
+    "¿Desde qué fecha podría Hacienda considerar conectada la reparación con la futura obtención del ingreso?",
     "¿Qué pruebas conviene conservar para acreditar que no hubo uso propio entre la obra y el alquiler?",
     "¿Si ya tengo facturas sin dirección, qué soporte adicional refuerza mejor su vinculación al inmueble?",
-    "¿Cómo conviene documentar y arrastrar en renta los gastos no aplicados este año?"
+    "¿Cómo conviene documentar y arrastrar a años siguientes los gastos no aplicados?"
   ],
   "acciones_recomendadas": [
-    "Etiquetar cada factura de obra como reparación o mejora antes de declararla.",
-    "Separar físicamente las facturas de mejora de las de conservación.",
+    "Etiquetar cada factura como reparación o mejora antes de declararla.",
+    "Separar físicamente facturas de mejora y de conservación.",
     "Guardar cronología entre reparación y puesta en alquiler.",
-    "Separar claramente periodo de uso propio y periodo de preparación/alquiler.",
-    "Documentar cuándo dejó de existir uso propio y cuándo empezó la puesta en alquiler.",
+    "Separar claramente uso propio y periodo de preparación/alquiler.",
+    "Documentar cuándo cesó el uso propio y cuándo empezó la puesta en alquiler.",
     "Pedir a proveedores facturas con la dirección exacta del piso alquilado.",
     "Crear hoja de seguimiento de saldos pendientes por inmueble y ejercicio."
   ],
   "nivel_utilidad_final": "Alta",
-  "observaciones": "Extracción hecha solo sobre el texto existente del post. Sin rescrapeo. Los puntos discutibles quedan marcados para validación."
+  "observaciones": "Extracción hecha solo con el texto ya existente del post, sin rescrapeo. Cada idea incluida exige soporte literal localizado."
 }

@@ -4,12 +4,12 @@
   "url": "https://fiscalizarte.substack.com/p/clase-27-declara-tus-pisos-por-habitaciones",
   "fecha": "2026-03-20T17:17:55.328Z",
   "grupo_depurado": "A_NUCLEO_DIRECTO",
-  "tesis_principal": "Extracción solo de puntos accionables y trazables del post para tu caso de alquiler por habitaciones en IRPF como persona física.",
+  "tesis_principal": "Extracción accionable y trazable del post para tu caso de alquiler por habitaciones en IRPF como persona física.",
   "ideas_aplicables": [
     {
-      "punto_extraido": "Declarar un arrendamiento por cada contrato/habitación y no agrupar todo el piso en un único bloque si la casuística difiere.",
-      "fragmento_soporte": "¿Tienes pisos alquilados por habitaciones y no sabes si estás haciendo bien la renta? Entonces esto te interesa. Porque una cosa es cobrar todos los meses. Y otra muy distinta es declararlo bien cuando llega Hacienda . Y ahí es donde muchos inversores meten la pata. No porque sean tontos. Sino porq…",
-      "aplicacion_a_mi_caso": "Si alquilas por habitaciones, te conviene llevar cada contrato por separado para ingresos, reducción, incidencias y soporte probatorio.",
+      "punto_extraido": "Declarar un arrendamiento por cada contrato/habitación cuando cada una tenga casuística propia.",
+      "fragmento_soporte": "habitaciones cada uno, pues voy a tener que declarar 16 arrendamientos. Es decir, cada arrendamiento, o sea, cada contrato para que quede claro tengo que declarar un arrendamiento por cada contrato que tenga firmado, ¿vale? Y esto así evitamos tener los problemas que tiene la mayoría de inversores.",
+      "aplicacion_a_mi_caso": "Si alquilas por habitaciones, te conviene separar cada contrato para reflejar ingresos, incidencias y tratamiento fiscal propio.",
       "tipo": "Fiscal",
       "riesgo": "Alto",
       "confianza": "Alta",
@@ -17,16 +17,15 @@
       "documentacion_recomendada": [
         "Contrato por habitación",
         "NIF/NIE arrendatario",
-        "Control de ocupación",
-        "Cobros bancarios"
+        "Control de ocupación"
       ],
       "accion_recomendada": "Preparar una ficha separada por habitación/contrato.",
-      "pregunta_asesor": "¿Debo reflejar cada habitación como arrendamiento separado en Renta Web aunque cuelguen de la misma referencia catastral?"
+      "pregunta_asesor": "¿Debo declarar cada habitación como arrendamiento separado en Renta Web aunque todo cuelgue de una sola referencia catastral?"
     },
     {
-      "punto_extraido": "No aplicar la reducción de forma global a todo el inmueble si no todas las habitaciones cumplen el mismo supuesto.",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Bueno, grabo lo que me habéis solicitado por el canal, por el grupo privado de suscriptores premium y es que, bueno, que contase un poco cómo sería el tema de la declaración del alquiler por habitaciones, ¿vale? Y creo que es un dato bastante interesante porque me suelo enco…",
-      "aplicacion_a_mi_caso": "La reducción puede cambiar por habitación según uso real, duración y tipo de contrato.",
+      "punto_extraido": "No aplicar la reducción globalmente a todo el piso si no todas las habitaciones cumplen el mismo supuesto.",
+      "fragmento_soporte": "que lo pide todo, la factura, el IBI, la comunidad, todo, todo hay que enviárselo. Y te dice Hacienda, vale, tú aquí tienes cuatro habitaciones y en dos de ellas no te puedo aplicar la reducción. La hemos liado, ¿por qué? Porque yo me estoy aplicando por defecto la reducción del 50 para todo el inmu",
+      "aplicacion_a_mi_caso": "La reducción puede ser defendible en unas habitaciones y no en otras según contrato, duración o uso real.",
       "tipo": "Fiscal",
       "riesgo": "Alto",
       "confianza": "Alta",
@@ -34,16 +33,15 @@
       "documentacion_recomendada": [
         "Contrato",
         "Prueba de uso/residencia",
-        "Calendario de ocupación",
         "Histórico de inquilinos"
       ],
-      "accion_recomendada": "Revisar habitación por habitación si la reducción es defendible.",
-      "pregunta_asesor": "¿En mi caso la reducción se analiza por habitación/contrato o puedo tratar el piso completo como una unidad?"
+      "accion_recomendada": "Revisar habitación por habitación la posibilidad de reducción.",
+      "pregunta_asesor": "¿La reducción por vivienda habitual debo analizarla por habitación/contrato o por el inmueble completo?"
     },
     {
-      "punto_extraido": "Conservar trazabilidad documental completa porque Hacienda puede pedir contratos, facturas y justificantes de pago.",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Bueno, grabo lo que me habéis solicitado por el canal, por el grupo privado de suscriptores premium y es que, bueno, que contase un poco cómo sería el tema de la declaración del alquiler por habitaciones, ¿vale? Y creo que es un dato bastante interesante porque me suelo enco…",
-      "aplicacion_a_mi_caso": "Para alquiler por habitaciones necesitas expediente documental muy ordenado por contrato y por gasto.",
+      "punto_extraido": "Mantener expediente documental completo porque Hacienda puede pedir contratos, facturas y justificantes de pago.",
+      "fragmento_soporte": "ón, revisarme o comprobarme o abrirme un procedimiento de requerimiento que se llama y pedirme documentación. Me pide documentación, contratos, facturas, justificantes de pagos, me lo pide todo. Claro, se guarda la potestad de que tú has autodeclarado esto y ahora yo te reviso, te compruebo y si est",
+      "aplicacion_a_mi_caso": "En alquiler por habitaciones necesitas trazabilidad por contrato y por gasto.",
       "tipo": "Documental",
       "riesgo": "Alto",
       "confianza": "Alta",
@@ -52,28 +50,23 @@
         "Contratos",
         "Facturas",
         "Justificantes de pago",
-        "Extractos bancarios",
-        "IBI",
-        "Comunidad"
+        "Extractos bancarios"
       ],
-      "accion_recomendada": "Montar carpeta anual y subcarpetas por habitación y tipo de gasto.",
-      "pregunta_asesor": "¿Qué formato documental es más sólido para defender ingresos, gastos y reducción en una comprobación?"
+      "accion_recomendada": "Ordenar carpeta anual con subcarpetas por habitación y gasto.",
+      "pregunta_asesor": "¿Qué soporte documental mínimo conviene guardar por cada habitación para una comprobación?"
     }
   ],
   "gastos_deducciones": [],
   "contratos_clausulas": [
     {
-      "idea": "Reflejar contrato separado por habitación cuando la ocupación, la reducción o las incidencias no sean homogéneas.",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Bueno, grabo lo que me habéis solicitado por el canal, por el grupo privado de suscriptores premium y es que, bueno, que contase un poco cómo sería el tema de la declaración del alquiler por habitaciones, ¿vale? Y creo que es un dato bastante interesante porque me suelo enco…",
+      "idea": "Usar contrato individualizado por habitación cuando la ocupación o el tratamiento fiscal no sea homogéneo.",
+      "fragmento_soporte": "cuarta? Habría que darle, veis que aquí, alta arrendamiento. Yo he dado de alta un arrendamiento, pero es que puedo dar de alta todos los arrendamientos que quiera sobre esa referencia catastral. Ojo, no confundir arrendamiento que cuelga sobre una referencia catastral a diferentes pisos. Esto sería",
       "uso": "Contrato",
-      "texto_orientativo": "La habitación objeto del arrendamiento es ___; la renta es ___; los suministros se repercuten según ___; la duración y uso pactado son ___.",
+      "texto_orientativo": "La habitación arrendada es ___; la renta es ___; los suministros se repercuten según ___; el uso pactado es ___.",
       "riesgo": "Medio"
     }
   ],
   "documentacion_a_guardar": [
-    "Calendario de ocupación",
-    "Cobros bancarios",
-    "Comunidad",
     "Contrato",
     "Contrato por habitación",
     "Contratos",
@@ -81,37 +74,37 @@
     "Extractos bancarios",
     "Facturas",
     "Histórico de inquilinos",
-    "IBI",
     "Justificantes de pago",
     "NIF/NIE arrendatario",
     "Prueba de uso/residencia"
   ],
   "riesgos": {
     "fiscal": [
-      "Declarar un arrendamiento por cada contrato/habitación y no agrupar todo el piso en un único bloque si la casuística difiere.",
-      "No aplicar la reducción de forma global a todo el inmueble si no todas las habitaciones cumplen el mismo supuesto."
+      "Declarar un arrendamiento por cada contrato/habitación cuando cada una tenga casuística propia.",
+      "No aplicar la reducción globalmente a todo el piso si no todas las habitaciones cumplen el mismo supuesto."
     ],
     "contractual": [
-      "Alinear contratos y anexos con la realidad del alquiler por habitaciones, suministros y uso pactado."
+      "Revisar que contratos y anexos reflejen la realidad económica y fiscal del alquiler por habitaciones."
     ],
     "probatorio": [
-      "Conservar trazabilidad documental completa porque Hacienda puede pedir contratos, facturas y justificantes de pago."
+      "Mantener expediente documental completo porque Hacienda puede pedir contratos, facturas y justificantes de pago."
     ],
     "operativo": [],
     "interpretacion": [
-      "Validar con asesor o fuente oficial los puntos dependientes de criterio AEAT, DGT, TEAC o interpretación normativa."
+      "Declarar un arrendamiento por cada contrato/habitación cuando cada una tenga casuística propia.",
+      "No aplicar la reducción globalmente a todo el piso si no todas las habitaciones cumplen el mismo supuesto."
     ]
   },
   "preguntas_para_asesor": [
-    "¿Debo reflejar cada habitación como arrendamiento separado en Renta Web aunque cuelguen de la misma referencia catastral?",
-    "¿En mi caso la reducción se analiza por habitación/contrato o puedo tratar el piso completo como una unidad?",
-    "¿Qué formato documental es más sólido para defender ingresos, gastos y reducción en una comprobación?"
+    "¿Debo declarar cada habitación como arrendamiento separado en Renta Web aunque todo cuelgue de una sola referencia catastral?",
+    "¿La reducción por vivienda habitual debo analizarla por habitación/contrato o por el inmueble completo?",
+    "¿Qué soporte documental mínimo conviene guardar por cada habitación para una comprobación?"
   ],
   "acciones_recomendadas": [
     "Preparar una ficha separada por habitación/contrato.",
-    "Revisar habitación por habitación si la reducción es defendible.",
-    "Montar carpeta anual y subcarpetas por habitación y tipo de gasto."
+    "Revisar habitación por habitación la posibilidad de reducción.",
+    "Ordenar carpeta anual con subcarpetas por habitación y gasto."
   ],
   "nivel_utilidad_final": "Media",
-  "observaciones": "Extracción hecha solo sobre el texto existente del post. Sin rescrapeo. Los puntos discutibles quedan marcados para validación."
+  "observaciones": "Extracción hecha solo con el texto ya existente del post, sin rescrapeo. Cada idea incluida exige soporte literal localizado."
 }

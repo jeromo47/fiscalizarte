@@ -4,20 +4,114 @@
   "url": "https://fiscalizarte.substack.com/p/clase-14-amortizacion-de-las-mejoras",
   "fecha": "2025-06-29T07:32:14.965Z",
   "grupo_depurado": "A_NUCLEO_DIRECTO",
-  "tesis_principal": "Extracción solo de puntos accionables y trazables del post para tu caso de alquiler por habitaciones en IRPF como persona física.",
-  "ideas_aplicables": [],
-  "gastos_deducciones": [],
+  "tesis_principal": "Extracción accionable y trazable del post para tu caso de alquiler por habitaciones en IRPF como persona física.",
+  "ideas_aplicables": [
+    {
+      "punto_extraido": "Revisar si el post aporta criterio útil sobre amortización del inmueble o del mobiliario.",
+      "fragmento_soporte": "🔹 Qué errores evitar para que no te tumben la amortización.",
+      "aplicacion_a_mi_caso": "Puede ayudarte a no perder deducción o a no aplicarla mal.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Escritura/compra",
+        "IBI con valores",
+        "Facturas mobiliario"
+      ],
+      "accion_recomendada": "Preparar ficha separada de amortización si este criterio aplica.",
+      "pregunta_asesor": "¿Cómo debo calcular esta amortización en mi caso concreto?"
+    },
+    {
+      "punto_extraido": "Distinguir correctamente gasto deducible, reparación o mejora según el criterio del post.",
+      "fragmento_soporte": "MEJORA y/o REPARACIÓN/CONSERVACIÓN?",
+      "aplicacion_a_mi_caso": "Útil para clasificar facturas y evitar errores ante Hacienda.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Factura detallada",
+        "Presupuesto",
+        "Fotos antes/después"
+      ],
+      "accion_recomendada": "Clasificar la factura afectada antes de meterla en renta.",
+      "pregunta_asesor": "¿Este gasto concreto encaja aquí o debería ir con otro tratamiento fiscal?"
+    },
+    {
+      "punto_extraido": "Conservar documentación probatoria suficiente para defender ingresos, gastos o criterio fiscal.",
+      "fragmento_soporte": "Hay un gran debate y es que De esa reforma que yo le hago al inmueble habrá conceptos de esa reforma, de esa factura, que se considerarán mejoras, es decir, que tienen el carácter fiscal de mejora para Hacienda y habrá otros conceptos que se consideren gas",
+      "aplicacion_a_mi_caso": "Sirve para blindar una futura comprobación.",
+      "tipo": "Documental",
+      "riesgo": "Medio",
+      "confianza": "Media",
+      "validar_con_asesor": false,
+      "documentacion_recomendada": [
+        "Facturas",
+        "Contratos",
+        "Extractos bancarios"
+      ],
+      "accion_recomendada": "Guardar el soporte probatorio vinculado a este criterio.",
+      "pregunta_asesor": "¿Qué soporte adicional conviene conservar para defender este punto?"
+    }
+  ],
+  "gastos_deducciones": [
+    {
+      "concepto": "Amortización",
+      "fragmento_soporte": "🔹 Qué errores evitar para que no te tumben la amortización.",
+      "criterio_del_post": "El post aporta criterio sobre amortización aplicable al alquiler.",
+      "aplicacion_a_mi_caso": "Útil para inmueble o mobiliario si procede.",
+      "prueba_necesaria": "Base de cálculo y justificantes.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    },
+    {
+      "concepto": "Reparación / mejora",
+      "fragmento_soporte": "MEJORA y/o REPARACIÓN/CONSERVACIÓN?",
+      "criterio_del_post": "El criterio del post afecta a la clasificación fiscal de la actuación.",
+      "aplicacion_a_mi_caso": "Crítico para obras y arreglos del piso.",
+      "prueba_necesaria": "Factura detallada y soporte técnico.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    }
+  ],
   "contratos_clausulas": [],
-  "documentacion_a_guardar": [],
+  "documentacion_a_guardar": [
+    "Contratos",
+    "Escritura/compra",
+    "Extractos bancarios",
+    "Factura detallada",
+    "Facturas",
+    "Facturas mobiliario",
+    "Fotos antes/después",
+    "IBI con valores",
+    "Presupuesto"
+  ],
   "riesgos": {
-    "fiscal": [],
+    "fiscal": [
+      "Revisar si el post aporta criterio útil sobre amortización del inmueble o del mobiliario.",
+      "Distinguir correctamente gasto deducible, reparación o mejora según el criterio del post."
+    ],
     "contractual": [],
-    "probatorio": [],
+    "probatorio": [
+      "Conservar documentación probatoria suficiente para defender ingresos, gastos o criterio fiscal."
+    ],
     "operativo": [],
-    "interpretacion": []
+    "interpretacion": [
+      "Revisar si el post aporta criterio útil sobre amortización del inmueble o del mobiliario.",
+      "Distinguir correctamente gasto deducible, reparación o mejora según el criterio del post."
+    ]
   },
-  "preguntas_para_asesor": [],
-  "acciones_recomendadas": [],
-  "nivel_utilidad_final": "Baja",
-  "observaciones": "Extracción hecha solo sobre el texto existente del post. Sin rescrapeo. Los puntos discutibles quedan marcados para validación."
+  "preguntas_para_asesor": [
+    "¿Cómo debo calcular esta amortización en mi caso concreto?",
+    "¿Este gasto concreto encaja aquí o debería ir con otro tratamiento fiscal?",
+    "¿Qué soporte adicional conviene conservar para defender este punto?"
+  ],
+  "acciones_recomendadas": [
+    "Preparar ficha separada de amortización si este criterio aplica.",
+    "Clasificar la factura afectada antes de meterla en renta.",
+    "Guardar el soporte probatorio vinculado a este criterio."
+  ],
+  "nivel_utilidad_final": "Media",
+  "observaciones": "Extracción hecha solo con el texto ya existente del post, sin rescrapeo. Cada idea incluida exige soporte literal localizado."
 }

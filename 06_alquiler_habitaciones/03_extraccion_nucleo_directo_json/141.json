@@ -4,20 +4,112 @@
   "url": "https://fiscalizarte.substack.com/p/clase-6-calculo-del-rendimiento-de",
   "fecha": "2025-03-30T06:02:18.484Z",
   "grupo_depurado": "A_NUCLEO_DIRECTO",
-  "tesis_principal": "Extracción solo de puntos accionables y trazables del post para tu caso de alquiler por habitaciones en IRPF como persona física.",
-  "ideas_aplicables": [],
-  "gastos_deducciones": [],
+  "tesis_principal": "Extracción accionable y trazable del post para tu caso de alquiler por habitaciones en IRPF como persona física.",
+  "ideas_aplicables": [
+    {
+      "punto_extraido": "Declarar correctamente el rendimiento del alquiler en IRPF según el criterio explicado en el post.",
+      "fragmento_soporte": "sobre el rendimiento neto positivo (siempre que declares correctamente todos los datos).",
+      "aplicacion_a_mi_caso": "Puede afectar a cómo montas tu cálculo anual del alquiler por habitaciones.",
+      "tipo": "Fiscal",
+      "riesgo": "Medio",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Resumen anual de ingresos",
+        "Relación de gastos"
+      ],
+      "accion_recomendada": "Revisar si este criterio encaja con tu forma de declarar el alquiler.",
+      "pregunta_asesor": "¿Cómo debo aplicar este criterio de rendimiento neto/reducido en mi caso?"
+    },
+    {
+      "punto_extraido": "Revisar si el post aporta criterio útil sobre amortización del inmueble o del mobiliario.",
+      "fragmento_soporte": "➡️ le restas todos los gastos deducibles: IBI, comunidad, intereses de hipoteca, seguros, reparaciones, amortización, suministros si los pagas tú, etc.",
+      "aplicacion_a_mi_caso": "Puede ayudarte a no perder deducción o a no aplicarla mal.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Escritura/compra",
+        "IBI con valores",
+        "Facturas mobiliario"
+      ],
+      "accion_recomendada": "Preparar ficha separada de amortización si este criterio aplica.",
+      "pregunta_asesor": "¿Cómo debo calcular esta amortización en mi caso concreto?"
+    },
+    {
+      "punto_extraido": "Distinguir correctamente gasto deducible, reparación o mejora según el criterio del post.",
+      "fragmento_soporte": "➡️ le restas todos los gastos deducibles: IBI, comunidad, intereses de hipoteca, seguros, reparaciones, amortización, suministros si los pagas tú, etc.",
+      "aplicacion_a_mi_caso": "Útil para clasificar facturas y evitar errores ante Hacienda.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Factura detallada",
+        "Presupuesto",
+        "Fotos antes/después"
+      ],
+      "accion_recomendada": "Clasificar la factura afectada antes de meterla en renta.",
+      "pregunta_asesor": "¿Este gasto concreto encaja aquí o debería ir con otro tratamiento fiscal?"
+    }
+  ],
+  "gastos_deducciones": [
+    {
+      "concepto": "Amortización",
+      "fragmento_soporte": "➡️ le restas todos los gastos deducibles: IBI, comunidad, intereses de hipoteca, seguros, reparaciones, amortización, suministros si los pagas tú, etc.",
+      "criterio_del_post": "El post aporta criterio sobre amortización aplicable al alquiler.",
+      "aplicacion_a_mi_caso": "Útil para inmueble o mobiliario si procede.",
+      "prueba_necesaria": "Base de cálculo y justificantes.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    },
+    {
+      "concepto": "Reparación / mejora",
+      "fragmento_soporte": "➡️ le restas todos los gastos deducibles: IBI, comunidad, intereses de hipoteca, seguros, reparaciones, amortización, suministros si los pagas tú, etc.",
+      "criterio_del_post": "El criterio del post afecta a la clasificación fiscal de la actuación.",
+      "aplicacion_a_mi_caso": "Crítico para obras y arreglos del piso.",
+      "prueba_necesaria": "Factura detallada y soporte técnico.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    }
+  ],
   "contratos_clausulas": [],
-  "documentacion_a_guardar": [],
+  "documentacion_a_guardar": [
+    "Escritura/compra",
+    "Factura detallada",
+    "Facturas mobiliario",
+    "Fotos antes/después",
+    "IBI con valores",
+    "Presupuesto",
+    "Relación de gastos",
+    "Resumen anual de ingresos"
+  ],
   "riesgos": {
-    "fiscal": [],
+    "fiscal": [
+      "Declarar correctamente el rendimiento del alquiler en IRPF según el criterio explicado en el post.",
+      "Revisar si el post aporta criterio útil sobre amortización del inmueble o del mobiliario.",
+      "Distinguir correctamente gasto deducible, reparación o mejora según el criterio del post."
+    ],
     "contractual": [],
     "probatorio": [],
     "operativo": [],
-    "interpretacion": []
+    "interpretacion": [
+      "Declarar correctamente el rendimiento del alquiler en IRPF según el criterio explicado en el post.",
+      "Revisar si el post aporta criterio útil sobre amortización del inmueble o del mobiliario.",
+      "Distinguir correctamente gasto deducible, reparación o mejora según el criterio del post."
+    ]
   },
-  "preguntas_para_asesor": [],
-  "acciones_recomendadas": [],
-  "nivel_utilidad_final": "Baja",
-  "observaciones": "Extracción hecha solo sobre el texto existente del post. Sin rescrapeo. Los puntos discutibles quedan marcados para validación."
+  "preguntas_para_asesor": [
+    "¿Cómo debo aplicar este criterio de rendimiento neto/reducido en mi caso?",
+    "¿Cómo debo calcular esta amortización en mi caso concreto?",
+    "¿Este gasto concreto encaja aquí o debería ir con otro tratamiento fiscal?"
+  ],
+  "acciones_recomendadas": [
+    "Revisar si este criterio encaja con tu forma de declarar el alquiler.",
+    "Preparar ficha separada de amortización si este criterio aplica.",
+    "Clasificar la factura afectada antes de meterla en renta."
+  ],
+  "nivel_utilidad_final": "Media",
+  "observaciones": "Extracción hecha solo con el texto ya existente del post, sin rescrapeo. Cada idea incluida exige soporte literal localizado."
 }

@@ -4,20 +4,59 @@
   "url": "https://fiscalizarte.substack.com/p/clase-5-imputacion-de-rentas-inmobilirias",
   "fecha": "2025-03-22T07:30:39.824Z",
   "grupo_depurado": "A_NUCLEO_DIRECTO",
-  "tesis_principal": "Extracción solo de puntos accionables y trazables del post para tu caso de alquiler por habitaciones en IRPF como persona física.",
-  "ideas_aplicables": [],
-  "gastos_deducciones": [],
+  "tesis_principal": "Extracción accionable y trazable del post para tu caso de alquiler por habitaciones en IRPF como persona física.",
+  "ideas_aplicables": [
+    {
+      "punto_extraido": "Revisar si el post aporta criterio útil sobre amortización del inmueble o del mobiliario.",
+      "fragmento_soporte": "construcción como el del suelo. Como veremos, este valor catastral también se va a utilizar para calcular la amortización fiscal del inmueble, lo veremos en clase siguiente, y en este caso solo se va a tener que coger el valor de la construcción y no el valor d",
+      "aplicacion_a_mi_caso": "Puede ayudarte a no perder deducción o a no aplicarla mal.",
+      "tipo": "Fiscal",
+      "riesgo": "Alto",
+      "confianza": "Media",
+      "validar_con_asesor": true,
+      "documentacion_recomendada": [
+        "Escritura/compra",
+        "IBI con valores",
+        "Facturas mobiliario"
+      ],
+      "accion_recomendada": "Preparar ficha separada de amortización si este criterio aplica.",
+      "pregunta_asesor": "¿Cómo debo calcular esta amortización en mi caso concreto?"
+    }
+  ],
+  "gastos_deducciones": [
+    {
+      "concepto": "Amortización",
+      "fragmento_soporte": "construcción como el del suelo. Como veremos, este valor catastral también se va a utilizar para calcular la amortización fiscal del inmueble, lo veremos en clase siguiente, y en este caso solo se va a tener que coger el valor de la construcción y no el valor d",
+      "criterio_del_post": "El post aporta criterio sobre amortización aplicable al alquiler.",
+      "aplicacion_a_mi_caso": "Útil para inmueble o mobiliario si procede.",
+      "prueba_necesaria": "Base de cálculo y justificantes.",
+      "riesgo_hacienda": "Alto",
+      "verificar_fuente_oficial": true
+    }
+  ],
   "contratos_clausulas": [],
-  "documentacion_a_guardar": [],
+  "documentacion_a_guardar": [
+    "Escritura/compra",
+    "Facturas mobiliario",
+    "IBI con valores"
+  ],
   "riesgos": {
-    "fiscal": [],
+    "fiscal": [
+      "Revisar si el post aporta criterio útil sobre amortización del inmueble o del mobiliario."
+    ],
     "contractual": [],
     "probatorio": [],
     "operativo": [],
-    "interpretacion": []
+    "interpretacion": [
+      "Revisar si el post aporta criterio útil sobre amortización del inmueble o del mobiliario."
+    ]
   },
-  "preguntas_para_asesor": [],
-  "acciones_recomendadas": [],
+  "preguntas_para_asesor": [
+    "¿Cómo debo calcular esta amortización en mi caso concreto?"
+  ],
+  "acciones_recomendadas": [
+    "Preparar ficha separada de amortización si este criterio aplica."
+  ],
   "nivel_utilidad_final": "Baja",
-  "observaciones": "Extracción hecha solo sobre el texto existente del post. Sin rescrapeo. Los puntos discutibles quedan marcados para validación."
+  "observaciones": "Extracción hecha solo con el texto ya existente del post, sin rescrapeo. Cada idea incluida exige soporte literal localizado."
 }

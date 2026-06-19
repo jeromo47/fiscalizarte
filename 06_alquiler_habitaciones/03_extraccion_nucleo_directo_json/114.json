@@ -4,12 +4,12 @@
   "url": "https://fiscalizarte.substack.com/p/clase-12-otros-gastos-deducibles",
   "fecha": "2025-06-01T07:50:06.024Z",
   "grupo_depurado": "A_NUCLEO_DIRECTO",
-  "tesis_principal": "Extracción solo de puntos accionables y trazables del post para tu caso de alquiler por habitaciones en IRPF como persona física.",
+  "tesis_principal": "Extracción accionable y trazable del post para tu caso de alquiler por habitaciones en IRPF como persona física.",
   "ideas_aplicables": [
     {
-      "punto_extraido": "Solo incluir como otros gastos deducibles los gastos corrientes del ejercicio vinculados al inmueble y necesarios para obtener el ingreso.",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "aplicacion_a_mi_caso": "No basta con que el gasto exista: debes poder defender necesidad, vinculación y carácter corriente.",
+      "punto_extraido": "Solo deducir gastos corrientes del ejercicio vinculados al inmueble y necesarios para obtener el ingreso.",
+      "fragmento_soporte": "uellos gastos corrientes del ejercicio. La palabra corriente aquí es muy importante. Es decir, todos aquellos gastos corrientes del ejercicio que estén vinculados con el inmueble y que sean necesarios para la obtención del ingreso. Súper importante esto. que sean necesarios para la obtención de los",
+      "aplicacion_a_mi_caso": "No todo gasto vale: debes justificar necesidad, vinculación y carácter corriente.",
       "tipo": "Fiscal",
       "riesgo": "Alto",
       "confianza": "Alta",
@@ -19,13 +19,13 @@
         "Justificante bancario",
         "Explicación de vinculación al alquiler"
       ],
-      "accion_recomendada": "Crear checklist de deducibilidad con prueba y motivo de cada gasto.",
-      "pregunta_asesor": "¿Qué criterio práctico debo usar para defender que un gasto concreto es necesario para obtener el ingreso?"
+      "accion_recomendada": "Crear checklist de deducibilidad por gasto.",
+      "pregunta_asesor": "¿Qué criterio práctico debo usar para defender que un gasto es necesario para obtener el ingreso?"
     },
     {
-      "punto_extraido": "Distinguir tributos y recargos deducibles frente a multas o sanciones no deducibles.",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "aplicacion_a_mi_caso": "IBI y ciertas tasas pueden entrar, pero multas y sanciones no; los recargos/intereses exigen revisar criterio exacto.",
+      "punto_extraido": "Distinguir tributos y recargos potencialmente deducibles frente a multas o sanciones no deducibles.",
+      "fragmento_soporte": "s de demora. Pero si me han multado o me han sancionado por cualquier motivo, no se podría incluir. Es decir, se incluye recargos, intereses y demoras, no se incluyen multas ni sanciones, súper importante. Segundo grupito, saldo de dudoso cobro, ¿vale? Bueno, ya lo he comentado en alguna ocasión, so",
+      "aplicacion_a_mi_caso": "IBI y ciertas tasas pueden entrar, pero las sanciones no.",
       "tipo": "Fiscal",
       "riesgo": "Medio",
       "confianza": "Alta",
@@ -33,16 +33,15 @@
       "documentacion_recomendada": [
         "Recibo IBI",
         "Tasas locales",
-        "Liquidaciones",
-        "Soporte del recargo"
+        "Liquidaciones"
       ],
-      "accion_recomendada": "Separar en tu archivo fiscal tributos, recargos e incidencias sancionadoras.",
-      "pregunta_asesor": "¿Qué recargos e intereses locales puedo defender como deducibles y cuáles no?"
+      "accion_recomendada": "Separar tributos, recargos y sanciones en el archivo fiscal.",
+      "pregunta_asesor": "¿Qué recargos e intereses locales son defendibles como deducibles y cuáles no?"
     },
     {
-      "punto_extraido": "El impago puede pasar a saldo de dudoso cobro si se cumplen plazos y hay primera gestión de cobro acreditable.",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "aplicacion_a_mi_caso": "Si un inquilino de habitación impaga, documenta desde el primer día la reclamación y el paso del tiempo.",
+      "punto_extraido": "El saldo de dudoso cobro exige plazo y primera gestión de cobro acreditable.",
+      "fragmento_soporte": "sión, sobre todo por el grupo de Telegram, de suscriptores Premium, pero que sepáis que aquellos ingresos que no han sido cobrados después de seis meses de la primera gestión de cobro, ¿vale? Y el 39 de diciembre, obviamente, pues es decir, desde que han transcurrido seis meses hasta el 31 de diciem",
+      "aplicacion_a_mi_caso": "Si hay impago de una habitación, documenta desde el primer día la reclamación.",
       "tipo": "Fiscal",
       "riesgo": "Alto",
       "confianza": "Alta",
@@ -50,16 +49,15 @@
       "documentacion_recomendada": [
         "Requerimiento de pago",
         "Correo o burofax",
-        "Extractos sin cobro",
-        "Seguro de impago"
+        "Extractos sin cobro"
       ],
       "accion_recomendada": "Abrir protocolo de impago con fecha de primera reclamación.",
-      "pregunta_asesor": "¿Qué evidencia concreta acepta Hacienda para acreditar la primera gestión de cobro y el plazo de seis meses?"
+      "pregunta_asesor": "¿Qué prueba concreta acepta Hacienda para acreditar la primera gestión de cobro y el plazo de seis meses?"
     },
     {
-      "punto_extraido": "Las primas de seguros vinculados al alquiler pueden ser deducibles si están conectadas con la obtención del ingreso.",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "aplicacion_a_mi_caso": "Asegura y archiva RC, incendio, robo o impago cuando protejan la explotación del inmueble.",
+      "punto_extraido": "Las primas de seguros vinculadas al alquiler pueden ser deducibles.",
+      "fragmento_soporte": "seguros, ¿no? Pues todos aquellos seguros que yo pago y que son necesarios para obtener los ingresos, ¿vale? Seguro de responsabilidad civil, seguro de incendio, seguro de robo, seguro de impago de inclino, ¿vale? Muy comúnmente hoy en día. Es habitual que la mayoría de las inversiones que hacemos p",
+      "aplicacion_a_mi_caso": "Útil para RC, incendio, robo o impago si protegen la explotación del inmueble.",
       "tipo": "Fiscal",
       "riesgo": "Medio",
       "confianza": "Alta",
@@ -69,13 +67,13 @@
         "Recibo del seguro",
         "Justificante bancario"
       ],
-      "accion_recomendada": "Guardar pólizas y recibos anuales dentro del expediente del inmueble.",
-      "pregunta_asesor": "¿Qué seguros concretos de mi piso y del alquiler por habitaciones son deducibles en IRPF?"
+      "accion_recomendada": "Guardar pólizas y recibos anuales en el expediente del inmueble.",
+      "pregunta_asesor": "¿Qué seguros concretos de mi alquiler por habitaciones son deducibles en IRPF?"
     },
     {
       "punto_extraido": "Los gastos de formalización del contrato y ciertos servicios profesionales pueden ser deducibles si están facturados.",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "aplicacion_a_mi_caso": "Redacción contractual, gestoría, abogado o inmobiliaria pueden entrar si están bien documentados.",
+      "fragmento_soporte": "pues que sepáis que la cuota de ese seguro de impago anual me la puedo deducir, ¿vale? Es un gasto deducible. Gastos de formalización del contrato, si pago una gestoría, si pago una asesoría, pago a un abogado, pago a una inmobiliaria para que me redacte los contratos, pues todo eso se",
+      "aplicacion_a_mi_caso": "Puede afectar a gestoría, abogado, inmobiliaria o redacción contractual.",
       "tipo": "Fiscal",
       "riesgo": "Medio",
       "confianza": "Alta",
@@ -85,13 +83,13 @@
         "NIF/CIF proveedor",
         "Justificante bancario"
       ],
-      "accion_recomendada": "Pedir siempre factura nominativa de gestoría, abogado o inmobiliaria.",
-      "pregunta_asesor": "¿Qué servicios de gestión, redacción contractual o comercialización puedo deducir sin elevar riesgo?"
+      "accion_recomendada": "Pedir siempre factura nominativa de los servicios profesionales.",
+      "pregunta_asesor": "¿Qué servicios de gestión o redacción contractual puedo deducir sin elevar riesgo?"
     },
     {
-      "punto_extraido": "Los suministros repercutidos deben declararse tanto en ingresos como en gastos, aunque el efecto fiscal final sea neutro.",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "aplicacion_a_mi_caso": "Muy relevante en alquiler por habitaciones con renta más suministros.",
+      "punto_extraido": "Los suministros repercutidos deben declararse como ingreso y como gasto aunque el efecto final sea neutro.",
+      "fragmento_soporte": "o. De tal forma que el efecto en renta sea neutro, sea cero. Si yo declaro 50 como ingresos y 50 como gastos, 50 menos 50 son cero, ¿vale? No tiene influencia... en renta, pero, ojo, que no tenga influencia en renta, que el efecto sea neutro fiscal, no quiere decir que",
+      "aplicacion_a_mi_caso": "Muy relevante si cobras habitación más suministros.",
       "tipo": "Fiscal",
       "riesgo": "Alto",
       "confianza": "Alta",
@@ -99,16 +97,15 @@
       "documentacion_recomendada": [
         "Contrato",
         "Facturas de suministros",
-        "Cobros del inquilino",
-        "Extractos bancarios"
+        "Cobros del inquilino"
       ],
-      "accion_recomendada": "Separar contractualmente renta base y repercusión de suministros.",
-      "pregunta_asesor": "¿Cómo prorrateo y justifico los suministros cuando varios inquilinos comparten piso?"
+      "accion_recomendada": "Separar contractualmente renta base y suministros repercutidos.",
+      "pregunta_asesor": "¿Cómo prorrateo y justifico los suministros cuando varias habitaciones comparten piso?"
     },
     {
-      "punto_extraido": "Puede haber gastos deducibles fuera de la lista típica, pero exigen necesidad real y factura justificativa sólida.",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "aplicacion_a_mi_caso": "Si pagas a un tercero por gestionar el piso desde otra ciudad, puede ser defendible si está facturado y vinculado al alquiler.",
+      "punto_extraido": "Puede haber gastos deducibles fuera de la lista típica, pero exigen factura y necesidad real.",
+      "fragmento_soporte": "a. Y luego, súper importante, lo que recargo aquí, que hay mucha gente que se confunde con esto. Estos gastos no son una lista cerrada. No son una lista cerrada, como lo veremos. Se puede incluir cualquier otro gasto, pero ojo, que sea necesario para obtener los ingresos. P",
+      "aplicacion_a_mi_caso": "Si delegas gestión o pagas un tercero, solo es defendible con factura y vínculo claro.",
       "tipo": "Fiscal",
       "riesgo": "Alto",
       "confianza": "Alta",
@@ -116,16 +113,15 @@
       "documentacion_recomendada": [
         "Factura",
         "Contrato/encargo",
-        "Justificante bancario",
-        "Explicación funcional del servicio"
+        "Justificante bancario"
       ],
-      "accion_recomendada": "No incluir gastos atípicos sin factura y sin nota interna de justificación.",
-      "pregunta_asesor": "¿Qué gastos no estándar de gestión del alquiler por habitaciones son razonablemente defendibles ante Hacienda?"
+      "accion_recomendada": "No meter gastos atípicos sin factura y sin nota de justificación.",
+      "pregunta_asesor": "¿Qué gastos no estándar de gestión del alquiler por habitaciones son razonablemente defendibles?"
     },
     {
-      "punto_extraido": "Prorratear determinados gastos al periodo realmente alquilado, sin meter meses no arrendados.",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "aplicacion_a_mi_caso": "Si no alquilas todo el año o hay habitaciones vacías, necesitas criterio temporal defendible.",
+      "punto_extraido": "Prorratear determinados gastos al periodo realmente alquilado.",
+      "fragmento_soporte": "total y lo acumulo. Ojo que aquí... Estoy acumulando importe anual, ¿vale? Y ojo, hay que tener en cuenta que solo me puedo deducir aquello en el cual el piso ha estado alquilado. Imaginaros que yo el piso lo he tenido alquilado desde junio a diciembre, que son seis meses, no me voy a meter aquí las",
+      "aplicacion_a_mi_caso": "Si no alquilas todo el año, necesitas criterio temporal defendible.",
       "tipo": "Operativo",
       "riesgo": "Medio",
       "confianza": "Alta",
@@ -133,16 +129,15 @@
       "documentacion_recomendada": [
         "Calendario de alquiler",
         "Contratos",
-        "Recibos por meses",
         "Cuadro de prorrateo"
       ],
-      "accion_recomendada": "Llevar calendario anual de ocupación y hoja de prorrateo de gastos.",
-      "pregunta_asesor": "¿Qué gastos debo prorratear por tiempo de alquiler y cuáles no en mi caso?"
+      "accion_recomendada": "Llevar calendario anual de ocupación y prorrateo.",
+      "pregunta_asesor": "¿Qué gastos debo prorratear por tiempo de alquiler y cuáles no?"
     },
     {
-      "punto_extraido": "No deducir seguros de vida vinculados al préstamo salvo que fueran necesarios para obtenerlo, no meros bonificadores.",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "aplicacion_a_mi_caso": "Si tu hipoteca tiene productos vinculados, hay que distinguir obligación real frente a mejora comercial del tipo.",
+      "punto_extraido": "No deducir seguros de vida del préstamo salvo que fueran necesarios para obtenerlo.",
+      "fragmento_soporte": "anterior pero, bueno, por la clase 11 que no recuerdo que era los seguros de vida, me lo pregunta mucha gente solo se puede meter aquí si son necesarios para obtener el préstamo, si no es necesario para obtener el préstamo es decir, un mero bonificador del tipo de interés no es un gasto deducible, v",
+      "aplicacion_a_mi_caso": "Si la hipoteca tiene productos vinculados, distingue requisito real frente a bonificación comercial.",
       "tipo": "Fiscal",
       "riesgo": "Alto",
       "confianza": "Alta",
@@ -152,79 +147,34 @@
         "Escritura préstamo",
         "Recibos del seguro"
       ],
-      "accion_recomendada": "Revisar documentación del préstamo antes de deducir seguros asociados.",
-      "pregunta_asesor": "¿Mi seguro vinculado a la hipoteca era realmente requisito para el préstamo o solo bonificación del tipo?"
+      "accion_recomendada": "Revisar la documentación del préstamo antes de deducir seguros asociados.",
+      "pregunta_asesor": "¿Mi seguro vinculado a la hipoteca era requisito del préstamo o solo bonificación del tipo?"
     }
   ],
   "gastos_deducciones": [
     {
-      "concepto": "Otros gastos corrientes necesarios",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "criterio_del_post": "Deben ser corrientes, vinculados al inmueble y necesarios para obtener el ingreso.",
-      "aplicacion_a_mi_caso": "Úsalo como filtro general antes de deducir cualquier gasto no obvio.",
-      "prueba_necesaria": "Factura y justificación de vinculación.",
-      "riesgo_hacienda": "Alto",
-      "verificar_fuente_oficial": true
-    },
-    {
-      "concepto": "IBI, tasas y recargos",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "criterio_del_post": "Pueden entrar ciertos tributos/recargos, no multas ni sanciones.",
-      "aplicacion_a_mi_caso": "Relevante para IBI y tasas locales del inmueble.",
-      "prueba_necesaria": "Recibos y detalle del concepto.",
-      "riesgo_hacienda": "Medio",
-      "verificar_fuente_oficial": true
-    },
-    {
-      "concepto": "Saldo de dudoso cobro",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "criterio_del_post": "Exige plazo y gestión de cobro acreditada.",
-      "aplicacion_a_mi_caso": "Solo si hay impago real y soporte documental.",
-      "prueba_necesaria": "Reclamación y extractos.",
-      "riesgo_hacienda": "Alto",
-      "verificar_fuente_oficial": true
-    },
-    {
-      "concepto": "Primas de seguros",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "criterio_del_post": "Seguros vinculados al alquiler pueden deducirse.",
-      "aplicacion_a_mi_caso": "Útil para RC, incendio, robo o impago.",
+      "concepto": "Seguros",
+      "fragmento_soporte": "seguros, ¿no? Pues todos aquellos seguros que yo pago y que son necesarios para obtener los ingresos, ¿vale? Seguro de responsabilidad civil, seguro de incendio, seguro de robo, seguro de impago de inclino, ¿vale? Muy comúnmente hoy en día. Es habitual que la mayoría de las inversiones que hacemos p",
+      "criterio_del_post": "El post trata la posible deducibilidad o condición del seguro.",
+      "aplicacion_a_mi_caso": "Útil si el inmueble o la financiación tienen seguros vinculados.",
       "prueba_necesaria": "Póliza y recibos.",
-      "riesgo_hacienda": "Medio",
-      "verificar_fuente_oficial": true
-    },
-    {
-      "concepto": "Formalización y servicios de terceros",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "criterio_del_post": "Necesitan factura y conexión con la explotación del inmueble.",
-      "aplicacion_a_mi_caso": "Útil para abogado, gestoría, inmobiliaria o gestión remota.",
-      "prueba_necesaria": "Factura y NIF/CIF proveedor.",
       "riesgo_hacienda": "Medio",
       "verificar_fuente_oficial": true
     },
     {
       "concepto": "Suministros repercutidos",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "criterio_del_post": "Se declaran en ingresos y gastos si los paga el propietario y se repercuten.",
-      "aplicacion_a_mi_caso": "Muy común en habitaciones.",
-      "prueba_necesaria": "Facturas, contrato y cobros.",
+      "fragmento_soporte": "o. De tal forma que el efecto en renta sea neutro, sea cero. Si yo declaro 50 como ingresos y 50 como gastos, 50 menos 50 son cero, ¿vale? No tiene influencia... en renta, pero, ojo, que no tenga influencia en renta, que el efecto sea neutro fiscal, no quiere decir que",
+      "criterio_del_post": "El propio post exige reflejar o justificar el tratamiento de suministros.",
+      "aplicacion_a_mi_caso": "Relevante si cobras habitación más gastos.",
+      "prueba_necesaria": "Contrato, facturas y cobros.",
       "riesgo_hacienda": "Alto",
-      "verificar_fuente_oficial": true
-    },
-    {
-      "concepto": "Primas de seguros",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
-      "criterio_del_post": "Seguros vinculados al alquiler pueden deducirse.",
-      "aplicacion_a_mi_caso": "Útil para RC, incendio, robo o impago.",
-      "prueba_necesaria": "Póliza y recibos.",
-      "riesgo_hacienda": "Medio",
       "verificar_fuente_oficial": true
     }
   ],
   "contratos_clausulas": [
     {
-      "idea": "Prever cláusula o anexo claro sobre suministros y gastos repercutidos.",
-      "fragmento_soporte": "Hola a todos, ¿qué tal? Continuamos con la clase 12 del curso sobre fiscalidad inmobiliaria. En esta clase 12, pues bueno, la dedicamos a analizar otra serie de gastos deducibles que me permite la ley del IRPF y el reglamento, ¿vale? Para compensar la carga fiscal de los ingresos que, bueno, que co…",
+      "idea": "Prever cláusula o anexo claro sobre suministros repercutidos.",
+      "fragmento_soporte": ", ¿no? En alquiler por habitaciones. Yo le pago 500, o sea, yo no le pago, ¿no? Sino que el inquilino me paga 250 euros por una habitación... más 50 euros en concepto de luz, agua, en concepto de gasto, ¿no? En concepto de facturas. Pues bueno, esos 50 euros, ¿vale? Que me paga el inquilino, yo lo v",
       "uso": "Anexo",
       "texto_orientativo": "La renta mensual es ___ y los suministros repercutidos se calculan según ___, con liquidación y soporte ___.",
       "riesgo": "Medio"
@@ -240,8 +190,6 @@
     "Cuadro de prorrateo",
     "Escritura préstamo",
     "Explicación de vinculación al alquiler",
-    "Explicación funcional del servicio",
-    "Extractos bancarios",
     "Extractos sin cobro",
     "Factura",
     "Factura profesional",
@@ -254,56 +202,61 @@
     "Recibo IBI",
     "Recibo del seguro",
     "Recibos del seguro",
-    "Recibos por meses",
     "Requerimiento de pago",
-    "Seguro de impago",
-    "Soporte del recargo",
     "Tasas locales"
   ],
   "riesgos": {
     "fiscal": [
-      "Solo incluir como otros gastos deducibles los gastos corrientes del ejercicio vinculados al inmueble y necesarios para obtener el ingreso.",
-      "Distinguir tributos y recargos deducibles frente a multas o sanciones no deducibles.",
-      "El impago puede pasar a saldo de dudoso cobro si se cumplen plazos y hay primera gestión de cobro acreditable.",
-      "Las primas de seguros vinculados al alquiler pueden ser deducibles si están conectadas con la obtención del ingreso.",
+      "Solo deducir gastos corrientes del ejercicio vinculados al inmueble y necesarios para obtener el ingreso.",
+      "Distinguir tributos y recargos potencialmente deducibles frente a multas o sanciones no deducibles.",
+      "El saldo de dudoso cobro exige plazo y primera gestión de cobro acreditable.",
+      "Las primas de seguros vinculadas al alquiler pueden ser deducibles.",
       "Los gastos de formalización del contrato y ciertos servicios profesionales pueden ser deducibles si están facturados.",
-      "Los suministros repercutidos deben declararse tanto en ingresos como en gastos, aunque el efecto fiscal final sea neutro.",
-      "Puede haber gastos deducibles fuera de la lista típica, pero exigen necesidad real y factura justificativa sólida.",
-      "No deducir seguros de vida vinculados al préstamo salvo que fueran necesarios para obtenerlo, no meros bonificadores."
+      "Los suministros repercutidos deben declararse como ingreso y como gasto aunque el efecto final sea neutro.",
+      "Puede haber gastos deducibles fuera de la lista típica, pero exigen factura y necesidad real.",
+      "No deducir seguros de vida del préstamo salvo que fueran necesarios para obtenerlo."
     ],
     "contractual": [
-      "Alinear contratos y anexos con la realidad del alquiler por habitaciones, suministros y uso pactado."
+      "Revisar que contratos y anexos reflejen la realidad económica y fiscal del alquiler por habitaciones."
     ],
     "probatorio": [],
     "operativo": [
-      "Prorratear determinados gastos al periodo realmente alquilado, sin meter meses no arrendados."
+      "Prorratear determinados gastos al periodo realmente alquilado."
     ],
     "interpretacion": [
-      "Validar con asesor o fuente oficial los puntos dependientes de criterio AEAT, DGT, TEAC o interpretación normativa."
+      "Solo deducir gastos corrientes del ejercicio vinculados al inmueble y necesarios para obtener el ingreso.",
+      "Distinguir tributos y recargos potencialmente deducibles frente a multas o sanciones no deducibles.",
+      "El saldo de dudoso cobro exige plazo y primera gestión de cobro acreditable.",
+      "Las primas de seguros vinculadas al alquiler pueden ser deducibles.",
+      "Los gastos de formalización del contrato y ciertos servicios profesionales pueden ser deducibles si están facturados.",
+      "Los suministros repercutidos deben declararse como ingreso y como gasto aunque el efecto final sea neutro.",
+      "Puede haber gastos deducibles fuera de la lista típica, pero exigen factura y necesidad real.",
+      "Prorratear determinados gastos al periodo realmente alquilado.",
+      "No deducir seguros de vida del préstamo salvo que fueran necesarios para obtenerlo."
     ]
   },
   "preguntas_para_asesor": [
-    "¿Qué criterio práctico debo usar para defender que un gasto concreto es necesario para obtener el ingreso?",
-    "¿Qué recargos e intereses locales puedo defender como deducibles y cuáles no?",
-    "¿Qué evidencia concreta acepta Hacienda para acreditar la primera gestión de cobro y el plazo de seis meses?",
-    "¿Qué seguros concretos de mi piso y del alquiler por habitaciones son deducibles en IRPF?",
-    "¿Qué servicios de gestión, redacción contractual o comercialización puedo deducir sin elevar riesgo?",
-    "¿Cómo prorrateo y justifico los suministros cuando varios inquilinos comparten piso?",
-    "¿Qué gastos no estándar de gestión del alquiler por habitaciones son razonablemente defendibles ante Hacienda?",
-    "¿Qué gastos debo prorratear por tiempo de alquiler y cuáles no en mi caso?",
-    "¿Mi seguro vinculado a la hipoteca era realmente requisito para el préstamo o solo bonificación del tipo?"
+    "¿Qué criterio práctico debo usar para defender que un gasto es necesario para obtener el ingreso?",
+    "¿Qué recargos e intereses locales son defendibles como deducibles y cuáles no?",
+    "¿Qué prueba concreta acepta Hacienda para acreditar la primera gestión de cobro y el plazo de seis meses?",
+    "¿Qué seguros concretos de mi alquiler por habitaciones son deducibles en IRPF?",
+    "¿Qué servicios de gestión o redacción contractual puedo deducir sin elevar riesgo?",
+    "¿Cómo prorrateo y justifico los suministros cuando varias habitaciones comparten piso?",
+    "¿Qué gastos no estándar de gestión del alquiler por habitaciones son razonablemente defendibles?",
+    "¿Qué gastos debo prorratear por tiempo de alquiler y cuáles no?",
+    "¿Mi seguro vinculado a la hipoteca era requisito del préstamo o solo bonificación del tipo?"
   ],
   "acciones_recomendadas": [
-    "Crear checklist de deducibilidad con prueba y motivo de cada gasto.",
-    "Separar en tu archivo fiscal tributos, recargos e incidencias sancionadoras.",
+    "Crear checklist de deducibilidad por gasto.",
+    "Separar tributos, recargos y sanciones en el archivo fiscal.",
     "Abrir protocolo de impago con fecha de primera reclamación.",
-    "Guardar pólizas y recibos anuales dentro del expediente del inmueble.",
-    "Pedir siempre factura nominativa de gestoría, abogado o inmobiliaria.",
-    "Separar contractualmente renta base y repercusión de suministros.",
-    "No incluir gastos atípicos sin factura y sin nota interna de justificación.",
-    "Llevar calendario anual de ocupación y hoja de prorrateo de gastos.",
-    "Revisar documentación del préstamo antes de deducir seguros asociados."
+    "Guardar pólizas y recibos anuales en el expediente del inmueble.",
+    "Pedir siempre factura nominativa de los servicios profesionales.",
+    "Separar contractualmente renta base y suministros repercutidos.",
+    "No meter gastos atípicos sin factura y sin nota de justificación.",
+    "Llevar calendario anual de ocupación y prorrateo.",
+    "Revisar la documentación del préstamo antes de deducir seguros asociados."
   ],
   "nivel_utilidad_final": "Alta",
-  "observaciones": "Extracción hecha solo sobre el texto existente del post. Sin rescrapeo. Los puntos discutibles quedan marcados para validación."
+  "observaciones": "Extracción hecha solo con el texto ya existente del post, sin rescrapeo. Cada idea incluida exige soporte literal localizado."
 }
