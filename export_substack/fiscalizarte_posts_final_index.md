@@ -1,0 +1,229 @@
+# Fiscalizarte extracción final
+
+- [#Clase 32: El régimen fiscal que puede ahorrarte una hostia de impuestos al aportar tus inmuebles a una sociedad.](posts_texto/clase-32-el-regimen-fiscal-que-puede.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [La villa en Lombok que parecía una gran inversión… hasta que apareció Hacienda](posts_texto/la-villa-en-lombok-que-parecia-una.md) | texto_normal | OK
+- [El error fiscal que veo en el 95% de inversores inmobiliarios.](posts_texto/el-error-fiscal-que-veo-en-el-95.md) | texto_normal | OK
+- [Tu gestor puede estar metiéndote en un problema fiscal sin que te enteres. ](posts_texto/tu-gestor-puede-estar-metiendote.md) | texto_normal | OK
+- [#Clase 31: Cómo leer la contabilidad básica de una sociedad de capital aunque no seas contable.](posts_texto/clase-31-como-leer-la-contabilidad.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [#Clase 30: Clase BOMBA: así realizo una auditoría fiscal-patrimonial de un inversor de mi comunidad.](posts_texto/clase-30-clase-bomba-asi-realizo.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [¿Sociedad limitada para hacer flipping?
+No siempre. Y ese es justo el error que comete mucha gente](posts_texto/sociedad-limitada-para-hacer-flipping.md) | texto_normal | OK
+- [Le he ahorrado a un inversor 1.200€ en su declaración de la renta.](posts_texto/le-he-ahorrado-a-un-inversor-1200.md) | texto_normal | OK
+- [Así le he ahorrado 2.200€ a un inversor que estaba declarando mal sus inmuebles..](posts_texto/asi-le-he-ahorrado-2200-a-un-inversor.md) | texto_normal | OK
+- [#Clase 29: Esta clase 29 de Fiscalizarte no es una clase cualquiera...](posts_texto/clase-29-esta-clase-29-de-fiscalizarte.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [Estar autorizado en una cuenta no significa que el dinero sea tuyo](posts_texto/estar-autorizado-en-una-cuenta-no.md) | texto_normal | OK
+- [Clase 28 ya disponible: así se declara la venta de un inmueble en la renta.](posts_texto/clase-28-ya-disponible-asi-se-declara.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [Error típico con socios o promotores extranjeros: pensar que su NIF de fuera basta en España](posts_texto/error-tipico-con-socios-o-promotores.md) | texto_normal | OK
+- [#Clase 27: Declara tus pisos por habitaciones de esta forma y ahorra impuestos.](posts_texto/clase-27-declara-tus-pisos-por-habitaciones.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [El Supremo te da munición para blindar la reducción del 95% en donaciones](posts_texto/el-supremo-te-da-municion-para-blindar.md) | texto_normal | OK
+- [#Clase 5: Análisis real in situ de una operación de CDR con un 50% de rentabilidad..](posts_texto/clase-5-analisis-real-in-situ-de.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [“Somos 5 hermanos y ya no nos soportamos”: cómo separar la SL de alquiler SIN palo fiscal.](posts_texto/somos-5-hermanos-y-ya-no-nos-soportamos.md) | texto_normal | OK
+- [Préstamo participativo en inmobiliarias: el error que te puede costar el IS (DGT V2152-25)](posts_texto/prestamo-participativo-en-inmobiliarias.md) | texto_normal | OK
+- [No residente + Patrimonio en España: el “límite del 60%” ya te protege (TEAC 27/01/2026)](posts_texto/no-residente-patrimonio-en-espana.md) | texto_normal | OK
+- [Empresa inmobiliaria + empleado familiar: el TSJ de Cataluña frena el “no” automático de Hacienda](posts_texto/empresa-inmobiliaria-empleado-familiar.md) | texto_normal | OK
+- [El TC te lo deja claro: el “valor de referencia” no cae (y te toca jugar con sus reglas)](posts_texto/el-tc-te-lo-deja-claro-el-valor-de.md) | texto_normal | OK
+- [Madrid: ¿puedes aplicar el 4% de ITP si el 3º hijo está concebido pero no ha nacido?](posts_texto/madrid-puedes-aplicar-el-4-de-itp.md) | texto_normal | OK
+- [Tu gestor te puede costar 10.000€ en un flip (y ni se entera)](posts_texto/tu-gestor-te-puede-costar-10000-en.md) | texto_normal | OK
+- [ITP Madrid: puedes aplicar el 2% aunque tu CNAE “no sea inmobiliario”](posts_texto/itp-madrid-puedes-aplicar-el-2-aunque.md) | texto_normal | OK
+- [#Actualización 3: Reto 35.000€ — Del 12 al 23 de enero: el mercado pagó… y yo ya tengo el primer piso reservado](posts_texto/actualizacion-3-reto-35000-del-12.md) | texto_normal | OK
+- [#Clase 26 — Alquiler con opción a compra (AOC): la estrategia “fácil” que Hacienda te puede romper.](posts_texto/clase-26-alquiler-con-opcion-a-compra.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [Cantabria revienta el “valor de referencia” cuando el inmueble está hecho polvo](posts_texto/cantabria-revienta-el-valor-de-referencia.md) | texto_normal | OK
+- [#Actualización 2: Reto 35.000€: el mercado me ha dado la razón (de momento)](posts_texto/actualizacion-2-reto-35000-el-mercado.md) | texto_normal | OK
+- [#Clase 25: 100% IRPF en alquiler: la letra pequeña que te interesa de verdad.](posts_texto/clase-25-100-irpf-en-alquiler-la.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [Tú socio vive en Suecia y vais a liquidar: el detalle que decide si tributas en España.](posts_texto/tu-socio-vive-en-suecia-y-vais-a.md) | texto_normal | OK
+- [#Actualización 1: El reto de los 35.000€: primer movimiento (y el más importante)](posts_texto/actualizacion-1-el-reto-de-los-35000.md) | texto_normal | OK
+- [# Clase 4: Analizo una operación de NPL in situ y con documentación real.](posts_texto/clase-4-analizo-una-operacion-de.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [He sacado 35.000€ sin vender (y voy a enseñarte el recorrido)](posts_texto/he-sacado-35000-sin-vender-y-voy.md) | texto_normal | OK
+- [Pagas el 100% de la hipoteca… pero Hacienda solo te deja deducir el 33%.](posts_texto/pagas-el-100-de-la-hipoteca-pero.md) | texto_normal | OK
+- [🚨 #Clase 24: tres inversores, tres vidas… y una decisión que te puede ahorrar (o costar) mucho dinero](posts_texto/clase-24-tres-inversores-tres-vidas.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [Herencias y donaciones: el número que Hacienda ya tiene… y tú aún no](posts_texto/herencias-y-donaciones-el-numero.md) | texto_normal | OK
+- [#CLASE 23: APLICA ESTA ESTRATEGIA DE INGENERIA FISCAL (Y AHORRA IMPUESTOS CON NÚMEROS REALES).](posts_texto/clase-23-aplica-esta-estrategia-de.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [He cerrado el año con esta operación....](posts_texto/he-cerrado-el-ano-con-esta-operacion.md) | texto_normal | OK
+- [Salir de una SL tras una bronca: el error fiscal que te puede costar miles de euros.](posts_texto/salir-de-una-sl-tras-una-bronca-el.md) | texto_normal | OK
+- [Cómo arruinar tu nueva SL por culpa de la vieja (y de Hacienda)...](posts_texto/como-arruinar-tu-nueva-sl-por-culpa.md) | texto_normal | OK
+- [#Clase 22: Planificación fiscal con JERO ´´Inversor de la Comunidad Fiscalizarte``](posts_texto/clase-22-planificacion-fiscal-con.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [Te cuento un caso real de un inversor al que asesoré...](posts_texto/te-cuento-un-caso-real-de-un-inversor.md) | texto_normal | OK
+- [“¿Qué tengo que hacer antes de fin de año para pagar lo mínimo posible en la renta?”](posts_texto/que-tengo-que-hacer-antes-de-fin.md) | texto_normal | OK
+- [Clase 3: NPLs (crédito hipotecario impagado) — donde de verdad están los descuentos](posts_texto/clase-3-npls-credito-hipotecario.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [“¿Por qué todo el mundo me dice que cree una sociedad si ya pago menos como no residente?”](posts_texto/por-que-todo-el-mundo-me-dice-que.md) | texto_normal | OK
+- [¿Tengo que darme de alta en autónomos si tengo una patrimonial?](posts_texto/tengo-que-darme-de-alta-en-autonomos.md) | texto_normal | OK
+- [#Clase 21: ¿Cúando DEBES pasar tús inmuebles a una SOCIEDAD PATRIMONIAL?](posts_texto/clase-21-cuando-debes-pasar-tus-inmuebles.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [Fiscalidad inmobiliaria sin humo: accede gratis a la sesión que di ayer a Comunidad Propia](posts_texto/fiscalidad-inmobiliaria-sin-humo.md) | texto_normal | OK
+- [Me casé, vendí mi casa… y Hacienda quiere venir a la luna de miel](posts_texto/me-case-vendi-mi-casa-y-hacienda.md) | texto_normal | OK
+- [Esta lección te puede ahorrar 400.000 euros...](posts_texto/esta-leccion-te-puede-ahorrar-400000.md) | texto_normal | OK
+- [La fantasía del “me llevo la sociedad a otro país y me libro de Sucesiones”](posts_texto/la-fantasia-del-me-llevo-la-sociedad.md) | texto_normal | OK
+- [(EII) Clase sobre interpretación de Notas Simples para operaciones inmobiliarias complejas.](posts_texto/eii-clase-sobre-interpretacion-de.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [El falso “escudo protector” de crear otra sociedad (y por qué podrías estar pagando el doble para no proteger nada).](posts_texto/el-falso-escudo-protector-de-crear.md) | texto_normal | OK
+- [ (EII) Clase sobre inversión en Subastas de la Seguridad Social.](posts_texto/eii-clase-sobre-inversion-en-subastas.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [Hoy inauguro algo que llevaba meses preparando...](posts_texto/hoy-inauguro-algo-que-llevaba-meses.md) | texto_normal | OK
+- [Ayer hubo fuego.](posts_texto/ayer-hubo-fuego.md) | texto_normal | OK
+- [Sí, las cuentas en participación pagan un 1%… y no, tu asesor de siempre no tiene ni idea de por qué..](posts_texto/si-las-cuentas-en-participacion-pagan.md) | texto_normal | OK
+- [El error caro al “meter tus pisos” en una SL: cálculos claros para no regalar dinero a Hacienda](posts_texto/el-error-caro-al-meter-tus-pisos.md) | texto_normal | OK
+- [Email importante. No te pierdas este contenido.](posts_texto/email-importante-no-te-pierdas-este.md) | texto_normal | OK
+- [🚀 ¿Tienes criptos que se han disparado de valor? Cuidado con venderlas como particular… y atención si piensas meterlas en una SL](posts_texto/tienes-criptos-que-se-han-disparado.md) | texto_normal | OK
+- [🧾 ¿Comprar, reformar y vender pisos como autónomo o como persona física? La clave fiscal que puede cambiar tu rentabilidad](posts_texto/comprar-reformar-y-vender-pisos-como.md) | texto_normal | OK
+- [💻 ¿Vas a crear una sociedad sin poner dinero en efectivo? Sí, se puede… y esto es lo que debes saber sobre los impuestos](posts_texto/vas-a-crear-una-sociedad-sin-poner.md) | texto_normal | OK
+- [🌍 ¿Vives en el extranjero y estás invirtiendo en inmuebles en España? Entonces esta pregunta te interesa (y mucho)](posts_texto/vives-en-el-extranjero-y-estas-invirtiendo.md) | texto_normal | OK
+- [#Clase 20: Operaciones de Flips: ¿Cuándo actividad económica?](posts_texto/clase-20-operaciones-de-flips-cuando.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [👔 ¿Tienes una sociedad patrimonial? Ojo: podrías estar obligado a darte de alta en autónomos (aunque no lo creas)](posts_texto/tienes-una-sociedad-patrimonial-ojo.md) | texto_normal | OK
+- [#Clase 19: Cálculo de Ganancias y Pérdidas Patrimoniales en IRPF](posts_texto/clase-19-calculo-de-ganancias-y-perdidas.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [🏠 ¿Vendiste tu vivienda habitual tras casarte en gananciales? ](posts_texto/vendiste-tu-vivienda-habitual-tras.md) | texto_normal | OK
+- [#Clase 18: Conoce la Base del Ahorro del IRPF.](posts_texto/clase-18-conoce-la-base-del-ahorro.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [El peaje invisible que frena a los inversores..](posts_texto/el-peaje-invisible-que-frena-a-los.md) | texto_normal | OK
+- [🏢 ¿Proteger tus activos inmobiliarios creando otra sociedad? ](posts_texto/proteger-tus-activos-inmobiliarios.md) | texto_normal | OK
+- [Holding patrimonial: ¿una buena idea o una bomba fiscal?](posts_texto/holding-patrimonial-una-buena-idea.md) | texto_normal | OK
+- [👉 Te estás metiendo en un lío con Hacienda y ni siquiera lo sabes..](posts_texto/te-estas-metiendo-en-un-lio-con-hacienda.md) | texto_normal | OK
+- [#Clase 17: Reducción por Rendimientos Irregulares y Arrendamientos con paresteco familiar.](posts_texto/clase-17-reduccion-por-rendimientos.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [🚀 Masterclass GRATIS: Cómo pagar menos impuestos en tus inversiones inmobiliarias](posts_texto/masterclass-gratis-como-pagar-menos.md) | texto_normal | OK
+- [🧾 Fiscalidad Inmobiliaria | ¿Cómo se calcula la amortización fiscal de un inmueble heredado y alquilado?](posts_texto/fiscalidad-inmobiliaria-como-se-calcula.md) | texto_normal | OK
+- [… esto es lo que te estás perdiendo...](posts_texto/esto-es-lo-que-te-estas-perdiendo.md) | texto_normal | OK
+- [#Clase 16: Cálculo del Rendimiento Neto/Reducido.](posts_texto/clase-16-calculo-del-rendimiento.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [💡 Fiscalidad inmobiliaria: el caso de la “renta garantizada” en la compraventa de locales comerciales](posts_texto/fiscalidad-inmobiliaria-el-caso-de.md) | texto_normal | OK
+- [🏠💼 Fiscalidad en el alquiler de apartamentos turísticos: evita errores que pueden costarte caro](posts_texto/fiscalidad-en-el-alquiler-de-apartamentos.md) | texto_normal | OK
+- [Los grandes inversores no van solos. Ahora, nosotros tampoco 🤝](posts_texto/los-grandes-inversores-no-van-solos.md) | texto_normal | OK
+- [📉 Ayer te conté un error fiscal muy común entre inversores… Hoy te traigo otro que, para mí, es básico conocer.](posts_texto/ayer-te-conte-un-error-fiscal-muy.md) | texto_normal | OK
+- [⚠️ Estás perdiendo dinero (y no lo sabes): el error fiscal nº1 de muchos inversores inmobiliarios](posts_texto/estas-perdiendo-dinero-y-no-lo-sabes.md) | texto_normal | OK
+- [🚀 ¡Firmado el primer proyecto de co-inversión con la comunidad premium!](posts_texto/firmado-el-primer-proyecto-de-co.md) | texto_normal | OK
+- [#Clase 15: Cuestiones Comunes a los gastos deducibles.](posts_texto/clase-15-cuestiones-comunes-a-los.md) | podcast_video_sin_transcripcion_substack | OK
+- [💰Asi he ganado casi 9.000 euros en 2 meses..](posts_texto/asi-he-ganado-casi-9000-euros-en.md) | texto_normal | OK
+- [Ejemplo Real: ¿Te conviene alquilar como persona física o a través de sociedad patrimonial?](posts_texto/ejemplo-real-te-conviene-alquilar.md) | texto_normal | OK
+- [Estás pagando más impuestos de los que deberías (y lo sabes)](posts_texto/estas-pagando-mas-impuestos-de-los.md) | texto_normal | OK
+- [🏠💸 ERROR FRECUENTE EN RENTAS DE INMUEBLES: "Se me olvidaron los gastos de reparación el año pasado... ¿Y ahora qué?](posts_texto/error-frecuente-en-rentas-de-inmuebles.md) | texto_normal | OK
+- [🚨 El error fiscal que cometen (casi) todos los inversores inmobiliarios..](posts_texto/el-error-fiscal-que-cometen-casi.md) | texto_normal | OK
+- [⚠️ Cataluña aprieta el puño fiscal: llega el 20% en Transmisiones Patrimoniales Onerosas.](posts_texto/cataluna-aprieta-el-puno-fiscal-llega.md) | texto_normal | OK
+- [🏠 Alquilas tu piso por habitaciones… pero, ¿sabes cómo declarar bien la amortización del inmueble?](posts_texto/alquilas-tu-piso-por-habitaciones.md) | texto_normal | OK
+- [🔒 Acceso exclusivo: 30 minutos que todo inversor debe ver.](posts_texto/acceso-exclusivo-30-minutos-que-todo.md) | newsletter_con_video_embebido | OK
+- [🏗️ Lo que muchos no saben sobre Segregar vs. Dividir un inmueble (y cómo tributa después)](posts_texto/lo-que-muchos-no-saben-sobre-segregar.md) | texto_normal | OK
+- [Mientras tú pagas al "personal shopper", yo compro con un 40% de descuento… y tributo la mitad. Te cuento cómo.](posts_texto/mientras-tu-pagas-al-personal-shopper.md) | texto_normal | OK
+- [🧠 ¿Inviertes en inmuebles? Entonces esto te interesa (mucho).](posts_texto/inviertes-en-inmuebles-entonces-esto.md) | texto_normal | OK
+- [🕵️‍♂️ ¿Te ha escrito Hacienda? No entres en pánico (aún)...](posts_texto/te-ha-escrito-hacienda-no-entres.md) | texto_normal | OK
+- [🚨 El error fiscal que casi le cuesta caro a este inversor no residente](posts_texto/el-error-fiscal-que-casi-le-cuesta.md) | texto_normal | OK
+- [🧱 Así estoy creando una sociedad de co-inversión inmobiliaria (para que tú también puedas invertir, sin complicarte)](posts_texto/asi-estoy-creando-una-sociedad-de.md) | texto_normal | OK
+- [⏳ Últimas 24 horas. No se volverá a repetir.](posts_texto/ultimas-24-horas-no-se-volvera-a.md) | texto_normal | OK
+- [🏠 ¿Debo tributar por "Operaciones Societarias" si constituyo una comunidad de bienes para alquilar inmuebles?](posts_texto/debo-tributar-por-operaciones-societarias.md) | texto_normal | OK
+- [🚀 Cómo Mi Hermano va a GANAR 25.000€ en Menos de 6 Meses con un Piso en Jaén (Y Tú También Puedes)](posts_texto/como-mi-hermano-va-a-ganar-25000.md) | texto_normal | OK
+- [#Clase 14: Amortización de las mejoras.](posts_texto/clase-14-amortizacion-de-las-mejoras.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [🔥 Descuento del 20% en la suscripción anual Premium. Solo hasta el domingo.](posts_texto/descuento-del-20-en-la-suscripcion.md) | texto_normal | OK
+- [🏥 ¿Alquilas un geriátrico ya montado? Igual un geriátrico no...pero.. ¿Y otro tipo de negocio?](posts_texto/alquilas-un-geriatrico-ya-montado.md) | texto_normal | OK
+- [#Clase 13: Amortización del Mobiliario](posts_texto/clase-13-amortizacion-del-mobiliario.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [Decrecer para CRECER más rápido.](posts_texto/decrecer-para-crecer-mas-rapido.md) | texto_normal | OK
+- [🏢 ¿Tienes una sociedad civil que alquila inmuebles? ](posts_texto/tienes-una-sociedad-civil-que-alquila.md) | texto_normal | OK
+- [🏠💼 ¿Alquilas tu piso a una empresa para que lo use uno de sus empleados? ](posts_texto/alquilas-tu-piso-a-una-empresa-para.md) | texto_normal | OK
+- [Cómo un ´´buen`` piso, PUEDE ser una operación fiscalmente MALÍSIMA.](posts_texto/como-un-buen-piso-puede-ser-una-operacion.md) | texto_normal | OK
+- [El mayor erorr de un inversor inmobiliario es la falta de planificación fiscal.](posts_texto/el-mayor-erorr-de-un-inversor-inmobiliario.md) | texto_normal | OK
+- [🏘️ ¿Tienes pisos en alquiler y estás pensando en meterlos en una sociedad? ](posts_texto/tienes-pisos-en-alquiler-y-estas.md) | texto_normal | OK
+- [Hacer un flip siendo persona física puede ser una ruina fiscal.](posts_texto/hacer-un-flip-siendo-persona-fisica.md) | texto_normal | OK
+- [🚙 ¿Tienes un todoterreno solo para tu actividad profesional? Esto es lo que Hacienda dice sobre deducírtelo](posts_texto/tienes-un-todoterreno-solo-para-tu.md) | texto_normal | OK
+- [#Clase 12: Otros gastos deducibles en el RCI](posts_texto/clase-12-otros-gastos-deducibles.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [¿Crear una sociedad o adquirir una sociedad creada? La mejor opción.](posts_texto/crear-una-sociedad-o-adquirir-una.md) | texto_normal | OK
+- [#Clase 11: Los gastos de reparación y conservación](posts_texto/clase-11-los-gastos-de-reparacion.md) | podcast_video_sin_transcripcion_substack | OK
+- [¿Cómo proteger tú patrimonio inmobiliario a través de Sociedades Patrimoniales?](posts_texto/como-proteger-tu-patrimonio-inmobiliario.md) | texto_normal | OK
+- [#Clase 10: Los intereses y gastos de financiación](posts_texto/clase-10-los-intereses-y-gastos-de.md) | podcast_video_sin_transcripcion_substack | OK
+- [DEBES analizar correctamente los números en una operación de flipping...antes de entrar....](posts_texto/debes-analizar-correctamente-los.md) | texto_normal | OK
+- [No cometas el mismo ERROR que Rubén con sus inversiones inmobiliarias....](posts_texto/no-cometas-el-mismo-error-que-ruben.md) | texto_normal | OK
+- [🏘️ Disolver una sociedad inmobiliaria y adjudicar inmuebles a los socios: la guía fiscal definitiva (con ejemplos)](posts_texto/disolver-una-sociedad-inmobiliaria.md) | texto_normal | OK
+- [🌍 ¿Tu empresa extranjera alquila almacenes en España? Entonces esto te interesa (y mucho)](posts_texto/tu-empresa-extranjera-alquila-almacenes.md) | texto_normal | OK
+- [Lo que ningún gurú del sector te cuenta pero que deberías saber siendo un pequeño inversor inmobiliario...](posts_texto/lo-que-ningun-guru-del-sector-te.md) | texto_normal | OK
+- [Adapta tú estrategia de inversión a tú situación fiscal..](posts_texto/adapta-tu-estrategia-de-inversion.md) | texto_normal | OK
+- [🏡 ¿Alquilas pisos turísticos? Este es el error que muchos cometen con Hacienda sin saberlo](posts_texto/alquilas-pisos-turisticos-este-es.md) | texto_normal | OK
+- [Un suscriptor me pide ayuda...](posts_texto/un-suscriptor-me-pide-ayuda.md) | texto_normal | OK
+- [#Clase 9: La Amortización Fiscal del Inmueble](posts_texto/clase-9-la-amortizacion-fiscal-del.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [Desconocer la normativa fiscal te puede hacer perder dinero....](posts_texto/desconocer-la-normativa-fiscal-te.md) | texto_normal | OK
+- [⚠️ Cuidado con la escisión de tu empresa: ¿Pagarás más impuestos?](posts_texto/cuidado-con-la-escision-de-tu-empresa.md) | texto_normal | OK
+- [Hacer flipping esta de moda...](posts_texto/hacer-flipping-esta-de-moda.md) | texto_normal | OK
+- [Los errores en la inversión inmobiliaria SON CAROS....](posts_texto/los-errores-en-la-inversion-inmobiliaria.md) | texto_normal | OK
+- [🏠💥 Alquilas pisos turísticos de otros propietarios: lo que Hacienda no va a dejar pasar](posts_texto/alquilas-pisos-turisticos-de-otros.md) | texto_normal | OK
+- [Cuidado al precio al que vendes tú piso...](posts_texto/cuidado-al-precio-al-que-vendes-tu.md) | texto_normal | OK
+- [Así te puedas aplicar la mayor ventaja fiscal por alquilar inmuebles en la RENTA 2024...](posts_texto/asi-te-puedes-aplicar-la-reduccion.md) | texto_normal | OK
+- [#Clase 8: Gastos Deducibles (Cuestiones Comunes)](posts_texto/clase-8-gastos-deducibles-cuestiones.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [🚗💸 ¿Puedo desgravar el coche si lo uso para gestionar mis pisos en alquiler?](posts_texto/puedo-desgravar-el-coche-si-lo-uso.md) | texto_normal | OK
+- [#Clase 7: Ingresos por arrendamientos](posts_texto/clase-7-ingresos-por-arrendamientos.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [¿Quieres seguir perdiéndote el mejor contenido de valor?](posts_texto/quieres-seguir-perdiendote-el-mejor.md) | texto_normal | OK
+- [¿Debe tu asociación pagar IVA por el alquiler de viviendas?](posts_texto/debe-tu-asociacion-pagar-iva-por.md) | texto_normal | OK
+- [¿Cómo tributa la aportación de bienes donados a una sociedad? ](posts_texto/como-tributa-la-aportacion-de-bienes.md) | texto_normal | OK
+- [#Clase 6: Cálculo del Rendimiento de Capital Inmobiliario.](posts_texto/clase-6-calculo-del-rendimiento-de.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [🏡💰 Fiscalidad en la Venta de Viviendas Promovidas por Comunidades de Bienes ](posts_texto/fiscalidad-en-la-venta-de-viviendas.md) | texto_normal | OK
+- [¡Cuidado con las escisiones parciales en inmobiliario!](posts_texto/cuidado-con-las-escisiones-parciales.md) | texto_normal | OK
+- [#Clase 5: Imputación de Rentas Inmobilirias.](posts_texto/clase-5-imputacion-de-rentas-inmobilirias.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [¿Reformas antes de alquilar?](posts_texto/reformas-antes-de-alquilar.md) | texto_normal | OK
+- [Reparaciones en tu edificio alquilado: ¿puedes deducirlas en el IRPF?](posts_texto/reparaciones-en-tu-edificio-alquilado.md) | texto_normal | OK
+- [#Episodio 1: Serrasola Inversiones](posts_texto/episodio-1-serrasola-inversiones.md) | podcast_audio_con_transcripcion_substack | OK
+- [¿Quién paga impuestos por el alquiler? ](posts_texto/quien-paga-impuestos-por-el-alquiler.md) | texto_normal | OK
+- [Invertir a través de COMUNIDADES DE BIENES...](posts_texto/invertir-a-traves-de-comunidades.md) | texto_normal | OK
+- [#Clase 4: Clases de Rendimientos de Capital](posts_texto/clase-4-clases-de-rendimientos-de.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [Aportación de Participaciones y Régimen Especial del Impuesto sobre Sociedades.](posts_texto/aportacion-de-participaciones-y-regimen.md) | texto_normal | OK
+- [¿Qué IVA se aplica a las obras de mejora en una vivienda en construcción?](posts_texto/que-iva-se-aplica-a-las-obras-de.md) | texto_normal | OK
+- [Cómo ahorrar impuestos siendo no residente..](posts_texto/argentina-patria-querida.md) | texto_normal | OK
+- [#Clase 3: Masterclass Persona Física vs Sociedad ](posts_texto/clase-3-masterclass-persona-fisica.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [¿Comprar más participaciones de tu sociedad patrimonial puede hacerte pagar el ITP como si compraras un inmueble? ](posts_texto/comprar-mas-participaciones-de-tu.md) | texto_normal | OK
+- [Crear una holding para gestionar tus inversiones: ¿Cómo afecta a los impuestos? ](posts_texto/crear-una-holding-para-gestionar.md) | texto_normal | OK
+- [Simplificar holding para eliminar duplicidad de gastos](posts_texto/simplificar-holding-para-eliminar.md) | texto_normal | OK
+- [#Clase 2: Imputación temporal de rentas](posts_texto/clase-2-imputacion-temporal-de-rentas.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [No hagas esto si VENDES un piso..](posts_texto/cuidado-con-la-forma-en-la-que-vendes.md) | texto_normal | OK
+- [Cuidado al declarar el ITP...](posts_texto/cuidado-al-declarar-el-itp.md) | texto_normal | OK
+- [He traicionado los pilares de mi estrategia de inversión con mi última operación.](posts_texto/nuevo-inmueble-para-mi-cartera-personal.md) | texto_normal | OK
+- [#Clase 1: Estructura del IRPF](posts_texto/clase-1-estructura-del-irpf.md) | video_o_podcast_principal_con_transcripcion_substack | OK
+- [¿Qué ocurre cuando una casa construida para la venta se destina al alquiler?](posts_texto/que-ocurre-cuando-una-casa-construida.md) | texto_normal | OK
+- [Me comprometí contigo y cumplo mi palabra..](posts_texto/me-comprometi-contigo-y-cumplo-mi.md) | texto_normal | OK
+- [Guarda este mail para cuando seas presidente de tú Comunidad..](posts_texto/he-mentorizado-al-presidente-de-una.md) | texto_normal | OK
+- [Debes leer este mail sino quieres ser engañado/a..](posts_texto/debes-leer-este-mail-sino-quieres.md) | texto_normal | OK
+- [He conseguido ahorrar 24.080 euros a un inversor..](posts_texto/he-conseguido-ahorrar-24080-euros.md) | texto_normal | OK
+- [No puedes cometer estos ERRORES](posts_texto/no-puedes-cometer-estos-errores.md) | texto_normal | OK
+- [El Gobierno te ´´discrimina`` como residente fiscal español..](posts_texto/el-gobierno-te-discrimina-como-residente.md) | texto_normal | OK
+- [Lo que no te estoy contando (pero debería)](posts_texto/lo-que-no-te-estoy-contando-pero.md) | texto_normal | OK
+- [Si te planteas hacer un CAMBIO DE USO..](posts_texto/si-te-planteas-hacer-un-cambio-de.md) | texto_normal | OK
+- [Este inversor está jodido..](posts_texto/este-inversor-esta-jodido.md) | texto_normal | OK
+- [He vendido una vivienda que he tenido ALQUILADA previamente..](posts_texto/he-vendido-una-vivienda-que-he-tenido.md) | texto_normal | OK
+- [¿Alquilas habitaciones en tu vivienda habitual? Así afecta a tu IRPF y a la exención por venta de vivienda habitual](posts_texto/alquilas-habitaciones-en-tu-vivienda.md) | texto_normal | OK
+- [12 euros.](posts_texto/el-mail-que-estabas-esperando.md) | texto_normal | OK
+- [¿ITP al 5% en Comunidad Valenciana?](posts_texto/itp-al-5-en-comunidad-valenciana.md) | texto_normal | OK
+- [Implementa está ESTRATEGIA de inversión y tu patrimonio crecerá EXPONENCIALMENTE.](posts_texto/implementa-esta-estrategia-de-inversion.md) | texto_normal | OK
+- [Verdades de la inversión en el sector inmobiliario](posts_texto/verdades-de-la-inversion-en-el-sector.md) | texto_normal | OK
+- [Comprar pisos para alquilar NO es la opción fiscal más óptima](posts_texto/comprar-pisos-para-alquilar-no-es.md) | texto_normal | OK
+- [Cómo sacar dinero de tu SL sin que Hacienda te coma vivo](posts_texto/como-sacar-dinero-de-tu-sl-sin-que.md) | texto_normal | OK
+- [El mejor truco para escalar una cartera de inmuebles..](posts_texto/te-cuento-el-mayor-truco.md) | texto_normal | OK
+- [Este concepto fiscal será tu salvación en 2025](posts_texto/este-concepto-fiscal-sera-tu-salvacion.md) | texto_normal | OK
+- [Si tienes inmuebles alquilados y perteneces a este colectivo..](posts_texto/si-tienes-inmuebles-alquilados-y.md) | texto_normal | OK
+- [Si gestionas habitaciones o pisos de otros inversores, DEBES leer esto..](posts_texto/gestionas-alquileres-por-habitaciones.md) | texto_normal | OK
+- [Método para ahorrar hasta 10.000 euros..](posts_texto/metodo-para-ahorrar-hasta-10000-euros.md) | texto_normal | OK
+- [¿Intermedias en el alquiler de viviendas vacacionales? Esto es lo que debes saber sobre el IVA](posts_texto/intermedias-en-el-alquiler-de-viviendas.md) | texto_normal | OK
+- [Cerramos 2024 y Abrimos 2025](posts_texto/cerramos-2024-y-abrimos-2025.md) | texto_normal | OK
+- [¿Persona física o sociedad? La gran pregunta en inversión inmobiliaria](posts_texto/persona-fisica-o-sociedad-la-gran.md) | texto_normal | OK
+- [¿Alquiler de casas rurales? Cuidado con el IVA y el IAE](posts_texto/alquiler-de-casas-rurales-cuidado.md) | texto_normal | OK
+- [¿Puedo deducir los alquileres impagados en mi declaración de la renta? Un caso práctico](posts_texto/puedo-deducir-los-alquileres-impagos.md) | texto_normal | OK
+- [🏡 ¿Vas a descalificar una vivienda protegida? Esto es lo que debes saber sobre los gastos deducibles](posts_texto/vas-a-descalificar-una-vivienda-protegida.md) | texto_normal | OK
+- [¿Es DICIEMBRE el mes de los descuentos inmobiliarios? Te cuento los números de mi siguiente operación...](posts_texto/es-diciembre-el-mes-de-los-descuentos.md) | texto_normal | OK
+- [🏢 Alquileres, comunidades de bienes y fiscalidad: ¿Qué pasa con el ITP y el IRPF?](posts_texto/alquileres-comunidades-de-bienes.md) | texto_normal | OK
+- [🏠 ¿Alquilar mi vivienda a una empresa? Ojo con el IVA y el IRPF](posts_texto/alquilar-mi-vivienda-a-una-empresa.md) | texto_normal | OK
+- [Consulta de un cliente: ¿Puedo arrendar mi inmueble como vivienda y qué implica fiscalmente? 🏠](posts_texto/consulta-de-un-cliente-puedo-arrendar.md) | texto_normal | OK
+- [¿Sabías que puedes donar el usufructo de un inmueble a tu hijo y cómo impacta eso en tu fiscalidad? 🏠💡](posts_texto/sabias-que-puedes-donar-el-usufructo.md) | texto_normal | OK
+- [¡Atención, propietarios de inmuebles para alquiler turístico! 🏡💼](posts_texto/atencion-propietarios-de-inmuebles.md) | texto_normal | OK
+- [¿Puedo deducir las obras de eficiencia energética si alquilo mi casa como vivienda turística?](posts_texto/puedo-deducir-las-obras-de-eficiencia.md) | texto_normal | OK
+- [¿Estás cediendo tu vivienda en usufructo? Descubre qué gastos puedes deducir y cómo optimizar tu declaración de la renta.](posts_texto/estas-cediendo-tu-vivienda-en-usufructo.md) | texto_normal | OK
+- [¿Hiciste reformas en una casa antes de venderla? Esto es lo que Hacienda tiene en cuenta 🔧🏠](posts_texto/hiciste-reformas-en-una-casa-antes.md) | texto_normal | OK
+- [¿Sabías que puedes deducir los gastos de reparación de tus pisos en alquiler? 🛠️💸](posts_texto/sabias-que-puedes-deducir-los-gastos.md) | texto_normal | OK
+- [Ejemplo de un cliente con una operación de Flipping House...](posts_texto/ejemplo-de-un-cliente-con-una-operacion.md) | texto_normal | OK
+- [Pasos para constituir una S.L y hacer Flipping Houses...](posts_texto/pasos-para-constituir-una-sl-y-hacer.md) | texto_normal | OK
+- [¿Cómo adquirir S.L inactivas?](posts_texto/como-adquirir-sl-inactivas.md) | texto_normal | OK
+- [Comprar S.L inactivas para invertir en el sector Inmobiliario....](posts_texto/comprar-sl-inactivas-para-invertir.md) | texto_normal | OK
+- [Una de las grandes ventajas fiscales en la inversión inmobiliaria... ](posts_texto/una-de-las-grandes-ventajas-fiscales.md) | texto_normal | OK
+- [¿Cuánto cuesta aportar un inmueble a una Sociedad?](posts_texto/cuanto-cuesta-aportar-un-inmueble.md) | texto_normal | OK
+- [La estructura fiscal que utilizan los ricos/políticos....](posts_texto/la-estructura-fiscal-que-utilizan.md) | texto_normal | OK
+- [¿La mejor estructura fiscal?](posts_texto/la-mejor-estructura-fiscal.md) | texto_normal | OK
+- [Hacienda ataca... y ¡fuerte!](posts_texto/hacienda-ataca-y-fuerte.md) | texto_normal | OK
+- [Mi última gran operación con miembros de mi Comunidad...](posts_texto/mi-ultima-gran-operacion-con-miembros.md) | texto_normal | OK
+- [Constituyo una SL para invertir... ¡te explico el porqué!](posts_texto/constituyo-una-sl-para-invertir-te.md) | texto_normal | OK
+- [Cómo Adrián va a comprar su primer piso sin ahorros....](posts_texto/como-adrian-va-a-comprar-su-primer.md) | texto_normal | OK
+- [No cometas este grave error al declarar tus alquileres](posts_texto/no-cometas-este-grave-error-al-declarar.md) | texto_normal | OK
+- [AVALES ICO: ¿En qué consisten?](posts_texto/avales-ico-en-que-consisten.md) | texto_normal | OK
+- [Hacer Flips sale más ´´barato`` bajo esta modalidad](posts_texto/hacer-flips-sale-mas-barato-bajo.md) | texto_normal | OK
+- [Incendio del edificio de Valencia: ¿Cómo funciona el seguro de hogar?](posts_texto/incendio-del-edificio-de-valencia.md) | texto_normal | OK
+- [Esta estrategia de inversión no la verás en cualquier sitio...](posts_texto/esta-estrategia-de-inversion-no-la.md) | texto_normal | OK
+- [¿Estás teniendo en cuenta tu IRPF marginal en tus inversiones? Sino es así, ¡esto te interesa!](posts_texto/estas-teniendo-en-cuenta-tu-irpf.md) | texto_normal | OK
+- [ITP: ¿Cómo afecta a tu inversión inmobiliaria?](posts_texto/itp-como-afecta-a-tu-inversion-inmobiliaria.md) | texto_normal | OK
+- [Si haces Rent to Rent, ¡esto te interesa!](posts_texto/si-haces-rent-to-rent-esto-te-interesa.md) | texto_normal | OK
+- [Nueva apuesta de la Comunidad de Madrid en su oferta de vivienda de obra nueva.](posts_texto/nueva-apuesta-de-la-comunidad-de.md) | texto_normal | OK
+- [No entiendo el concepto de amortización de IRPF, ¿Se corresponde con el importe de amortización de la cuota de la hipoteca? ](posts_texto/no-entiendo-el-concepto-de-amortizacion.md) | texto_normal | OK
+- [Directo y al grano!](posts_texto/directo-y-al-grano.md) | texto_normal | OK
+- [¿Sabes que es el IRPF?](posts_texto/sabes-que-es-el-irpf.md) | texto_normal | OK
+- [Es importante saberlo!](posts_texto/es-importante-saberlo.md) | texto_normal | OK

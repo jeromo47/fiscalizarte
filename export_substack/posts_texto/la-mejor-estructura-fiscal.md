@@ -1,0 +1,55 @@
+# ¿La mejor estructura fiscal?
+
+- URL: https://fiscalizarte.substack.com/p/la-mejor-estructura-fiscal
+- tipo_clasificado: texto_normal
+- transcript_source: none
+- estado_extraccion: OK
+
+## body_text
+
+Lo prometído es deuda.
+Hace unos días compartí una historia en mi cuenta de instagram donde preguntaba a mis seguidores por los errores que estaba cometiendo un inversor que se ha mentorizado conmigo…
+Te pongo en situación…… se trata de un médico-inversor, que para ejercer su actividad profesional, tiene constituida una S.L con 10 trabajadores a su cargo.
+Se trata una sociedad que como habrás podido imaginar, está obteniendo un beneficio considerable.
+¿Y porqué me ha concertado a mí la mentoría? Porqué con parte del beneficio que está generando está comprando pisos para explotarlos..
+¿Y cómo lo está haciendo?… ¡Muy fácil!… todo con la misma sociedad..
+¿Y con el resto del beneficio?…al final de año, se lo extrae vía dividendos a su persona física.
+Cómo te podrás imaginar…¡está cometiendo dos grandes errores..!
+Errores que son totalmente vísibles a simple vista.
+El primero error
+…sacar a su persona física parte del beneficio vía dividendos.
+Esto implica una doble tributación del beneficio generado por la Sociedad: en primer lugar el 25% del IS…y en segundo lugar, los diferentes tramos de la base del ahorro en el IRPF a los que tributan los dividendos).
+¿Cúal es el segundo error que está cometiendo?
+Unificar dentro de la misma Sociedad, la propia actividad de la clínica con el patrimonio que está generando en inmuebles.
+Es un error gravísimo… dado que si la empresa se va al trasto, responde con todo su patrimonio.
+Principio básico…  ¡compartimentar cada área de negocio!
+¿Qué solución propones para reorganizar?
+¡Esa fue la pregunta que me hizo!
+Pues a continuación, la solución más viable que le he propuesto.
+Le he propuesto crear una sociedad patrimonial para la adquisición de inmuebles y su explotación. De esta forma, puede separar la actividad de la clínica y el patrimonio personal presente y futuro.
+Ahora bien, ¿cómo mover el beneficio de la clínica (sociedad operativa) hacia la patrimonial?
+La solución fiscalmente más óptima,
+es la creación de una estructura holding.
+Está estructura holding, estaría conformada por una sociedad matriz (cabecera) y dos sociedades participadas (la operativa y la patrimonial). Por cada área de negocio nueva en el futuro, es conveniente que se haga mediante la creación de nuevas participadas y dentro de la estructura holding.
+De esta forma, subir los dividendos de la sociedad operativa (clínica) hacia la matriz estaría bonificado al 95%. Pasaría a pagar aproximadamente un 1,25%.
+Posteriormente de la Sociedad matriz (cabecera) debe bajar el dinero hacia la sociedad patrimonial para adquirir los pisos y posteriormente explotarlos.
+Además, si la sociedad patrimonial cumple con ciertos requisitos, el tipo del IS puede pasar de un 25% (con caracter general) a un 15%. Diez puntos porcentales menos, no es tontería.
+Obviamente…montar esta estructura fiscal de este tipo, tiene un coste que no todo empresario puede costear.
+Te estarás preguntando cuanto puede costar montar una estructura de este tipo, ¿verdad?
+En España el coste de montar una estructura holding puede variar entre 6.000 a 20.000 euros. Por lo que suele ser una estructura utilizada por empresas que generan un beneficio considerable.
+A partir de 60.000 euros de beneficio, empieza a ser óptimo una estructura fiscal de este tipo, pero
+no solo dependerá del beneficio,
+tambíen de lo que se quiera hacer el dinero.
+Se trata de una estructura ideal para reinvertir capital ya sea en la sociedad operativa (no sale el dinero y se queda en la sociedad) o reinvertir en sociedades que formen parte del holding.
+La mentoría no acabo aquí…
+La siguiente pregunta fue esta:
+¿cómo puedo combinar esta estructura con la posibilidad futura de dejar el patrimonio a mis hijos?
+Aquí entra en juego el impuesto de sucesiones y donaciones…
+La respuesta a la pregunta, te la voy a dar en la siguiente entrega de esta newsletter, pero te adelanto una pista..
+Dependerá de la consideración que se le de a la empresa matriz del holding, y para la que tendrá que cumplir una serie de requisitos.
+No olvides suscribirte si te interesa este tipo de contenido.
+¡Gracias por leer este contenido!
+
+## transcript_text
+
+

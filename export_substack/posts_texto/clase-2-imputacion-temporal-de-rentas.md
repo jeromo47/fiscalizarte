@@ -1,0 +1,38 @@
+# #Clase 2: Imputación temporal de rentas
+
+- URL: https://fiscalizarte.substack.com/p/clase-2-imputacion-temporal-de-rentas
+- tipo_clasificado: video_o_podcast_principal_con_transcripcion_substack
+- transcript_source: substack_video
+- estado_extraccion: OK
+
+## body_text
+
+Seguimos avanzando en el curso sobre fiscalidad inmobiliaria.
+Aprovecho la #clase 2 para explicarte un concepto muy importante, y el cúal debes tener SIEMPRE en cuenta para orientar y dirigir tú estrategía de inversión.
+Te hablo sobre la
+imputación temporal de rentas
+.
+La Ley del IRPF es clara en este sentido.
+Dependiendo del tipo de rendimiento generado, la imputación de rentas se realiza de forma distinta.
+Aplicando exclusivamente este concepto a la inversión inmobiliaria, podemos distinguir dos tipos de rendimientos:
+Rendimientos de Capital (ya sean inmobiliarios o mobiliarios): se incluye dentro de este grupo los rendimientos por alquiler. Es decir, los rendimientos que generan los pisos que tenemos alquilados.
+Ganancias o Pérdidas Patrimoniales: se incluye aquí los rendimientos generados por la venta de inmuebles de nuestra propiedad.
+Saber como afecta la imputación de rentas para cada uno de los grupos anteriores, es clave para realizar una correcta planificación de la tesorería personal.
+Por ejemplo, no es lo mismo vender un piso el 30 de diciembre del  2024 que hacerlo en  3 de enero del ejercicio 2025.
+Solo 4 días despúes.
+Pero esos 4 días marcarán la diferencia.
+Porque el hecho de hacerlo  4 días después, hará que no tengamos que pagar impuestos por esa venta hasta dentro de 1 año y medio.
+Es decir, cuando se declaren los rendimientos del ejercicio fiscal 2025 (mediados del año 2026).
+Y por consiguiente, pudiendo mover ese capital para seguir generando rentabilidad.
+Estos conceptos que parecen tan evidentes, se desconocen por la mayoría de inversores inmobiliarios.
+Ese el motivo por el cúal estoy creando este curso sobre fiscalidad inmobiliaria.
+Para qué puedas conocer lo que realmente importa, y puedas llevarlo a la práctica.
+Te dejo con el video de la #clase 2: Imputación temporal de rentas.
+Espero que te aporte conocimiento y valor.
+Un saludo,
+Manu,
+Fiscalizarte.
+
+## transcript_text
+
+Hola, hoy os voy a hablar del concepto de imputación temporal. Haciendo memoria de la clase anterior, hay que recordar que la estructura del IRPF estaba conformada por dos bases o dos rectas. Por un lado la base general y por otro lado la base del ahorro. Y que dependiendo del concepto fiscal generado como contribuyente, había que integrarlo en la base general o en la base del ahorro. la imputación temporal de estos conceptos fiscales dependerá del tipo de rendimiento generado. Es decir, la imputación temporal de un rendimiento de capital inmobiliario, es decir, los alquileres, no será la misma que la de una ganancia o una pérdida patrimonial generada con la venta de un inmueble. Bien, en el caso de los rendimientos de capital inmobiliario, la ley del IRPF es clara y dice que Estos rendimientos se deben imputar en renta en el momento en que son exigibles por el perceptor de los ingresos. Es decir, suponer que vosotros como propietarios de un inmueble que tenéis alquilado tenéis que percibir una renta a cambio y que para ello habéis firmado un contrato de arrendamiento en el cual habéis pactado con el inquilino que os tiene que ingresar esa renta entre los días 1 y 5 de cada mes. pues en ese momento cuando tú como perceptor puedes exigirle que te pague. Y en ese caso, pues la normativa dice que tienes que declarar esos ingresos en el momento en el que deben ser percibidos, es decir, en ese mes o en esa mensualidad. Claro, esto entra en confrontación cuando tenemos un piso alquilado en el cual el inquilino no nos paga el alquiler, es decir, sufrimos un caso de impago. la norma sigue aplicándose de forma igual, es decir, será en ese mismo momento cuando yo deba declarar esos ingresos por alquiler independientemente de que los inquilinos no me hayan pagado. Sí que es cierto que, como veremos en clases siguientes, la ley del IRPF nos permite deducir dentro de la partida de gastos deducibles aquellas mensualidades impagadas las cuales hayan transcurrido más de seis meses desde que el impago se ha hecho firme. al incluir como gasto deducible esas mensualidades impagadas con más de seis meses de firmeza, nos podrá permitir que el efecto neutro en renta sea cero. Es decir, si nosotros como contribuyentes deberemos ingresar, deberemos declarar como ingresos esas mensualidades no pagadas, pero por otro lado como contribuyentes también nos podemos deducir esas mensualidades no pagadas como gasto deducible, El efecto será cero, será neutro. Como digo, veremos ante casos de impago cómo hay que declarar estas rentas y qué gasto deducible nos podemos incluir. Lo veremos en clase siguiente. Ahora quiero que veáis también la imputación temporal de la ganancia o pérdidas patrimoniales. Y la normativa del IRPF también es clara en este sentido. Y nos dice que se deben imputar cuando tiene lugar la alteración patrimonial. Es decir, cuando se ha producido efectivamente la venta del inmueble y esa venta se ha documentado en escritura pública de venta. Por ejemplo, imaginad que vosotros como inversores que os dedicáis a comprar, reformar y vender inmuebles, compráis un inmueble durante el ejercicio 2024, firmáis el contrato de arras de venta en diciembre del 2024, pero no se materializa la venta ante escritura pública hasta febrero del 2025. Aplicando la normativa del IRPF, esa ganancia matrimonial generada por la venta de ese inmueble, como se formaliza en escritura en febrero del 2025, se deberá declarar en el ejercicio fiscal 2025. Esto es muy importante saberlo a efectos de una adecuada situación de tesorería como inversor, es decir, del cash disponible. Me encuentro a inversores que comúnmente intentan señalizar o acordar arras a finales del ejercicio fiscal, pero no realizar la escritura de venta hasta el ejercicio siguiente. ¿Por qué? Pues porque así... ampliando en el plazo la necesidad de pagar impuestos sobre ese inmueble teniendo esa disponibilidad dineraria de cash del dinero que no se ingresa el impuesto hasta el ejercicio siguiente para poder seguir haciendo operaciones. Espero que en este mini vídeo el concepto de imputación temporal de renta os haya podido quedar lo suficientemente claro y en clases siguientes profundizaremos en el cálculo de los ingresos y de los gastos para llegar al resultado que se debe declarar en renta y calcular la carga fiscal de nuestros inmuebles alquilados un saludo

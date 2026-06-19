@@ -1,0 +1,148 @@
+# #Clase 32: El régimen fiscal que puede ahorrarte una hostia de impuestos al aportar tus inmuebles a una sociedad.
+
+- URL: https://fiscalizarte.substack.com/p/clase-32-el-regimen-fiscal-que-puede
+- tipo_clasificado: video_o_podcast_principal_con_transcripcion_substack
+- transcript_source: substack_video
+- estado_extraccion: OK
+
+## body_text
+
+Hay una frase que se repite mucho en el mundo inmobiliario.
+Muchísimo.
+Demasiado.
+“Voy a crear una sociedad patrimonial y voy a meter ahí mis pisos”.
+Suena bien.
+Suena sofisticado.
+Suena a que por fin vas a dejar de tributar como un pardillo en IRPF.
+El problema es que, muchas veces, esa frase viene justo después de haber hecho mal los deberes durante años.
+Comprar.
+Alquilar.
+Acumular rentas.
+Volver a comprar.
+Volver a alquilar.
+Y así hasta que un día haces números y te das cuenta de una cosa bastante desagradable:
+tienes un patrimonio inmobiliario considerable, unas rentas que se te van a la base general del IRPF y un tipo medio que empieza a doler.
+Entonces viene el momento Instagram.
+Has leído por ahí que “lo ideal” es tener una sociedad patrimonial.
+Que así tributas menos.
+Que así ordenas mejor tu patrimonio.
+Que así eres más empresario, más fiscalmente eficiente y más listo que el resto.
+Así que vas a tu gestor de toda la vida y le dices:
+“Oye, quiero crear una sociedad patrimonial y aportar mis inmuebles”.
+Y aquí empieza el espectáculo.
+Silencio.
+Titubeos.
+Caras raras.
+“Bueno, habría que verlo…”
+“Eso puede tener coste…”
+“Puede haber ganancia patrimonial…”
+“Quizá no compensa…”
+Y claro que puede haber coste.
+Porque cuando aportas inmuebles de tu patrimonio personal a una sociedad, Hacienda no se queda mirando con los brazos cruzados.
+Si esos inmuebles se han revalorizado, puede aparecer la famosa
+ganancia latente
+.
+Es decir:
+Compraste barato.
+Ahora vale más.
+Lo aportas a una sociedad.
+Y Hacienda puede decir:
+“Muy bien. Pasa por caja”.
+Aunque no hayas vendido.
+Aunque no hayas cobrado ni un euro.
+Aunque simplemente estés reorganizando tu patrimonio.
+Una maravilla.
+Pero aquí viene lo importante.
+En la
+clase 32 del curso Aprende Fiscalidad Inmobiliaria
+hablo de un régimen fiscal que muchos inversores desconocen.
+Y no solo inversores.
+También muchos gestores y asesores fiscales tradicionales.
+Un régimen regulado en la Ley del Impuesto sobre Sociedades que, si cumples ciertos requisitos muy estrictos, puede permitirte aportar inmuebles a una sociedad patrimonial
+sin tributar por esa ganancia latente en ese momento
+.
+Dicho de forma simple:
+esa ganancia latente de la que tanto se habla podría quedar fiscalmente neutralizada.
+Cero euros de tributación en ese momento.
+Pero ojo.
+No te emociones todavía.
+Porque este no es el típico truco barato de Instagram.
+No es magia.
+No es “crea una SL y paga menos impuestos”.
+No es el consejo de bar de un inversor que ha visto tres vídeos en YouTube y ya cree que entiende de fiscalidad.
+Este régimen tiene requisitos.
+Y son requisitos duros.
+Tan duros que probablemente el
+95% de los inversores inmobiliarios no los cumple
+.
+Pero algunos sí.
+Y ahí está la diferencia entre ir por la vida fiscalmente a ciegas o saber qué opciones existen antes de tomar decisiones de cientos de miles de euros.
+Porque el problema no es que este régimen no exista.
+Existe.
+El problema es que muchos inversores no lo conocen.
+Y muchos asesores tampoco lo explican.
+Entonces el inversor llega tarde.
+Llega cuando ya ha acumulado inmuebles como persona física.
+Llega cuando ya tiene plusvalías latentes enormes.
+Llega cuando las rentas inmobiliarias se le suman al trabajo, a la actividad económica o a otros ingresos.
+Llega cuando el IRPF le empieza a aplastar.
+Y entonces quiere arreglar en una tarde lo que no ha planificado durante años.
+Mal negocio.
+Por eso he grabado esta clase.
+No para venderte humo.
+No para decirte que todo el mundo puede aportar inmuebles a una sociedad patrimonial sin pagar.
+No.
+La clase es precisamente para que entiendas:
+qué régimen fiscal existe,
+cuándo podría aplicarse,
+qué requisitos exige,
+por qué la mayoría de inversores no lo cumplen,
+y cómo detectar si tu asesor sabe realmente de fiscalidad inmobiliaria o simplemente te está improvisando una respuesta.
+Porque esa es otra.
+Cuando tú entiendes estos conceptos, vas al gestor de otra forma.
+Ya no vas diciendo:
+“Me han dicho que monte una sociedad”.
+Vas diciendo:
+“Quiero analizar si puedo aplicar este régimen fiscal concreto para aportar inmuebles a una sociedad sin tributar ahora por la ganancia latente. Estos son los requisitos. Esta es mi situación. ¿Lo vemos?”
+Y ahí pasan dos cosas.
+O tu asesor sabe de lo que hablas.
+O empieza a mirar la pantalla como si le hubieras preguntado por física cuántica.
+Las dos respuestas te dan información.
+Y las dos valen dinero.
+Porque saber si estás bien asesorado también forma parte de invertir bien.
+La clase 32 ya está disponible dentro de
+Fiscalizarte Premium
+, en el curso
+Aprende Fiscalidad Inmobiliaria
+.
+Si estás acumulando inmuebles como persona física.
+Si te estás planteando crear una sociedad patrimonial.
+Si tienes plusvalías latentes importantes.
+Si tus rentas inmobiliarias ya empiezan a hacer daño en IRPF.
+O si simplemente quieres dejar de tomar decisiones fiscales por intuición, por Instagram o por lo que te diga un gestor que no toca inversión inmobiliaria en serio…
+esta clase te interesa.
+Ahora mismo puedes acceder a Fiscalizarte Premium con un
+30% de descuento en la cuota anual
+.
+Te sale por menos de
+120 euros al año
+.
+Menos de 120 euros al año por acceder a contenido fiscal inmobiliario específico para inversores.
+No teoría de manual.
+No frases genéricas.
+No “consulta con tu asesor”.
+Casos reales, clases prácticas y conceptos que pueden marcar la diferencia entre estructurar bien tu patrimonio o regalarle miles de euros a Hacienda por no haber planificado.
+La clase 32 ya está dentro.
+El enlace para entrar con el descuento del 30% te lo dejo aquí:
+[ENLACE A FISCALIZARTE PREMIUM]
+Luego cada uno decide.
+Puedes seguir acumulando inmuebles, pagando IRPF y esperando que tu gestor sepa reaccionar cuando llegue el problema.
+O puedes empezar a entender las reglas fiscales del juego antes de que el juego te pase por encima.
+Un saludo,
+Manu,
+Fiscalizarte.
+Compartir Fiscalizarte - La Newsletter sobre Fiscalidad Inmobiliaria
+
+## transcript_text
+
+Bueno chicos, ¿qué tal? ¿Cómo estáis? Voy a grabar la clase 32 del curso Aprende Fiscalidad Inmobiliaria de la Newsletter. Ya sabéis que tenéis acceso a través de ella. en la sección Aprende Fiscalidad Inmobiliaria. Todas las clases que llevamos grabadas, que hasta el día de hoy son 31, más la que voy a grabar a continuación que son 32. Y en esta clase 32 quiero ver una casuística, quiero que conozcáis que existe un régimen específico Vamos desde el punto de vista teórico, pero quiero que sepáis que en clases siguientes veremos algún ejemplo práctico. ¿De qué es de lo que estoy hablando? Ya he hablado en varias secciones, en varios posts o incluso gente que se ha mentorizado conmigo a las cuales le he hecho cómo inversar una planificación fiscal y patrimonial. Surge la necesidad, en determinadas ocasiones, de replantearnos si estamos haciendo bien las cosas como persona física. Estoy acumulando cierto patrimonio en inmuebles que estoy alquilando. Mis rendimientos de capital inmobiliario cada vez son más, que además lo integro junto al resto de rendimientos que tengo por la base general. Rendimiento del trabajo, si soy trabajado por cuenta ajena o rendimiento de actividad económica, si soy autónomo y realizo una actividad como autónomo. imputaciones de renta inmobiliaria esto también puede ser que tengamos pisos o inmuebles vacíos o inmuebles de segunda residencia es decir mi base general del IRPF que es lo que voy cada vez es mayor y mi tipo medio de gravamen se está elevando muchísimo y entonces me planteo la necesidad de hacer un ejercicio fiscal una planificación fiscal y ver si me interesa seguir haciendo seguir invirtiendo seguir comprando inmuebles como persona física o llegar hasta aquí y decir vale Si yo constituyese una sociedad patrimonial estos inmuebles tendría que aportarlo a esa sociedad patrimonial y a partir de ahí ya empezaría a pagar un 25% del impuesto sobre sociedades esto ya lo sabéis que una sociedad patrimonial siempre por definición pagará a día de hoy un 25% del impuesto sobre sociedades igualmente ingresos menos gastos como el IRPF pero sin poder aplicar las reducciones por vivienda habitual no obstante hay inversores que le interesa invertir a través de una patrimonial. Pero principalmente hay un problema y es que esos inmuebles que yo he ido acumulando como persona física durante años o meses, es decir, indistintamente, esos inmuebles que yo he ido acumulando como persona física, ahora hay que aportarlos a una sociedad patrimonial. Y hay que hacer una operación de reestructuración que se llama aportación no dineraria. Esto es básicamente eso, una operación de reestructuración donde yo cojo y Como persona física soy propietario de 7 pisos y ahora mediante una aportación no dineraria hacia una sociedad que he creado previamente a mi nombre o si tengo inmuebles en conjunto para nombre de varios hago esa aportación no dineraria y paso eso inmueble a esa sociedad patrimonial El hecho de llevar este hecho imponible, este negocio jurídico de aportación no dineraria, lo que origina, como ya sabéis, o he hablado en varias ocasiones, es una ganancia latente, una ganancia patrimonial, se le domina latente porque realmente no ha habido una venta de inmuebles, sino que ha habido un traspaso de inmuebles entre personas, de yo como persona física a mi persona jurídica, perdón, que es mi sociedad, ¿vale? Por eso se le domina ganancia latente, pero produce los mismos efectos fiscales que si se lo hubiese vendido a fulanito de tal que pasa por la calle, que no lo conozco de nada. Es decir, yo como persona física contribuyente deberé declarar en el IRPF del ejercicio fiscal donde se produzca esa aportación no dineraria. Imagínate que yo voy la semana que viene a la notaría y hago esta aportación no dineraria a una sociedad patrimonial En ese mismo día se produce el hecho imponible, por lo tanto, para el ejercicio fiscal 2026, la renta del IRPF del 2026, yo tendré que declarar esa ganancia latente en mi renta. Dependiendo de la evolución del precio, del valor, mejor dicho, del valor que haya tenido esos inmuebles, si yo compré inmuebles como por ejemplo los que tenemos aquí, el caso en pantalla, aquí tenemos que este inversor, Rubén, ha sufrido un incremento de sus muebles desde que los compré de un 10% sobre el valor de adquisición, ¿vale? Es decir, tiene varios muebles, en total le costaron 394.500 euros, ¿vale? Y durante el tiempo, hasta el momento en que se decide por realizar esa aportación no dineraria, sufre un incremento de un 10%. Es decir, hay un incremento patrimonial de 39.450 euros, que es el 10% del precio de adquisición, ¿vale? En este caso Rubén, por realizar esa aportación no dineraria de estos inmuebles que costaron 394.500 euros, deberá declarar en su IRPF del ejercicio 2026 una ganancia patrimonial equivalente a 39.450 euros. Por la base del ahorro se declaran las ganancias patrimoniales. Es decir, que de esta aportación no dineraria Rubén deberá pagar un total de 8.164,50 euros. Aquí ya Rubén ha decidido que sí, que prefiere asumir el coste fiscal de 8.164,50 euros hoy y pasar todo lo que tiene a esa sociedad patrimonial y tributar a través de su sociedad patrimonial y sacarse todo lo que tiene como persona física. Ha hecho ese ejercicio fiscal, esa planificación fiscal que os digo que hay que hacer y ha decidido que sí. que amortiza este coste fiscal en pocos años y a partir de esa amortización empezará a ahorrar impuestos. La pregunta de la clase de hoy, ¿es posible que Rubén se ahorre esos 8.164,50 euros? O alguno de vosotros que esté en esta situación, tenéis que calcular cuál es esa ganancia latente que tenéis vosotros acumulada. La pregunta que me llega es, ¿es posible que yo siendo persona física Pueda ahorrarme y pagar cero euros por aportar estos inmuebles a una sociedad patrimonial. Es decir, aquí ya no estoy hablando de minimizar el coste, ¿no? Ya sabéis que he hablado alguna vez que otra de alguna estrategia alternativa de, pues, si esto me cuesta 8.164, ¿qué opciones tengo para que me cueste menos, ¿vale? Y os hablé en su día de la venta a plazo de estos inmuebles. No, aquí en la clase de hoy estamos hablando de no pagar nada, pagar cero euros, ¿vale? y la respuesta es sí. Es posible, quiero que sepáis que es posible siendo persona física. Ahora os cuento los matices. Es posible, sí, como pongo aquí en la respuesta, sí es posible, pero es muy complicado. Es decir, existe la opción, ahora explicaré cuál y cuáles son los requisitos que hay que cumplir, pero verdaderamente es muy complicado por la complejidad de cumplir esos requisitos, como ahora veremos. ¿Y de qué estoy hablando? De poder aplicarme el régimen FEAC, el régimen de neutralidad fiscal que se llama. Se escucha hablar de este régimen FEAC en sociedades, sobre todo en el tema de la holding y tal, pero a que sepáis que como persona física, ahora veremos cómo, habrá que tener actividad económica como persona física, pero yo sí que me voy a poder aplicar este régimen de neutralidad fiscal. Para que lo entendáis y lo resumo, ¿en qué consiste este régimen de neutralidad fiscal? Llega Rubén y en vez de aportar esos inmuebles al valor que tiene hoy en día, a ese 10% más que le costó y por lo tanto, asumiendo esa ganancia patrimonial, llega Rubén y dice, vale, me voy a acoger al régimen FEAC, al régimen de fusión exicción y aportación no dineraria y canje de valores, de ahí viene la palabra, aportación no dineraria, que es lo que estamos haciendo, esa operación. En vez de aportar estos inmuebles al valor que tienen hoy en día, lo aporto a lo que me costaron, ¿vale? Es decir, lo aporto a esos 394.500. Por lo tanto, si a mí me costaron, es decir, a Rubén le costaron 394.500 y hoy lo he aportado al coste, a 394.500, la ganancia es cero, ¿vale? 394.500 menos 394.500. Es decir, la ganancia en la base de la ahorra es cero, ¿vale? Básicamente, para que lo entendáis, es cómo darle una patada hacia adelante a la pelota. Es decir, yo aporto al coste. Por lo tanto, no tengo ganancia patrimonial. El día que yo quiera sacar ese inmueble de esa sociedad patrimonial o venda esa sociedad patrimonial, sí que lo venderé al precio, al valor real. Por lo tanto, la ganancia acumulada estará acumulada. Por eso digo que siempre os lo explico cómo dar una patada al valor hacia adelante y traspasar esa tributación a ejercicios futuros. A cuando yo Pero, claro, ¿qué me exige la normativa para que yo pueda aplicar este régimen FEA de neutralidad fiscal? Pues esto viene regulado en el artículo 87 de la Ley del Impuesto sobre Sociedades, cuando hablamos del requisito de la aportación no dineraria, que es, vuelvo a repetir, la operación de reestructuración que estamos haciendo en este caso. En definitiva para que lo entendáis cómo se traduce esto es yo aporto por 394.500 y a cambio Rubén recibe participaciones de su sociedad patrimonial por valor de 394.500 es decir aporta inmuebles y recibe participaciones vale pues los títulos o el número de participaciones que se quiera poner en la escritura con el notario se pueden poner 394.500 participaciones de un euro o 39.450 de 100, es decir, eso es a voluntad que constituye la sociedad. Pero lo que quiero que entendáis es que se aporta por un lado inmuebles y se recibe a cambio de participación. ¿Cuáles son los requisitos que me exige el artículo 87? El primero, que la entidad que recibe la aportación sea residente en territorio español o realice actividades en este por medio de un establecimiento permanente. Es decir, básicamente que la sociedad limitada que va a ser la patrimonial resida en España o es decir que no resida fuera de España o si lo hace en algún otro país pues que realice actividad a través de un establecimiento permanente en España. Básicamente lo que quiere Hacienda es que se fiscalice esa sociedad aquí en España para que se entienda. Este requisito se suele cumplir fácilmente. Más si somos residentes fiscales en España. Ahora, si yo soy residente fiscal en España y lo que quiero es constituirme una patrimonía y llevarme esa patrimonía al fuera, pues no estaríamos cumpliendo de la, ¿vale? Pero no es el que más complejidad de cumplir trae. Ahora veremos... Bueno, lo estáis viendo en pantalla porque está en sombra de amarillo, ¿vale? Segundo requisito que hay que cumplir. Hay que... Matizo, hay que cumplirlo todo, ¿vale? No me sirve uno. Todos hay que cumplir, ¿vale? Segundo requisito que una vez realizada la aportación, aportados todos estos inmuebles, el contribuyente aportante de este impuesto, es decir, de la ley del impuesto sobre sociedades, del IRPF o del impuesto sobre la renta no residente, es decir, que el que aporta participe en los fondos propios de esa entidad que recibe la aportación, es decir, que sea propietario como mínimo en un 5% de las participaciones, de ahí para arriba. Yo me encuentro casos de reestructuración donde aportan y solo se quedan con un 3% porque son muchos familiares. Esto se ve mucho en empresas familiares, ¿no? Lo que te exige la normativa es que como mínimo el 5%, 25, 30, 40, 6% me da igual, pero como mínimo el 5, ¿vale? No puedo aportar y quedarme con menos. Lo habitual es que sean sociedades patrimoniales ni personales y por lo tanto este requisito se cumple fácilmente porque Rubén aporta y Rubén es el 100% propietario de las participaciones de la sociedad, ¿vale? Luego tenemos un requisito C, ¿vale? Que en el caso de aportación de acción o participaciones sociales por contribuyentes del impuesto pues sin establecimiento permanente se tendrá que cumplir además los siguientes requisitos es decir aquí lo que se está aportando son otras acciones o participaciones no se está aportando inmuebles se está aportando pues imagínate que yo tengo soy propietario de 25% de mi sociedad patrimonial y le quiero aportar a una sociedad patrimonial que será la dueña del grupo por así decirlo es decir yo hago una aportación de acciones o participaciones no de inmuebles Pues bueno, que sepáis que aquí también lo prevé el artículo 87, ¿vale? Y luego el requisito, bueno, básicamente viene a matizar lo mismo, ¿vale? Que se posean al menos el 5%, que a la entidad de cuyo capital social sean representativos no sean de aplicación al régimen de agrupación interno económico, ¿vale? Y luego el requisito más importante, que es el que no se suele cumplir, ¿vale? Como digo, que la entidad es recibida en España, ¿vale? y que se cuenta al menos con el 5% se suele cumplir fácilmente. Lo que es más complicado de cumplir y ahora lo cuento es en la letra D y es que me dice que en el caso de aportación de elementos patrimoniales distintos de los mencionados en la letra C, aquí estaríamos hablando de inmuebles, por ejemplo, que son elementos patrimoniales que no son acciones o participaciones sociales, en caso de que los contribuyentes que se acogen a este régimen aporten elementos patrimoniales distintos a los anteriores, lo que exigen es que Esos elementos patrimoniales que se aporten estén afectos a actividades económicas, ¿vale? Cuya contabilidad se lleva a cabo con arreglo del Código Civil y legislación equivalente, ¿vale? Entonces, ¿por qué no se suele cumplir este requisito? Porque cuando yo soy persona física y estoy aportando inmuebles, ¿vale? Estoy aportando inmuebles que no están afectos a una actividad económica, ¿vale? Porque estoy fiscalizándolos como rendimiento de capital inmobiliario. Ese es lo típico que nos solemos encontrar, ¿no? Inversor que tiene siete pisos como rendimiento de capital inmobiliario, ¿vale? no estaría aportando una rama de actividad económica que se llama, por lo tanto no estaría cumpliendo el requisito de y no podría acogerse al régimen FEA y por lo tanto tendría que tributar por toda la ganancia de patrimonio acumulada. ¿Qué es lo que se suele recomendar? Pero hay que analizar si interesa o no. Previamente a realizar esta operación de reestructuración de aportación no dineraria para acogerse a este régimen de neutralidad fiscal En vez de yo, en sede de personas físicas, tributar esos inmuebles como rendimiento de capital inmobiliario, le doy actividad económica a esos alquileres, ¿vale? Yo conozco casos de inversores que han acumulado incluso hasta 30 inmuebles como personas físicas, ¿vale? Le dan el carácter de actividad económica. Ya sabéis cuándo se considera que el alquiler de inmuebles es actividad económica, ¿vale? Y es cuando se contrata a una persona a jornada completa, edad de alta en el régimen general, ¿vale? para gestionar esos alquileres. En ese caso, esa actividad de alquiler de inmuebles se considera actividad económica. Por ejemplo, el caso del que hablaba, de este inversor que tenía 30 inmuebles. Lo que se planificó con él es que durante los tres años anteriores a realizar esta aportación no dineraria, acogiendo un régimen de neutralidad fiscal, Vamos a fiscalizar estos inmuebles como rendimiento de actividades económicas en vez de como rendimiento de capital inmobiliario contratando a esa persona jornada completa cuyo sueldo me voy a poder deducir en esos rendimientos de actividades económicas y una vez que haya cumplido esos tres años aporto una rama de actividad económica a una sociedad patrimonial y esa persona que tenía contratada como persona física autónoma pasará a una sociedad y por tanto voy a cumplir, bueno, voy a asumir como mínimo el 5% y la Sociedad Patrimonial va a estar, va a ser su residencia fiscal en España y por lo tanto estoy cumpliendo plenamente el artículo 87 de la ley y por lo tanto me podría coger este régimen de neutralidad fiscal, ¿vale? Que consejo o tip os recomiendo que el notario que os haga esta aportación no dineraria o esta operación de reestructuración que le hagáis añadir una cláusula donde digáis que os estáis acogiendo al régimen de neutralidad fiscal. Esto siempre permite defenderse en caso de que llegue una comprobación y te diga Hacienda que no cumples con estos requisitos. En la escritura del notario se deja claro que yo me acojo a un régimen de neutralidad fiscal porque cumplo los requisitos que me marca el artículo 87 de la LIS. Y ojo, siempre y cuando se haya fiscalizado o se haya aportado, lo habréis escuchado por ahí así, Aportar una rama de actividad económica. A esto se refiere a la letra D del artículo 87. Eso es lo que quiere decir aportar una rama de actividad económica. Es decir, por eso la gran mayoría de los inversores que invertimos como personas físicas sin que se considere actividad económica ese alquiler no podría acogerme al régimen de neutralidad fiscal y por lo tanto tendría que asumir esa ganancia latente que hayan sufrido mis muebles por el transcurso del tiempo, esa revalorización y pagar ese peaje fiscal en IRPF y luego ver si me interesa pagar ese peaje fiscal o no. Dicho esto, no a todo inversor le va a interesar estar esos últimos tres años como autónomo y contratar a una persona a jornada completa. Porque aquí puede ser que me cueste más, como digo siempre, el collage que el perro, ¿vale? Si tengo 5 o 6 pisos y tengo que contratar a una persona con nada completo, régimen general y pagarle 20.000 euros al año, pues seguramente no me interese, ¿vale? Pero si tengo 30 inmuebles con el inversor que os he dicho antes generando un volumen muy importante de ingresos, necesitando de por sí a una persona ya para gestionar esos inmuebles, pues se vio necesario, ¿vale? Se hizo un análisis detallado y se consideró necesario estar tres ejercicios fiscales declarando rendimiento de actividad económica, ¿vale? Pudiendo deducirme de esos rendimientos el sueldo de esa persona jornada completa, cumplir con esos tres años, ¿vale? Y luego aportar esa rama de actividad económica a la sociedad patrimonial y no asumir esa ganancia latente, ¿vale? Esa ganancia patrimonial. Ni que decir queda o ni que decir tiene que durante los tres años que se está como rendimiento de actividad económica no tengo derecho a reducción, ¿vale? Por vivienda habitual. En el caso del inversor que os digo, había inmuebles que perdió esa reducción, pero había otros muchos inmuebles que no se podía aplicar la reducción per se, porque eran alquileres vacacionales o alquileres por temporada. Esto entra ya dentro en, bueno, si estáis en esta situación, asesoraros bien con algún asesor fiscal que sepa hacer este tipo de operaciones de reestructuración, que no hay muchos, sinceramente os lo digo, que os haga bien el cálculo, Hacer números, lo que siempre digo, ¿no? Papel y bolis o Excel, ¿vale? Hacer números, valorar cuánta ganancia tenéis acumulada, ¿vale? Bueno, primero de todo lo que haría es analizar si me interesa pasar a una patrimonial o soy como persona física, ¿vale? En base a vuestra tributación media y vuestro objetivo de inversión, lo que siempre digo. Una vez que sí, que hemos decidido que sí, hago números y mi ganancia latente es X, ¿vale? ¿En cuánto tiempo recupero yo esto aportando a una patrimonial? Y si voy adelante, como el caso de Rubén, que fue adelante, pues... Vale, si yo mantengo esto durante 3 años como rendimiento de actividad económica, voy a pagar X dinero más que como rendimiento de capital inmobiliario. Pero me voy a ahorrar prácticamente... Prácticamente no, me voy a ahorrar el 100% de la ganancia matrimonial. Por lo tanto, me interesa. Estoy durante 3 años contratando a esa persona una jornada completa y al final de los tres años hago la aportación no dineraria cogiendo el régimen FEAT y me ahorro la ganancia patrimonial latente. Modo resumen, artículo 87 de la ley del impuesto sobre sociedades. Requisitos para acogerme al régimen de neutralidad fiscal o también conocido como régimen FEAT, funciones, exiciones, aportaciones no dinerarias y canje de valores regulado en la ley del impuesto sobre sociedades. como digo espero que bueno que eso que se escucha por redes sociales y tal pues que sepáis la verdadera realidad vale que hay que aportar una rama de actividad económica y si no no estaría cumpliendo con el requisito de si con el resto vale como digo los otros son mucho más fáciles de cumplir vale pero el requisito de es el que más cuesta de cumplir y el que tira el 95% de estas operaciones de reestructuración porque no se cumple vale espero que os haya gustado esta clase y como siempre pues bueno Un saludo para todos
